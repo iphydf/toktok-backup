@@ -1,0 +1,28 @@
+[
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://reviewable-prod.appspot-preview.com/github"
+        },
+        "created_at": "2020-04-10T02:45:43Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/hs-cimple/hooks/199850001/deliveries",
+        "events": [
+            "*"
+        ],
+        "id": 199850001,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/hs-cimple/hooks/199850001/pings",
+        "test_url": "https://api.github.com/repos/TokTok/hs-cimple/hooks/199850001/test",
+        "type": "Repository",
+        "updated_at": "2020-04-10T02:45:43Z",
+        "url": "https://api.github.com/repos/TokTok/hs-cimple/hooks/199850001"
+    }
+]

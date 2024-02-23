@@ -1,0 +1,28 @@
+[
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://reviewable-prod.appspot-preview.com/github"
+        },
+        "created_at": "2024-01-09T00:21:06Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/hs-happy-arbitrary/hooks/453605819/deliveries",
+        "events": [
+            "*"
+        ],
+        "id": 453605819,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/hs-happy-arbitrary/hooks/453605819/pings",
+        "test_url": "https://api.github.com/repos/TokTok/hs-happy-arbitrary/hooks/453605819/test",
+        "type": "Repository",
+        "updated_at": "2024-01-09T00:21:06Z",
+        "url": "https://api.github.com/repos/TokTok/hs-happy-arbitrary/hooks/453605819"
+    }
+]

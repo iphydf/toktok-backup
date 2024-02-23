@@ -1,0 +1,28 @@
+[
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://reviewable-prod.appspot-preview.com/github"
+        },
+        "created_at": "2024-01-29T22:19:45Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/hs-msgpack-json/hooks/457686327/deliveries",
+        "events": [
+            "*"
+        ],
+        "id": 457686327,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/hs-msgpack-json/hooks/457686327/pings",
+        "test_url": "https://api.github.com/repos/TokTok/hs-msgpack-json/hooks/457686327/test",
+        "type": "Repository",
+        "updated_at": "2024-01-29T22:19:45Z",
+        "url": "https://api.github.com/repos/TokTok/hs-msgpack-json/hooks/457686327"
+    }
+]

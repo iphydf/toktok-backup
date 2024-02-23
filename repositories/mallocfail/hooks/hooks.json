@@ -1,0 +1,28 @@
+[
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://reviewable-prod.appspot-preview.com/github"
+        },
+        "created_at": "2024-01-11T22:39:58Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/mallocfail/hooks/454178815/deliveries",
+        "events": [
+            "*"
+        ],
+        "id": 454178815,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/mallocfail/hooks/454178815/pings",
+        "test_url": "https://api.github.com/repos/TokTok/mallocfail/hooks/454178815/test",
+        "type": "Repository",
+        "updated_at": "2024-01-11T22:39:58Z",
+        "url": "https://api.github.com/repos/TokTok/mallocfail/hooks/454178815"
+    }
+]

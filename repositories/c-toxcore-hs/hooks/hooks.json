@@ -1,0 +1,112 @@
+[
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://reviewable-prod.appspot-preview.com/github"
+        },
+        "created_at": "2016-12-28T00:41:01Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/c-toxcore-hs/hooks/11309007/deliveries",
+        "events": [
+            "*"
+        ],
+        "id": 11309007,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/c-toxcore-hs/hooks/11309007/pings",
+        "test_url": "https://api.github.com/repos/TokTok/c-toxcore-hs/hooks/11309007/test",
+        "type": "Repository",
+        "updated_at": "2017-04-28T09:46:27Z",
+        "url": "https://api.github.com/repos/TokTok/c-toxcore-hs/hooks/11309007"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "url": "https://api.codacy.com/events/github/bef9c7858989419091efa84601edba02"
+        },
+        "created_at": "2018-07-30T19:08:03Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/c-toxcore-hs/hooks/41130261/deliveries",
+        "events": [
+            "pull_request",
+            "push"
+        ],
+        "id": 41130261,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/c-toxcore-hs/hooks/41130261/pings",
+        "test_url": "https://api.github.com/repos/TokTok/c-toxcore-hs/hooks/41130261/test",
+        "type": "Repository",
+        "updated_at": "2018-07-30T19:08:03Z",
+        "url": "https://api.github.com/repos/TokTok/c-toxcore-hs/hooks/41130261"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "form",
+            "insecure_ssl": "0",
+            "url": "https://notify.travis-ci.org"
+        },
+        "created_at": "2019-01-10T21:04:20Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/c-toxcore-hs/hooks/77147995/deliveries",
+        "events": [
+            "create",
+            "delete",
+            "issue_comment",
+            "member",
+            "public",
+            "pull_request",
+            "push",
+            "repository"
+        ],
+        "id": 77147995,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/c-toxcore-hs/hooks/77147995/pings",
+        "test_url": "https://api.github.com/repos/TokTok/c-toxcore-hs/hooks/77147995/test",
+        "type": "Repository",
+        "updated_at": "2019-01-10T21:04:20Z",
+        "url": "https://api.github.com/repos/TokTok/c-toxcore-hs/hooks/77147995"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "url": "https://api.codacy.com/events/github/84c845fe07b44c2f8e095a176b72bc9a"
+        },
+        "created_at": "2020-03-27T14:58:13Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/c-toxcore-hs/hooks/195469205/deliveries",
+        "events": [
+            "pull_request",
+            "push"
+        ],
+        "id": 195469205,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/c-toxcore-hs/hooks/195469205/pings",
+        "test_url": "https://api.github.com/repos/TokTok/c-toxcore-hs/hooks/195469205/test",
+        "type": "Repository",
+        "updated_at": "2020-03-27T14:58:13Z",
+        "url": "https://api.github.com/repos/TokTok/c-toxcore-hs/hooks/195469205"
+    }
+]

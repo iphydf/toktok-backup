@@ -1,0 +1,113 @@
+[
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://reviewable-prod.appspot-preview.com/github"
+        },
+        "created_at": "2018-01-19T16:01:57Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/echobot-jvm/hooks/20344737/deliveries",
+        "events": [
+            "*"
+        ],
+        "id": 20344737,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/echobot-jvm/hooks/20344737/pings",
+        "test_url": "https://api.github.com/repos/TokTok/echobot-jvm/hooks/20344737/test",
+        "type": "Repository",
+        "updated_at": "2018-01-19T16:01:57Z",
+        "url": "https://api.github.com/repos/TokTok/echobot-jvm/hooks/20344737"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "form",
+            "insecure_ssl": "0",
+            "url": "https://notify.travis-ci.org"
+        },
+        "created_at": "2019-01-09T01:23:07Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/echobot-jvm/hooks/76355823/deliveries",
+        "events": [
+            "create",
+            "delete",
+            "issue_comment",
+            "member",
+            "public",
+            "pull_request",
+            "push",
+            "repository"
+        ],
+        "id": 76355823,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/echobot-jvm/hooks/76355823/pings",
+        "test_url": "https://api.github.com/repos/TokTok/echobot-jvm/hooks/76355823/test",
+        "type": "Repository",
+        "updated_at": "2019-01-09T01:23:07Z",
+        "url": "https://api.github.com/repos/TokTok/echobot-jvm/hooks/76355823"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "url": "https://api.codacy.com/events/github/2cb8d820d4fb4f92bf5a4847b0ddc4e5"
+        },
+        "created_at": "2020-03-27T14:58:21Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/echobot-jvm/hooks/195469254/deliveries",
+        "events": [
+            "pull_request",
+            "push"
+        ],
+        "id": 195469254,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/echobot-jvm/hooks/195469254/pings",
+        "test_url": "https://api.github.com/repos/TokTok/echobot-jvm/hooks/195469254/test",
+        "type": "Repository",
+        "updated_at": "2020-03-27T14:58:21Z",
+        "url": "https://api.github.com/repos/TokTok/echobot-jvm/hooks/195469254"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://snyk.io/webhook/github/9b6feb18-aaae-4154-a983-17765a2e84ea"
+        },
+        "created_at": "2020-04-25T04:24:58Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/echobot-jvm/hooks/204788229/deliveries",
+        "events": [
+            "pull_request",
+            "push"
+        ],
+        "id": 204788229,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/echobot-jvm/hooks/204788229/pings",
+        "test_url": "https://api.github.com/repos/TokTok/echobot-jvm/hooks/204788229/test",
+        "type": "Repository",
+        "updated_at": "2020-04-25T04:24:58Z",
+        "url": "https://api.github.com/repos/TokTok/echobot-jvm/hooks/204788229"
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://reviewable-prod.appspot-preview.com/github"
+        },
+        "created_at": "2016-12-28T00:40:15Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/11308915/deliveries",
+        "events": [
+            "*"
+        ],
+        "id": 11308915,
+        "last_response": {
+            "code": 200,
+            "message": "OK",
+            "status": "active"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/11308915/pings",
+        "test_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/11308915/test",
+        "type": "Repository",
+        "updated_at": "2017-04-28T09:46:27Z",
+        "url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/11308915"
+    },
+    {
+        "active": true,
+        "config": {
+            "content-type": "form",
+            "content_type": "form",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://circleci.com/hooks/github"
+        },
+        "created_at": "2018-08-16T23:24:43Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/44555390/deliveries",
+        "events": [
+            "commit_comment",
+            "create",
+            "delete",
+            "fork",
+            "gollum",
+            "issues",
+            "issue_comment",
+            "member",
+            "public",
+            "pull_request",
+            "pull_request_review_comment",
+            "push",
+            "release",
+            "status",
+            "team_add",
+            "watch"
+        ],
+        "id": 44555390,
+        "last_response": {
+            "code": 200,
+            "message": "OK",
+            "status": "active"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/44555390/pings",
+        "test_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/44555390/test",
+        "type": "Repository",
+        "updated_at": "2018-08-16T23:24:43Z",
+        "url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/44555390"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "form",
+            "insecure_ssl": "0",
+            "url": "https://notify.travis-ci.org"
+        },
+        "created_at": "2019-01-10T21:24:47Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/77156643/deliveries",
+        "events": [
+            "create",
+            "delete",
+            "issue_comment",
+            "member",
+            "public",
+            "pull_request",
+            "push",
+            "repository"
+        ],
+        "id": 77156643,
+        "last_response": {
+            "code": 503,
+            "message": "Invalid HTTP Response: 503",
+            "status": "external_service_offline"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/77156643/pings",
+        "test_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/77156643/test",
+        "type": "Repository",
+        "updated_at": "2019-01-10T21:24:47Z",
+        "url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/77156643"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "url": "https://cloud.docker.com/api/build/v1/vcs/65e821e8-d452-4352-be20-5f668f667edf/trigger/call/"
+        },
+        "created_at": "2019-02-27T22:48:00Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/90391406/deliveries",
+        "events": [
+            "pull_request",
+            "push"
+        ],
+        "id": 90391406,
+        "last_response": {
+            "code": 404,
+            "message": "Invalid HTTP Response: 404",
+            "status": "missing"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/90391406/pings",
+        "test_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/90391406/test",
+        "type": "Repository",
+        "updated_at": "2019-02-27T22:48:00Z",
+        "url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/90391406"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "url": "https://api.codacy.com/events/github/82c2c7820ffd4789951a514e3b022e2f"
+        },
+        "created_at": "2020-03-27T14:58:26Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/195469276/deliveries",
+        "events": [
+            "pull_request",
+            "push"
+        ],
+        "id": 195469276,
+        "last_response": {
+            "code": 200,
+            "message": "OK",
+            "status": "active"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/195469276/pings",
+        "test_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/195469276/test",
+        "type": "Repository",
+        "updated_at": "2020-03-27T14:58:26Z",
+        "url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/195469276"
+    }
+]

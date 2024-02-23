@@ -1,0 +1,28 @@
+[
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://reviewable-prod.appspot-preview.com/github"
+        },
+        "created_at": "2022-03-26T09:58:59Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/cmp/hooks/350006585/deliveries",
+        "events": [
+            "*"
+        ],
+        "id": 350006585,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/cmp/hooks/350006585/pings",
+        "test_url": "https://api.github.com/repos/TokTok/cmp/hooks/350006585/test",
+        "type": "Repository",
+        "updated_at": "2022-03-26T09:58:59Z",
+        "url": "https://api.github.com/repos/TokTok/cmp/hooks/350006585"
+    }
+]

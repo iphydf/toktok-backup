@@ -1,0 +1,28 @@
+[
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://reviewable-prod.appspot-preview.com/github"
+        },
+        "created_at": "2023-12-31T16:40:23Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/zig-toxcore-c/hooks/452069692/deliveries",
+        "events": [
+            "*"
+        ],
+        "id": 452069692,
+        "last_response": {
+            "code": 200,
+            "message": "OK",
+            "status": "active"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/zig-toxcore-c/hooks/452069692/pings",
+        "test_url": "https://api.github.com/repos/TokTok/zig-toxcore-c/hooks/452069692/test",
+        "type": "Repository",
+        "updated_at": "2023-12-31T16:40:23Z",
+        "url": "https://api.github.com/repos/TokTok/zig-toxcore-c/hooks/452069692"
+    }
+]

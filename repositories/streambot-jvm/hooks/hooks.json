@@ -1,0 +1,113 @@
+[
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://reviewable-prod.appspot-preview.com/github"
+        },
+        "created_at": "2018-01-19T16:01:47Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/streambot-jvm/hooks/20344732/deliveries",
+        "events": [
+            "*"
+        ],
+        "id": 20344732,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/streambot-jvm/hooks/20344732/pings",
+        "test_url": "https://api.github.com/repos/TokTok/streambot-jvm/hooks/20344732/test",
+        "type": "Repository",
+        "updated_at": "2018-01-19T16:01:47Z",
+        "url": "https://api.github.com/repos/TokTok/streambot-jvm/hooks/20344732"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "form",
+            "insecure_ssl": "0",
+            "url": "https://notify.travis-ci.org"
+        },
+        "created_at": "2019-01-09T01:06:58Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/streambot-jvm/hooks/76350927/deliveries",
+        "events": [
+            "create",
+            "delete",
+            "issue_comment",
+            "member",
+            "public",
+            "pull_request",
+            "push",
+            "repository"
+        ],
+        "id": 76350927,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/streambot-jvm/hooks/76350927/pings",
+        "test_url": "https://api.github.com/repos/TokTok/streambot-jvm/hooks/76350927/test",
+        "type": "Repository",
+        "updated_at": "2019-01-09T01:06:58Z",
+        "url": "https://api.github.com/repos/TokTok/streambot-jvm/hooks/76350927"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "url": "https://api.codacy.com/events/github/3fa2526c3dcc49feb3119dcccfb041e4"
+        },
+        "created_at": "2020-03-27T14:54:42Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/streambot-jvm/hooks/195468332/deliveries",
+        "events": [
+            "pull_request",
+            "push"
+        ],
+        "id": 195468332,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/streambot-jvm/hooks/195468332/pings",
+        "test_url": "https://api.github.com/repos/TokTok/streambot-jvm/hooks/195468332/test",
+        "type": "Repository",
+        "updated_at": "2020-03-27T14:54:42Z",
+        "url": "https://api.github.com/repos/TokTok/streambot-jvm/hooks/195468332"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://snyk.io/webhook/github/ae3b4ec2-2937-438c-ae4c-50042c87e566"
+        },
+        "created_at": "2020-04-25T04:24:46Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/streambot-jvm/hooks/204788180/deliveries",
+        "events": [
+            "pull_request",
+            "push"
+        ],
+        "id": 204788180,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/streambot-jvm/hooks/204788180/pings",
+        "test_url": "https://api.github.com/repos/TokTok/streambot-jvm/hooks/204788180/test",
+        "type": "Repository",
+        "updated_at": "2020-04-25T04:24:46Z",
+        "url": "https://api.github.com/repos/TokTok/streambot-jvm/hooks/204788180"
+    }
+]

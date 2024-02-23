@@ -1,0 +1,113 @@
+[
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://reviewable-prod.appspot-preview.com/github"
+        },
+        "created_at": "2016-12-28T00:41:55Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/jvm-toxcore-api/hooks/11309146/deliveries",
+        "events": [
+            "*"
+        ],
+        "id": 11309146,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/jvm-toxcore-api/hooks/11309146/pings",
+        "test_url": "https://api.github.com/repos/TokTok/jvm-toxcore-api/hooks/11309146/test",
+        "type": "Repository",
+        "updated_at": "2017-04-28T09:46:27Z",
+        "url": "https://api.github.com/repos/TokTok/jvm-toxcore-api/hooks/11309146"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "form",
+            "insecure_ssl": "0",
+            "url": "https://notify.travis-ci.org"
+        },
+        "created_at": "2019-01-10T21:16:36Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/jvm-toxcore-api/hooks/77153229/deliveries",
+        "events": [
+            "create",
+            "delete",
+            "issue_comment",
+            "member",
+            "public",
+            "pull_request",
+            "push",
+            "repository"
+        ],
+        "id": 77153229,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/jvm-toxcore-api/hooks/77153229/pings",
+        "test_url": "https://api.github.com/repos/TokTok/jvm-toxcore-api/hooks/77153229/test",
+        "type": "Repository",
+        "updated_at": "2019-01-10T21:16:36Z",
+        "url": "https://api.github.com/repos/TokTok/jvm-toxcore-api/hooks/77153229"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "url": "https://api.codacy.com/events/github/d8e482b5ea304199b10f0601e9811908"
+        },
+        "created_at": "2020-03-27T14:54:47Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/jvm-toxcore-api/hooks/195468350/deliveries",
+        "events": [
+            "pull_request",
+            "push"
+        ],
+        "id": 195468350,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/jvm-toxcore-api/hooks/195468350/pings",
+        "test_url": "https://api.github.com/repos/TokTok/jvm-toxcore-api/hooks/195468350/test",
+        "type": "Repository",
+        "updated_at": "2020-03-27T14:54:47Z",
+        "url": "https://api.github.com/repos/TokTok/jvm-toxcore-api/hooks/195468350"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://snyk.io/webhook/github/276f18c7-42c4-4ad2-9ac8-326e72ee73d5"
+        },
+        "created_at": "2020-04-25T04:24:55Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/jvm-toxcore-api/hooks/204788217/deliveries",
+        "events": [
+            "pull_request",
+            "push"
+        ],
+        "id": 204788217,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/jvm-toxcore-api/hooks/204788217/pings",
+        "test_url": "https://api.github.com/repos/TokTok/jvm-toxcore-api/hooks/204788217/test",
+        "type": "Repository",
+        "updated_at": "2020-04-25T04:24:55Z",
+        "url": "https://api.github.com/repos/TokTok/jvm-toxcore-api/hooks/204788217"
+    }
+]

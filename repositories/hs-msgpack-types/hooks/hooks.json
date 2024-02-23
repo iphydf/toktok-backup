@@ -1,0 +1,86 @@
+[
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://reviewable-prod.appspot-preview.com/github"
+        },
+        "created_at": "2017-01-15T01:39:09Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/hs-msgpack-types/hooks/11544428/deliveries",
+        "events": [
+            "*"
+        ],
+        "id": 11544428,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/hs-msgpack-types/hooks/11544428/pings",
+        "test_url": "https://api.github.com/repos/TokTok/hs-msgpack-types/hooks/11544428/test",
+        "type": "Repository",
+        "updated_at": "2017-04-28T09:46:26Z",
+        "url": "https://api.github.com/repos/TokTok/hs-msgpack-types/hooks/11544428"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "form",
+            "insecure_ssl": "0",
+            "url": "https://notify.travis-ci.org"
+        },
+        "created_at": "2019-01-11T14:34:33Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/hs-msgpack-types/hooks/77537808/deliveries",
+        "events": [
+            "create",
+            "delete",
+            "issue_comment",
+            "member",
+            "public",
+            "pull_request",
+            "push",
+            "repository"
+        ],
+        "id": 77537808,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/hs-msgpack-types/hooks/77537808/pings",
+        "test_url": "https://api.github.com/repos/TokTok/hs-msgpack-types/hooks/77537808/test",
+        "type": "Repository",
+        "updated_at": "2019-01-11T14:34:33Z",
+        "url": "https://api.github.com/repos/TokTok/hs-msgpack-types/hooks/77537808"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "url": "https://api.codacy.com/events/github/f687cb6da95f4611aebe807adad93aa7"
+        },
+        "created_at": "2020-03-27T14:54:48Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/hs-msgpack-types/hooks/195468358/deliveries",
+        "events": [
+            "pull_request",
+            "push"
+        ],
+        "id": 195468358,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/hs-msgpack-types/hooks/195468358/pings",
+        "test_url": "https://api.github.com/repos/TokTok/hs-msgpack-types/hooks/195468358/test",
+        "type": "Repository",
+        "updated_at": "2020-03-27T14:54:48Z",
+        "url": "https://api.github.com/repos/TokTok/hs-msgpack-types/hooks/195468358"
+    }
+]

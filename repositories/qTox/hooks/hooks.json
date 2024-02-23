@@ -1,0 +1,86 @@
+[
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://reviewable-prod.appspot-preview.com/github"
+        },
+        "created_at": "2016-12-28T00:41:27Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/qTox/hooks/11309092/deliveries",
+        "events": [
+            "*"
+        ],
+        "id": 11309092,
+        "last_response": {
+            "code": 200,
+            "message": "OK",
+            "status": "active"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/qTox/hooks/11309092/pings",
+        "test_url": "https://api.github.com/repos/TokTok/qTox/hooks/11309092/test",
+        "type": "Repository",
+        "updated_at": "2017-04-28T09:46:27Z",
+        "url": "https://api.github.com/repos/TokTok/qTox/hooks/11309092"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "form",
+            "insecure_ssl": "0",
+            "url": "https://notify.travis-ci.org"
+        },
+        "created_at": "2019-01-11T01:28:06Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/qTox/hooks/77249559/deliveries",
+        "events": [
+            "create",
+            "delete",
+            "issue_comment",
+            "member",
+            "public",
+            "pull_request",
+            "push",
+            "repository"
+        ],
+        "id": 77249559,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/qTox/hooks/77249559/pings",
+        "test_url": "https://api.github.com/repos/TokTok/qTox/hooks/77249559/test",
+        "type": "Repository",
+        "updated_at": "2019-01-11T01:28:06Z",
+        "url": "https://api.github.com/repos/TokTok/qTox/hooks/77249559"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "url": "https://api.codacy.com/events/github/b27d73c4874444c88b7619dbcb66461d"
+        },
+        "created_at": "2020-03-27T14:58:08Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/qTox/hooks/195469183/deliveries",
+        "events": [
+            "pull_request",
+            "push"
+        ],
+        "id": 195469183,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/qTox/hooks/195469183/pings",
+        "test_url": "https://api.github.com/repos/TokTok/qTox/hooks/195469183/test",
+        "type": "Repository",
+        "updated_at": "2020-03-27T14:58:08Z",
+        "url": "https://api.github.com/repos/TokTok/qTox/hooks/195469183"
+    }
+]

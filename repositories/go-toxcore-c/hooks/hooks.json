@@ -1,0 +1,86 @@
+[
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://reviewable-prod.appspot-preview.com/github"
+        },
+        "created_at": "2018-01-22T23:39:56Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/go-toxcore-c/hooks/20529699/deliveries",
+        "events": [
+            "*"
+        ],
+        "id": 20529699,
+        "last_response": {
+            "code": 200,
+            "message": "OK",
+            "status": "active"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/go-toxcore-c/hooks/20529699/pings",
+        "test_url": "https://api.github.com/repos/TokTok/go-toxcore-c/hooks/20529699/test",
+        "type": "Repository",
+        "updated_at": "2018-01-22T23:39:56Z",
+        "url": "https://api.github.com/repos/TokTok/go-toxcore-c/hooks/20529699"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "form",
+            "insecure_ssl": "0",
+            "url": "https://notify.travis-ci.org"
+        },
+        "created_at": "2019-01-09T00:55:18Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/go-toxcore-c/hooks/76347136/deliveries",
+        "events": [
+            "create",
+            "delete",
+            "issue_comment",
+            "member",
+            "public",
+            "pull_request",
+            "push",
+            "repository"
+        ],
+        "id": 76347136,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/go-toxcore-c/hooks/76347136/pings",
+        "test_url": "https://api.github.com/repos/TokTok/go-toxcore-c/hooks/76347136/test",
+        "type": "Repository",
+        "updated_at": "2019-01-09T00:55:18Z",
+        "url": "https://api.github.com/repos/TokTok/go-toxcore-c/hooks/76347136"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "url": "https://api.codacy.com/events/github/e55818eebe2747edbca42c985488cb52"
+        },
+        "created_at": "2020-03-27T14:58:06Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/go-toxcore-c/hooks/195469175/deliveries",
+        "events": [
+            "pull_request",
+            "push"
+        ],
+        "id": 195469175,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/go-toxcore-c/hooks/195469175/pings",
+        "test_url": "https://api.github.com/repos/TokTok/go-toxcore-c/hooks/195469175/test",
+        "type": "Repository",
+        "updated_at": "2020-03-27T14:58:06Z",
+        "url": "https://api.github.com/repos/TokTok/go-toxcore-c/hooks/195469175"
+    }
+]

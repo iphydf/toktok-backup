@@ -1,0 +1,112 @@
+[
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://reviewable-prod.appspot-preview.com/github"
+        },
+        "created_at": "2016-12-28T00:40:34Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/hs-toxcore/hooks/11308967/deliveries",
+        "events": [
+            "*"
+        ],
+        "id": 11308967,
+        "last_response": {
+            "code": 200,
+            "message": "OK",
+            "status": "active"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/hs-toxcore/hooks/11308967/pings",
+        "test_url": "https://api.github.com/repos/TokTok/hs-toxcore/hooks/11308967/test",
+        "type": "Repository",
+        "updated_at": "2017-04-28T09:46:26Z",
+        "url": "https://api.github.com/repos/TokTok/hs-toxcore/hooks/11308967"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "form",
+            "insecure_ssl": "0",
+            "url": "https://notify.travis-ci.org"
+        },
+        "created_at": "2019-01-14T18:07:10Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/hs-toxcore/hooks/78352057/deliveries",
+        "events": [
+            "create",
+            "delete",
+            "issue_comment",
+            "member",
+            "public",
+            "pull_request",
+            "push",
+            "repository"
+        ],
+        "id": 78352057,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/hs-toxcore/hooks/78352057/pings",
+        "test_url": "https://api.github.com/repos/TokTok/hs-toxcore/hooks/78352057/test",
+        "type": "Repository",
+        "updated_at": "2019-01-14T18:07:10Z",
+        "url": "https://api.github.com/repos/TokTok/hs-toxcore/hooks/78352057"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "url": "https://api.codacy.com/events/github/d9e12701701848dc9c521a267f86b1df"
+        },
+        "created_at": "2020-03-27T14:54:46Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/hs-toxcore/hooks/195468346/deliveries",
+        "events": [
+            "pull_request",
+            "push"
+        ],
+        "id": 195468346,
+        "last_response": {
+            "code": null,
+            "message": null,
+            "status": "unused"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/hs-toxcore/hooks/195468346/pings",
+        "test_url": "https://api.github.com/repos/TokTok/hs-toxcore/hooks/195468346/test",
+        "type": "Repository",
+        "updated_at": "2020-03-27T14:54:46Z",
+        "url": "https://api.github.com/repos/TokTok/hs-toxcore/hooks/195468346"
+    },
+    {
+        "active": true,
+        "config": {
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********",
+            "url": "https://kolkrabbi.heroku.com/hooks/github"
+        },
+        "created_at": "2022-02-18T12:41:45Z",
+        "deliveries_url": "https://api.github.com/repos/TokTok/hs-toxcore/hooks/343930760/deliveries",
+        "events": [
+            "*"
+        ],
+        "id": 343930760,
+        "last_response": {
+            "code": 404,
+            "message": "Invalid HTTP Response: 404",
+            "status": "missing"
+        },
+        "name": "web",
+        "ping_url": "https://api.github.com/repos/TokTok/hs-toxcore/hooks/343930760/pings",
+        "test_url": "https://api.github.com/repos/TokTok/hs-toxcore/hooks/343930760/test",
+        "type": "Repository",
+        "updated_at": "2022-02-18T12:41:45Z",
+        "url": "https://api.github.com/repos/TokTok/hs-toxcore/hooks/343930760"
+    }
+]
