@@ -22,7 +22,7 @@
             "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2595"
         },
         "statuses": {
-            "href": "https://api.github.com/repos/TokTok/c-toxcore/statuses/cd0da1433458e66697c6fdd275d5928b31506a59"
+            "href": "https://api.github.com/repos/TokTok/c-toxcore/statuses/dd45f9ee775572f9a0080840fd2d965391850351"
         }
     },
     "active_lock_reason": null,
@@ -55,8 +55,8 @@
             "downloads_url": "https://api.github.com/repos/TokTok/c-toxcore/downloads",
             "events_url": "https://api.github.com/repos/TokTok/c-toxcore/events",
             "fork": true,
-            "forks": 283,
-            "forks_count": 283,
+            "forks": 279,
+            "forks_count": 279,
             "forks_url": "https://api.github.com/repos/TokTok/c-toxcore/forks",
             "full_name": "TokTok/c-toxcore",
             "git_commits_url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits{/sha}",
@@ -94,8 +94,8 @@
             "name": "c-toxcore",
             "node_id": "MDEwOlJlcG9zaXRvcnk2MjcwMzY0Mg==",
             "notifications_url": "https://api.github.com/repos/TokTok/c-toxcore/notifications{?since,all,participating}",
-            "open_issues": 210,
-            "open_issues_count": 210,
+            "open_issues": 218,
+            "open_issues_count": 218,
             "owner": {
                 "avatar_url": "https://avatars.githubusercontent.com/u/17427091?v=4",
                 "events_url": "https://api.github.com/users/TokTok/events{/privacy}",
@@ -118,11 +118,11 @@
             },
             "private": false,
             "pulls_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls{/number}",
-            "pushed_at": "2024-02-23T16:21:31Z",
+            "pushed_at": "2024-03-22T16:53:29Z",
             "releases_url": "https://api.github.com/repos/TokTok/c-toxcore/releases{/id}",
-            "size": 37461,
+            "size": 37817,
             "ssh_url": "git@github.com:TokTok/c-toxcore.git",
-            "stargazers_count": 2116,
+            "stargazers_count": 2147,
             "stargazers_url": "https://api.github.com/repos/TokTok/c-toxcore/stargazers",
             "statuses_url": "https://api.github.com/repos/TokTok/c-toxcore/statuses/{sha}",
             "subscribers_url": "https://api.github.com/repos/TokTok/c-toxcore/subscribers",
@@ -139,14 +139,14 @@
                 "toxcore"
             ],
             "trees_url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees{/sha}",
-            "updated_at": "2024-02-23T18:58:26Z",
+            "updated_at": "2024-03-25T14:19:44Z",
             "url": "https://api.github.com/repos/TokTok/c-toxcore",
             "visibility": "public",
-            "watchers": 2116,
-            "watchers_count": 2116,
+            "watchers": 2147,
+            "watchers_count": 2147,
             "web_commit_signoff_required": false
         },
-        "sha": "a1e999fd80f4743f01f058836c23d6eaabfd35fc",
+        "sha": "7b1db6adc1d4244aa1ed02b51609d20fba13b90e",
         "user": {
             "avatar_url": "https://avatars.githubusercontent.com/u/17427091?v=4",
             "events_url": "https://api.github.com/users/TokTok/events{/privacy}",
@@ -174,7 +174,7 @@
     "comment_regular_data": [
         {
             "author_association": "NONE",
-            "body": "## [Codecov](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2595?src=pr&el=h1&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) Report\nAttention: `2 lines` in your changes are missing coverage. Please review.\n> Comparison is base [(`a1e999f`)](https://app.codecov.io/gh/TokTok/c-toxcore/commit/a1e999fd80f4743f01f058836c23d6eaabfd35fc?el=desc&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) 73.00% compared to head [(`0754390`)](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2595?src=pr&el=desc&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) 73.66%.\n\n> :exclamation: Current head 0754390 differs from pull request most recent head cd0da14. Consider uploading reports for the commit cd0da14 to get more accurate results\n\n| [Files](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2595?src=pr&el=tree&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) | Patch % | Lines |\n|---|---|---|\n| [toxcore/DHT.c](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2595?src=pr&el=tree&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok#diff-dG94Y29yZS9ESFQuYw==) | 71.42% | [2 Missing :warning: ](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2595?src=pr&el=tree&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) |\n\n<details><summary>Additional details and impacted files</summary>\n\n\n```diff\n@@            Coverage Diff             @@\n##           master    #2595      +/-   ##\n==========================================\n+ Coverage   73.00%   73.66%   +0.65%     \n==========================================\n  Files         148      148              \n  Lines       30486    30417      -69     \n==========================================\n+ Hits        22257    22406     +149     \n+ Misses       8229     8011     -218     \n```\n\n\n\n</details>\n\n[:umbrella: View full report in Codecov by Sentry](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2595?src=pr&el=continue&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).   \n:loudspeaker: Have feedback on the report? [Share it here](https://about.codecov.io/codecov-pr-comment-feedback/?utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).\n",
+            "body": "## [Codecov](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2595?src=pr&el=h1&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) Report\nAttention: Patch coverage is `95.00000%` with `2 lines` in your changes are missing coverage. Please review.\n> Project coverage is 73.66%. Comparing base [(`7b1db6a`)](https://app.codecov.io/gh/TokTok/c-toxcore/commit/7b1db6adc1d4244aa1ed02b51609d20fba13b90e?el=desc&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) to head [(`0754390`)](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2595?src=pr&el=desc&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).\n\n> :exclamation: Current head 0754390 differs from pull request most recent head dd45f9e. Consider uploading reports for the commit dd45f9e to get more accurate results\n\n| [Files](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2595?src=pr&el=tree&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) | Patch % | Lines |\n|---|---|---|\n| [toxcore/DHT.c](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2595?src=pr&el=tree&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok#diff-dG94Y29yZS9ESFQuYw==) | 71.42% | [2 Missing :warning: ](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2595?src=pr&el=tree&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) |\n\n<details><summary>Additional details and impacted files</summary>\n\n\n```diff\n@@            Coverage Diff             @@\n##           master    #2595      +/-   ##\n==========================================\n+ Coverage   73.13%   73.66%   +0.53%     \n==========================================\n  Files         149      148       -1     \n  Lines       30516    30417      -99     \n==========================================\n+ Hits        22317    22406      +89     \n+ Misses       8199     8011     -188     \n```\n\n\n\n</details>\n\n[:umbrella: View full report in Codecov by Sentry](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2595?src=pr&el=continue&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).   \n:loudspeaker: Have feedback on the report? [Share it here](https://about.codecov.io/codecov-pr-comment-feedback/?utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).\n",
             "created_at": "2024-01-29T23:31:30Z",
             "html_url": "https://github.com/TokTok/c-toxcore/pull/2595#issuecomment-1915758250",
             "id": 1915758250,
@@ -251,7 +251,7 @@
                 "total_count": 0,
                 "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1915758250/reactions"
             },
-            "updated_at": "2024-02-14T22:01:45Z",
+            "updated_at": "2024-03-07T16:18:32Z",
             "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1915758250",
             "user": {
                 "avatar_url": "https://avatars.githubusercontent.com/in/254?v=4",
@@ -298,7 +298,7 @@
                 "type": "User",
                 "url": "https://api.github.com/users/iphydf"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/cd0da1433458e66697c6fdd275d5928b31506a59/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/dd45f9ee775572f9a0080840fd2d965391850351/comments",
             "commit": {
                 "author": {
                     "date": "2024-01-24T20:45:41Z",
@@ -307,20 +307,20 @@
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-14T22:00:53Z",
+                    "date": "2024-03-07T16:18:14Z",
                     "email": "iphydf@users.noreply.github.com",
                     "name": "iphydf"
                 },
                 "message": "fix: Stop memcpy-ing internal data structures into packets.",
                 "tree": {
-                    "sha": "8b053668ac1fb54dce46131ab8c53c6625339d39",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/8b053668ac1fb54dce46131ab8c53c6625339d39"
+                    "sha": "a8f41043fa9f247743682d84a410579ee465398f",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/a8f41043fa9f247743682d84a410579ee465398f"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/cd0da1433458e66697c6fdd275d5928b31506a59",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/dd45f9ee775572f9a0080840fd2d965391850351",
                 "verification": {
-                    "payload": "tree 8b053668ac1fb54dce46131ab8c53c6625339d39\nparent a1e999fd80f4743f01f058836c23d6eaabfd35fc\nauthor iphydf <iphydf@users.noreply.github.com> 1706129141 +0000\ncommitter iphydf <iphydf@users.noreply.github.com> 1707948053 +0000\n\nfix: Stop memcpy-ing internal data structures into packets.\n",
+                    "payload": "tree a8f41043fa9f247743682d84a410579ee465398f\nparent 7b1db6adc1d4244aa1ed02b51609d20fba13b90e\nauthor iphydf <iphydf@users.noreply.github.com> 1706129141 +0000\ncommitter iphydf <iphydf@users.noreply.github.com> 1709828294 +0000\n\nfix: Stop memcpy-ing internal data structures into packets.\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEqQ4tlxH906HdaIgsOFXbotdEA8kFAmXNOBUACgkQOFXbotdE\nA8kfVAf5AVSDE3KYr3lXMLFBXfk8AgShSS7jbPYoR/s25eTFc10fcFglH5uqc1XH\nf3ywghSn3OtdXE5GUZ8spkzEGLG0lSqoExN29mVoy7tvA9l+aH3166Ns4jbSX9Sk\n6m7NPtpBMqy7EygHvMIFNrC1lFeiG7em5FL11XALPRQIf/HkL2L2oe+0k+BfGxBY\nc/5DgegS1G5hWZjBKYr6SJbxOvfokCsPetuBhGI0asA86wspuf2Pam1OWlf+npMm\n6bHPUqb0YGKaWSwXkt5dgFtTLESmXNO9tBHJnmOHAetTaQGL+BV0JVBxl8otQyZ/\nUNnjwAAwCOlzq20TzXNi6CJ/IkO4Pw==\n=UD65\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEqQ4tlxH906HdaIgsOFXbotdEA8kFAmXp6MYACgkQOFXbotdE\nA8m0Bgf/cvMQvCJ3CCV2881SvGmKzSuvBHlSr4GIbANlSUT+IfiWmC2WEXEWnPm4\nL0ouVmnVAOiIGdo10zVpOWdHLrGW9NcUjpD40fE+SA/QZqjKImx7gBFM4iT13BqV\nix33EMkk2ju2ZUIBilS8NMx96ZT2sBpyqigFZWRNy491dFE6h7Eq7Q8BhK+lswJ+\nwgcpclpWSdHipPg4dH5x89Eo8UrJL0mIwK2UTvnNj26khPE5kc59UWea/ucz4XG6\nF/EMTq3e2nBQvwUiQIMaJxiXIjwbyX22PI3sXUPiXqKITjEsRrdOQ3J2ExMDaXEu\nNLCKzJfTCyRhlGT5TeocCnoLnQkEeA==\n=HleV\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -344,17 +344,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/iphydf"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/cd0da1433458e66697c6fdd275d5928b31506a59",
-            "node_id": "C_kwDOA7z7wtoAKGNkMGRhMTQzMzQ1OGU2NjY5N2M2ZmRkMjc1ZDU5MjhiMzE1MDZhNTk",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/dd45f9ee775572f9a0080840fd2d965391850351",
+            "node_id": "C_kwDOA7z7wtoAKGRkNDVmOWVlNzc1NTcyZjlhMDA4MDg0MGZkMmQ5NjUzOTE4NTAzNTE",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/a1e999fd80f4743f01f058836c23d6eaabfd35fc",
-                    "sha": "a1e999fd80f4743f01f058836c23d6eaabfd35fc",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/a1e999fd80f4743f01f058836c23d6eaabfd35fc"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/7b1db6adc1d4244aa1ed02b51609d20fba13b90e",
+                    "sha": "7b1db6adc1d4244aa1ed02b51609d20fba13b90e",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/7b1db6adc1d4244aa1ed02b51609d20fba13b90e"
                 }
             ],
-            "sha": "cd0da1433458e66697c6fdd275d5928b31506a59",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/cd0da1433458e66697c6fdd275d5928b31506a59"
+            "sha": "dd45f9ee775572f9a0080840fd2d965391850351",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/dd45f9ee775572f9a0080840fd2d965391850351"
         }
     ],
     "commits_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2595/commits",
@@ -449,9 +449,9 @@
             },
             "private": false,
             "pulls_url": "https://api.github.com/repos/iphydf/c-toxcore/pulls{/number}",
-            "pushed_at": "2024-02-23T16:21:29Z",
+            "pushed_at": "2024-03-15T11:51:25Z",
             "releases_url": "https://api.github.com/repos/iphydf/c-toxcore/releases{/id}",
-            "size": 18411,
+            "size": 18709,
             "ssh_url": "git@github.com:iphydf/c-toxcore.git",
             "stargazers_count": 2,
             "stargazers_url": "https://api.github.com/repos/iphydf/c-toxcore/stargazers",
@@ -477,7 +477,7 @@
             "watchers_count": 2,
             "web_commit_signoff_required": false
         },
-        "sha": "cd0da1433458e66697c6fdd275d5928b31506a59",
+        "sha": "dd45f9ee775572f9a0080840fd2d965391850351",
         "user": {
             "avatar_url": "https://avatars.githubusercontent.com/u/10647936?v=4",
             "events_url": "https://api.github.com/users/iphydf/events{/privacy}",
@@ -504,7 +504,7 @@
     "issue_url": "https://api.github.com/repos/TokTok/c-toxcore/issues/2595",
     "labels": [],
     "locked": false,
-    "merge_commit_sha": "c7a60d936d5505a04ebd2d577d7c4349d0b484bd",
+    "merge_commit_sha": "5b5da824da0820d4cc016fa8a67406caad27cc7b",
     "merged_at": null,
     "milestone": {
         "closed_at": null,
@@ -537,10 +537,10 @@
         "labels_url": "https://api.github.com/repos/TokTok/c-toxcore/milestones/49/labels",
         "node_id": "MI_kwDOA7zIGs4AeF2s",
         "number": 49,
-        "open_issues": 47,
+        "open_issues": 52,
         "state": "open",
         "title": "v0.2.20",
-        "updated_at": "2024-02-23T15:20:22Z",
+        "updated_at": "2024-03-13T14:34:05Z",
         "url": "https://api.github.com/repos/TokTok/c-toxcore/milestones/49"
     },
     "node_id": "PR_kwDOA7zIGs5k_uE2",
@@ -551,9 +551,9 @@
     "review_comment_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments{/number}",
     "review_comments_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2595/comments",
     "state": "open",
-    "statuses_url": "https://api.github.com/repos/TokTok/c-toxcore/statuses/cd0da1433458e66697c6fdd275d5928b31506a59",
+    "statuses_url": "https://api.github.com/repos/TokTok/c-toxcore/statuses/dd45f9ee775572f9a0080840fd2d965391850351",
     "title": "fix: Stop memcpy-ing internal data structures into packets.",
-    "updated_at": "2024-02-14T22:01:45Z",
+    "updated_at": "2024-03-07T16:18:32Z",
     "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2595",
     "user": {
         "avatar_url": "https://avatars.githubusercontent.com/u/10647936?v=4",

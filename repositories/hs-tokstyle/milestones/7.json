@@ -1,6 +1,6 @@
 {
     "closed_at": null,
-    "closed_issues": 151,
+    "closed_issues": 152,
     "created_at": "2021-12-25T02:17:28Z",
     "creator": {
         "avatar_url": "https://avatars.githubusercontent.com/u/10647936?v=4",
@@ -32,6 +32,6 @@
     "open_issues": 3,
     "state": "open",
     "title": "v0.0.9",
-    "updated_at": "2024-02-12T10:19:06Z",
+    "updated_at": "2024-03-09T09:19:16Z",
     "url": "https://api.github.com/repos/TokTok/hs-tokstyle/milestones/7"
 }

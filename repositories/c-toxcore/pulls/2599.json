@@ -22,7 +22,7 @@
             "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2599"
         },
         "statuses": {
-            "href": "https://api.github.com/repos/TokTok/c-toxcore/statuses/2b2ffba13c4d2481fde02be1f483569a9c59f56a"
+            "href": "https://api.github.com/repos/TokTok/c-toxcore/statuses/1a987604ffa62047a5ce8805daedf847af13a292"
         }
     },
     "active_lock_reason": null,
@@ -95,8 +95,8 @@
             "downloads_url": "https://api.github.com/repos/TokTok/c-toxcore/downloads",
             "events_url": "https://api.github.com/repos/TokTok/c-toxcore/events",
             "fork": true,
-            "forks": 278,
-            "forks_count": 278,
+            "forks": 279,
+            "forks_count": 279,
             "forks_url": "https://api.github.com/repos/TokTok/c-toxcore/forks",
             "full_name": "TokTok/c-toxcore",
             "git_commits_url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits{/sha}",
@@ -134,8 +134,8 @@
             "name": "c-toxcore",
             "node_id": "MDEwOlJlcG9zaXRvcnk2MjcwMzY0Mg==",
             "notifications_url": "https://api.github.com/repos/TokTok/c-toxcore/notifications{?since,all,participating}",
-            "open_issues": 209,
-            "open_issues_count": 209,
+            "open_issues": 218,
+            "open_issues_count": 218,
             "owner": {
                 "avatar_url": "https://avatars.githubusercontent.com/u/17427091?v=4",
                 "events_url": "https://api.github.com/users/TokTok/events{/privacy}",
@@ -158,11 +158,11 @@
             },
             "private": false,
             "pulls_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls{/number}",
-            "pushed_at": "2024-02-25T21:19:00Z",
+            "pushed_at": "2024-03-22T16:53:29Z",
             "releases_url": "https://api.github.com/repos/TokTok/c-toxcore/releases{/id}",
-            "size": 37461,
+            "size": 37817,
             "ssh_url": "git@github.com:TokTok/c-toxcore.git",
-            "stargazers_count": 2117,
+            "stargazers_count": 2147,
             "stargazers_url": "https://api.github.com/repos/TokTok/c-toxcore/stargazers",
             "statuses_url": "https://api.github.com/repos/TokTok/c-toxcore/statuses/{sha}",
             "subscribers_url": "https://api.github.com/repos/TokTok/c-toxcore/subscribers",
@@ -179,14 +179,14 @@
                 "toxcore"
             ],
             "trees_url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees{/sha}",
-            "updated_at": "2024-02-24T14:28:34Z",
+            "updated_at": "2024-03-25T14:19:44Z",
             "url": "https://api.github.com/repos/TokTok/c-toxcore",
             "visibility": "public",
-            "watchers": 2117,
-            "watchers_count": 2117,
+            "watchers": 2147,
+            "watchers_count": 2147,
             "web_commit_signoff_required": false
         },
-        "sha": "b473630321d941b398ab9a0f75d488335568490b",
+        "sha": "ed2b60c2177808374a29c22effd30414ec0bffae",
         "user": {
             "avatar_url": "https://avatars.githubusercontent.com/u/17427091?v=4",
             "events_url": "https://api.github.com/users/TokTok/events{/privacy}",
@@ -214,7 +214,7 @@
     "comment_regular_data": [
         {
             "author_association": "NONE",
-            "body": "## [Codecov](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2599?src=pr&el=h1&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) Report\nAll modified and coverable lines are covered by tests :white_check_mark:\n> Comparison is base [(`b473630`)](https://app.codecov.io/gh/TokTok/c-toxcore/commit/b473630321d941b398ab9a0f75d488335568490b?el=desc&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) 73.67% compared to head [(`2b2ffba`)](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2599?src=pr&el=desc&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) 73.64%.\n> Report is 21 commits behind head on master.\n\n\n<details><summary>Additional details and impacted files</summary>\n\n\n```diff\n@@            Coverage Diff             @@\n##           master    #2599      +/-   ##\n==========================================\n- Coverage   73.67%   73.64%   -0.03%     \n==========================================\n  Files         148      148              \n  Lines       30420    30420              \n==========================================\n- Hits        22411    22404       -7     \n- Misses       8009     8016       +7     \n```\n\n\n\n</details>\n\n[:umbrella: View full report in Codecov by Sentry](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2599?src=pr&el=continue&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).   \n:loudspeaker: Have feedback on the report? [Share it here](https://about.codecov.io/codecov-pr-comment-feedback/?utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).\n",
+            "body": "## [Codecov](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2599?src=pr&el=h1&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) Report\nAll modified and coverable lines are covered by tests :white_check_mark:\n> Project coverage is 73.13%. Comparing base [(`ed2b60c`)](https://app.codecov.io/gh/TokTok/c-toxcore/commit/ed2b60c2177808374a29c22effd30414ec0bffae?el=desc&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) to head [(`1a98760`)](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2599?src=pr&el=desc&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).\n\n\n<details><summary>Additional details and impacted files</summary>\n\n\n```diff\n@@            Coverage Diff             @@\n##           master    #2599      +/-   ##\n==========================================\n+ Coverage   73.06%   73.13%   +0.07%     \n==========================================\n  Files         149      149              \n  Lines       30517    30517              \n==========================================\n+ Hits        22297    22319      +22     \n+ Misses       8220     8198      -22     \n```\n\n\n\n</details>\n\n[:umbrella: View full report in Codecov by Sentry](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2599?src=pr&el=continue&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).   \n:loudspeaker: Have feedback on the report? [Share it here](https://about.codecov.io/codecov-pr-comment-feedback/?utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).\n",
             "created_at": "2024-01-25T15:07:32Z",
             "html_url": "https://github.com/TokTok/c-toxcore/pull/2599#issuecomment-1910397126",
             "id": 1910397126,
@@ -291,7 +291,7 @@
                 "total_count": 0,
                 "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1910397126/reactions"
             },
-            "updated_at": "2024-02-11T16:18:27Z",
+            "updated_at": "2024-02-28T17:08:42Z",
             "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1910397126",
             "user": {
                 "avatar_url": "https://avatars.githubusercontent.com/in/254?v=4",
@@ -558,7 +558,7 @@
                 "type": "User",
                 "url": "https://api.github.com/users/iphydf"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/2b2ffba13c4d2481fde02be1f483569a9c59f56a/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/1a987604ffa62047a5ce8805daedf847af13a292/comments",
             "commit": {
                 "author": {
                     "date": "2024-01-25T14:48:04Z",
@@ -567,20 +567,20 @@
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-02T23:52:10Z",
+                    "date": "2024-02-28T16:19:00Z",
                     "email": "iphydf@users.noreply.github.com",
                     "name": "iphydf"
                 },
                 "message": "refactor: Install headers into repo-equivalent directories.\n\nThis allows code to be built from an un-installed toxcore repo the same\nway it's built from an installed toxcore. I.e. all `#include` directives\nwill work the same inside the toxcore repo and on a system which has\ntoxcore installed.\n\nPreviously, \"toxcore/tox.h\" was installed as \"tox/tox.h\", making `make\ninstall` a requirement for building any client code. Now, clients can be\nbuilt directly from the repo source, which is especially nice for simple\nclients like echobots.\n\nOutput:\n```\n-- Installing: /usr/local/include/tox/tox.h\n-- Installing: /usr/local/include/toxcore/tox.h\n-- Installing: /usr/local/include/toxcore/tox_events.h\n-- Installing: /usr/local/include/toxcore/tox_dispatch.h\n-- Installing: /usr/local/include/toxcore/tox_private.h\n-- Installing: /usr/local/include/tox/toxav.h\n-- Installing: /usr/local/include/toxav/toxav.h\n-- Installing: /usr/local/include/tox/toxencryptsave.h\n-- Installing: /usr/local/include/toxencryptsave/toxencryptsave.h\n```",
                 "tree": {
-                    "sha": "a8ff0c94987c4a2e2f076ed4412a61d1fc86232d",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/a8ff0c94987c4a2e2f076ed4412a61d1fc86232d"
+                    "sha": "9719e668542b5dddba6d2e46b1a2070b7a79962c",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/9719e668542b5dddba6d2e46b1a2070b7a79962c"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/2b2ffba13c4d2481fde02be1f483569a9c59f56a",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/1a987604ffa62047a5ce8805daedf847af13a292",
                 "verification": {
-                    "payload": "tree a8ff0c94987c4a2e2f076ed4412a61d1fc86232d\nparent b473630321d941b398ab9a0f75d488335568490b\nauthor iphydf <iphydf@users.noreply.github.com> 1706194084 +0000\ncommitter iphydf <iphydf@users.noreply.github.com> 1706917930 +0000\n\nrefactor: Install headers into repo-equivalent directories.\n\nThis allows code to be built from an un-installed toxcore repo the same\nway it's built from an installed toxcore. I.e. all `#include` directives\nwill work the same inside the toxcore repo and on a system which has\ntoxcore installed.\n\nPreviously, \"toxcore/tox.h\" was installed as \"tox/tox.h\", making `make\ninstall` a requirement for building any client code. Now, clients can be\nbuilt directly from the repo source, which is especially nice for simple\nclients like echobots.\n\nOutput:\n```\n-- Installing: /usr/local/include/tox/tox.h\n-- Installing: /usr/local/include/toxcore/tox.h\n-- Installing: /usr/local/include/toxcore/tox_events.h\n-- Installing: /usr/local/include/toxcore/tox_dispatch.h\n-- Installing: /usr/local/include/toxcore/tox_private.h\n-- Installing: /usr/local/include/tox/toxav.h\n-- Installing: /usr/local/include/toxav/toxav.h\n-- Installing: /usr/local/include/tox/toxencryptsave.h\n-- Installing: /usr/local/include/toxencryptsave/toxencryptsave.h\n```\n",
+                    "payload": "tree 9719e668542b5dddba6d2e46b1a2070b7a79962c\nparent ed2b60c2177808374a29c22effd30414ec0bffae\nauthor iphydf <iphydf@users.noreply.github.com> 1706194084 +0000\ncommitter iphydf <iphydf@users.noreply.github.com> 1709137140 +0000\n\nrefactor: Install headers into repo-equivalent directories.\n\nThis allows code to be built from an un-installed toxcore repo the same\nway it's built from an installed toxcore. I.e. all `#include` directives\nwill work the same inside the toxcore repo and on a system which has\ntoxcore installed.\n\nPreviously, \"toxcore/tox.h\" was installed as \"tox/tox.h\", making `make\ninstall` a requirement for building any client code. Now, clients can be\nbuilt directly from the repo source, which is especially nice for simple\nclients like echobots.\n\nOutput:\n```\n-- Installing: /usr/local/include/tox/tox.h\n-- Installing: /usr/local/include/toxcore/tox.h\n-- Installing: /usr/local/include/toxcore/tox_events.h\n-- Installing: /usr/local/include/toxcore/tox_dispatch.h\n-- Installing: /usr/local/include/toxcore/tox_private.h\n-- Installing: /usr/local/include/tox/toxav.h\n-- Installing: /usr/local/include/toxav/toxav.h\n-- Installing: /usr/local/include/tox/toxencryptsave.h\n-- Installing: /usr/local/include/toxencryptsave/toxencryptsave.h\n```\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEqQ4tlxH906HdaIgsOFXbotdEA8kFAmW9gCoACgkQOFXbotdE\nA8mRRQf8DNskZggaNy/dncff/edJ7qCPrdBvPtNqpbnoVjdDQ4TwZY1TlCJw6wyy\ndnTiH2wWfQ0FRuGHNSdBJ1wPpg/jXypG7hbBcyDj9VatteoIGrEraVQ2yuEz2Pd6\ns/x0hnL5pJmllHhgs51OaPwQidVU4j/w82yTJO3TXACFzyW5VQDoKifjUq9QpJ1o\ncICkPbG/7bby5QDwFDxnbJB70+k4EHVsEP5f+ilE8nXw9GeAAjYZBl7czXX+yfQS\nPKSEqVpW4ZB5BDVIN3vDyl5V0D/RCJs0uNfTBS6vjUE6B7IeSxl3/3Tcd7DQPq4B\nj1w1dGP7MxmWU23ZuifrZ+9F2SNo9w==\n=jSqn\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEqQ4tlxH906HdaIgsOFXbotdEA8kFAmXfXPQACgkQOFXbotdE\nA8kiQQf/bMHSI268jXHbGG3jgQuNJFevz8+N5Mx0NpRIj91oxMvz0xNdssrlSh+p\n+fNoutO544zSa+4Z39X8+/BpwishAL+xAueOpb+sIn3biWyVFFDJnnrxYhHNCNzi\nVhgCOuAqbnFtDxuAFkaAvNDiYsCWPha0pA3GXWKDFPR6zYyjdfaLqQ0Brdw4iY/I\nLV8wG3qyV06dY9Eq2XtOsdlli7oXYpULyA9Zm0i3k6vvksTb3syVqtyi4A0vNhdW\nipqbmLivLihBRwIQmCE3NgU7LgOezhplB+D4u9zXbeqrVR/o6zBK4CTje036B60t\n9vPwxEDOiNnEETelOckbS5lRqFlqCw==\n=PYIs\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -604,17 +604,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/iphydf"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/2b2ffba13c4d2481fde02be1f483569a9c59f56a",
-            "node_id": "C_kwDOA7z7wtoAKDJiMmZmYmExM2M0ZDI0ODFmZGUwMmJlMWY0ODM1NjlhOWM1OWY1NmE",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/1a987604ffa62047a5ce8805daedf847af13a292",
+            "node_id": "C_kwDOA7z7wtoAKDFhOTg3NjA0ZmZhNjIwNDdhNWNlODgwNWRhZWRmODQ3YWYxM2EyOTI",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/b473630321d941b398ab9a0f75d488335568490b",
-                    "sha": "b473630321d941b398ab9a0f75d488335568490b",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/b473630321d941b398ab9a0f75d488335568490b"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/ed2b60c2177808374a29c22effd30414ec0bffae",
+                    "sha": "ed2b60c2177808374a29c22effd30414ec0bffae",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/ed2b60c2177808374a29c22effd30414ec0bffae"
                 }
             ],
-            "sha": "2b2ffba13c4d2481fde02be1f483569a9c59f56a",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/2b2ffba13c4d2481fde02be1f483569a9c59f56a"
+            "sha": "1a987604ffa62047a5ce8805daedf847af13a292",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/1a987604ffa62047a5ce8805daedf847af13a292"
         }
     ],
     "commits_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2599/commits",
@@ -709,9 +709,9 @@
             },
             "private": false,
             "pulls_url": "https://api.github.com/repos/iphydf/c-toxcore/pulls{/number}",
-            "pushed_at": "2024-02-25T21:18:52Z",
+            "pushed_at": "2024-03-15T11:51:25Z",
             "releases_url": "https://api.github.com/repos/iphydf/c-toxcore/releases{/id}",
-            "size": 18359,
+            "size": 18709,
             "ssh_url": "git@github.com:iphydf/c-toxcore.git",
             "stargazers_count": 2,
             "stargazers_url": "https://api.github.com/repos/iphydf/c-toxcore/stargazers",
@@ -737,7 +737,7 @@
             "watchers_count": 2,
             "web_commit_signoff_required": false
         },
-        "sha": "2b2ffba13c4d2481fde02be1f483569a9c59f56a",
+        "sha": "1a987604ffa62047a5ce8805daedf847af13a292",
         "user": {
             "avatar_url": "https://avatars.githubusercontent.com/u/10647936?v=4",
             "events_url": "https://api.github.com/users/iphydf/events{/privacy}",
@@ -764,7 +764,7 @@
     "issue_url": "https://api.github.com/repos/TokTok/c-toxcore/issues/2599",
     "labels": [],
     "locked": false,
-    "merge_commit_sha": "0c6cbc1af783f8025cfa66fecfeed9ea877ebfc9",
+    "merge_commit_sha": "5d4945c70134eca8494665a826198c5b183d76ee",
     "merged_at": null,
     "milestone": {
         "closed_at": null,
@@ -797,10 +797,10 @@
         "labels_url": "https://api.github.com/repos/TokTok/c-toxcore/milestones/49/labels",
         "node_id": "MI_kwDOA7zIGs4AeF2s",
         "number": 49,
-        "open_issues": 47,
+        "open_issues": 52,
         "state": "open",
         "title": "v0.2.20",
-        "updated_at": "2024-02-23T15:20:22Z",
+        "updated_at": "2024-03-13T14:34:05Z",
         "url": "https://api.github.com/repos/TokTok/c-toxcore/milestones/49"
     },
     "node_id": "PR_kwDOA7zIGs5lEw-7",
@@ -811,9 +811,9 @@
     "review_comment_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments{/number}",
     "review_comments_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2599/comments",
     "state": "open",
-    "statuses_url": "https://api.github.com/repos/TokTok/c-toxcore/statuses/2b2ffba13c4d2481fde02be1f483569a9c59f56a",
+    "statuses_url": "https://api.github.com/repos/TokTok/c-toxcore/statuses/1a987604ffa62047a5ce8805daedf847af13a292",
     "title": "refactor: Install headers into repo-equivalent directories.",
-    "updated_at": "2024-02-25T10:00:49Z",
+    "updated_at": "2024-02-28T17:08:42Z",
     "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2599",
     "user": {
         "avatar_url": "https://avatars.githubusercontent.com/u/10647936?v=4",

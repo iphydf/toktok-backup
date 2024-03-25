@@ -353,7 +353,7 @@
         },
         {
             "author_association": "NONE",
-            "body": "## [Codecov](https://app.codecov.io/gh/TokTok/btox/pull/33?src=pr&el=h1&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) Report\n> Merging [#33](https://app.codecov.io/gh/TokTok/btox/pull/33?src=pr&el=desc&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) (a63e340) into [master](https://app.codecov.io/gh/TokTok/btox/commit/77a2b7e66fdf75eebd7b429d276d68cd17e76e55?el=desc&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) (77a2b7e) will **not change** coverage.\n> The diff coverage is `n/a`.\n\n```diff\n@@           Coverage Diff           @@\n##           master      #33   +/-   ##\n=======================================\n  Coverage   41.17%   41.17%           \n=======================================\n  Files           7        7           \n  Lines         221      221           \n=======================================\n  Hits           91       91           \n  Misses        130      130           \n```\n\n\n\n",
+            "body": "## [Codecov](https://app.codecov.io/gh/TokTok/btox/pull/33?src=pr&el=h1&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) Report\nAll modified and coverable lines are covered by tests :white_check_mark:\n> Project coverage is 41.17%. Comparing base [(`77a2b7e`)](https://app.codecov.io/gh/TokTok/btox/commit/77a2b7e66fdf75eebd7b429d276d68cd17e76e55?el=desc&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) to head [(`a63e340`)](https://app.codecov.io/gh/TokTok/btox/pull/33?src=pr&el=desc&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).\n> Report is 4 commits behind head on master.\n\n\n<details><summary>Additional details and impacted files</summary>\n\n\n```diff\n@@           Coverage Diff           @@\n##           master      #33   +/-   ##\n=======================================\n  Coverage   41.17%   41.17%           \n=======================================\n  Files           7        7           \n  Lines         221      221           \n=======================================\n  Hits           91       91           \n  Misses        130      130           \n```\n\n\n\n</details>\n\n[:umbrella: View full report in Codecov by Sentry](https://app.codecov.io/gh/TokTok/btox/pull/33?src=pr&el=continue&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).   \n:loudspeaker: Have feedback on the report? [Share it here](https://about.codecov.io/codecov-pr-comment-feedback/?utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).\n",
             "created_at": "2023-08-27T09:59:45Z",
             "html_url": "https://github.com/TokTok/btox/pull/33#issuecomment-1694624499",
             "id": 1694624499,
@@ -372,7 +372,7 @@
                 "total_count": 0,
                 "url": "https://api.github.com/repos/TokTok/btox/issues/comments/1694624499/reactions"
             },
-            "updated_at": "2023-08-27T09:59:45Z",
+            "updated_at": "2024-03-08T16:42:47Z",
             "url": "https://api.github.com/repos/TokTok/btox/issues/comments/1694624499",
             "user": {
                 "avatar_url": "https://avatars.githubusercontent.com/in/254?v=4",
@@ -574,7 +574,7 @@
             "releases_url": "https://api.github.com/repos/lgtm-migrator/btox/releases{/id}",
             "size": 343,
             "ssh_url": "git@github.com:lgtm-migrator/btox.git",
-            "stargazers_count": 0,
+            "stargazers_count": 1,
             "stargazers_url": "https://api.github.com/repos/lgtm-migrator/btox/stargazers",
             "statuses_url": "https://api.github.com/repos/lgtm-migrator/btox/statuses/{sha}",
             "subscribers_url": "https://api.github.com/repos/lgtm-migrator/btox/subscribers",
@@ -584,11 +584,11 @@
             "teams_url": "https://api.github.com/repos/lgtm-migrator/btox/teams",
             "topics": [],
             "trees_url": "https://api.github.com/repos/lgtm-migrator/btox/git/trees{/sha}",
-            "updated_at": "2024-02-12T09:43:42Z",
+            "updated_at": "2024-03-13T05:38:21Z",
             "url": "https://api.github.com/repos/lgtm-migrator/btox",
             "visibility": "public",
-            "watchers": 0,
-            "watchers_count": 0,
+            "watchers": 1,
+            "watchers_count": 1,
             "web_commit_signoff_required": false
         },
         "sha": "a63e34092da31d00aeaaa1b6dbe53a45950a15ec",
@@ -667,7 +667,7 @@
     "state": "open",
     "statuses_url": "https://api.github.com/repos/TokTok/btox/statuses/a63e34092da31d00aeaaa1b6dbe53a45950a15ec",
     "title": "chore: Add CodeQL workflow for GitHub code scanning",
-    "updated_at": "2023-08-27T10:00:13Z",
+    "updated_at": "2024-03-08T16:42:47Z",
     "url": "https://api.github.com/repos/TokTok/btox/pulls/33",
     "user": {
         "avatar_url": "https://avatars.githubusercontent.com/in/17324?v=4",

@@ -22,12 +22,52 @@
             "href": "https://api.github.com/repos/TokTok/toxic/pulls/354"
         },
         "statuses": {
-            "href": "https://api.github.com/repos/TokTok/toxic/statuses/f409ab029e2b17a12c2bb0781317e4631d086b8c"
+            "href": "https://api.github.com/repos/TokTok/toxic/statuses/68beecef0a2a07649b05cc9723662f11ebdd52f3"
         }
     },
     "active_lock_reason": null,
-    "assignee": null,
-    "assignees": [],
+    "assignee": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/1646057?v=4",
+        "events_url": "https://api.github.com/users/JFreegman/events{/privacy}",
+        "followers_url": "https://api.github.com/users/JFreegman/followers",
+        "following_url": "https://api.github.com/users/JFreegman/following{/other_user}",
+        "gists_url": "https://api.github.com/users/JFreegman/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/JFreegman",
+        "id": 1646057,
+        "login": "JFreegman",
+        "node_id": "MDQ6VXNlcjE2NDYwNTc=",
+        "organizations_url": "https://api.github.com/users/JFreegman/orgs",
+        "received_events_url": "https://api.github.com/users/JFreegman/received_events",
+        "repos_url": "https://api.github.com/users/JFreegman/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/JFreegman/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/JFreegman/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/JFreegman"
+    },
+    "assignees": [
+        {
+            "avatar_url": "https://avatars.githubusercontent.com/u/1646057?v=4",
+            "events_url": "https://api.github.com/users/JFreegman/events{/privacy}",
+            "followers_url": "https://api.github.com/users/JFreegman/followers",
+            "following_url": "https://api.github.com/users/JFreegman/following{/other_user}",
+            "gists_url": "https://api.github.com/users/JFreegman/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/JFreegman",
+            "id": 1646057,
+            "login": "JFreegman",
+            "node_id": "MDQ6VXNlcjE2NDYwNTc=",
+            "organizations_url": "https://api.github.com/users/JFreegman/orgs",
+            "received_events_url": "https://api.github.com/users/JFreegman/received_events",
+            "repos_url": "https://api.github.com/users/JFreegman/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/JFreegman/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/JFreegman/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/JFreegman"
+        }
+    ],
     "author_association": "MEMBER",
     "auto_merge": null,
     "base": {
@@ -94,8 +134,8 @@
             "name": "toxic",
             "node_id": "MDEwOlJlcG9zaXRvcnkxMTgyNjk2Njk=",
             "notifications_url": "https://api.github.com/repos/TokTok/toxic/notifications{?since,all,participating}",
-            "open_issues": 15,
-            "open_issues_count": 15,
+            "open_issues": 9,
+            "open_issues_count": 9,
             "owner": {
                 "avatar_url": "https://avatars.githubusercontent.com/u/17427091?v=4",
                 "events_url": "https://api.github.com/users/TokTok/events{/privacy}",
@@ -118,9 +158,9 @@
             },
             "private": false,
             "pulls_url": "https://api.github.com/repos/TokTok/toxic/pulls{/number}",
-            "pushed_at": "2024-02-27T17:31:48Z",
+            "pushed_at": "2024-03-14T13:02:12Z",
             "releases_url": "https://api.github.com/repos/TokTok/toxic/releases{/id}",
-            "size": 18319,
+            "size": 18546,
             "ssh_url": "git@github.com:TokTok/toxic.git",
             "stargazers_count": 27,
             "stargazers_url": "https://api.github.com/repos/TokTok/toxic/stargazers",
@@ -143,7 +183,7 @@
             "watchers_count": 27,
             "web_commit_signoff_required": false
         },
-        "sha": "051cdc83a56df7fdfff908aa6d29412746e18bae",
+        "sha": "149ef9d1531226ba19199b91c883c0415b699d1f",
         "user": {
             "avatar_url": "https://avatars.githubusercontent.com/u/17427091?v=4",
             "events_url": "https://api.github.com/users/TokTok/events{/privacy}",
@@ -166,8 +206,352 @@
         }
     },
     "body": "This mitigates a potential DOS attack vector.\n\n<!-- Reviewable:start -->\n- - -\nThis change is [<img src=\"https://reviewable.io/review_button.svg\" height=\"34\" align=\"absmiddle\" alt=\"Reviewable\"/>](https://reviewable.io/reviews/TokTok/toxic/354)\n<!-- Reviewable:end -->\n",
-    "closed_at": null,
-    "comment_data": [],
+    "closed_at": "2024-02-28T17:17:35Z",
+    "comment_data": [
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/TokTok/toxic/pull/354#discussion_r1506205599"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/TokTok/toxic/pulls/354"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/TokTok/toxic/pulls/comments/1506205599"
+                }
+            },
+            "author_association": "MEMBER",
+            "body": "`1024 << 10` is `1 << 20` or `1024 * 1024` (which I see more commonly used when making kibibytes and mebibytes). What made you choose the first version?",
+            "commit_id": "68beecef0a2a07649b05cc9723662f11ebdd52f3",
+            "created_at": "2024-02-28T16:04:15Z",
+            "diff_hunk": "@@ -124,7 +124,11 @@ static int init_logging_session(const Client_Config *c_config, const char *name,\n     return 0;\n }\n \n-#define LOG_FLUSH_LIMIT 1  /* limits calls to fflush to a max of one per LOG_FLUSH_LIMIT seconds */\n+/* limits calls to fflush to a max of one per LOG_FLUSH_LIMIT seconds */\n+#define LOG_FLUSH_LIMIT 1\n+\n+/* Maximum amount of data we can write to a log in a given session */\n+#define LOG_MAX_SIZE ((1024 << 10) * 100)  // 100 MiB",
+            "html_url": "https://github.com/TokTok/toxic/pull/354#discussion_r1506205599",
+            "id": 1506205599,
+            "line": null,
+            "node_id": "PRRC_kwDOBwym5c5Zxt-f",
+            "original_commit_id": "f409ab029e2b17a12c2bb0781317e4631d086b8c",
+            "original_line": 131,
+            "original_position": 9,
+            "original_start_line": null,
+            "path": "src/log.c",
+            "position": null,
+            "pull_request_review_id": 1906659320,
+            "pull_request_url": "https://api.github.com/repos/TokTok/toxic/pulls/354",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/TokTok/toxic/pulls/comments/1506205599/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2024-02-28T16:06:04Z",
+            "url": "https://api.github.com/repos/TokTok/toxic/pulls/comments/1506205599",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/10647936?v=4",
+                "events_url": "https://api.github.com/users/iphydf/events{/privacy}",
+                "followers_url": "https://api.github.com/users/iphydf/followers",
+                "following_url": "https://api.github.com/users/iphydf/following{/other_user}",
+                "gists_url": "https://api.github.com/users/iphydf/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/iphydf",
+                "id": 10647936,
+                "login": "iphydf",
+                "node_id": "MDQ6VXNlcjEwNjQ3OTM2",
+                "organizations_url": "https://api.github.com/users/iphydf/orgs",
+                "received_events_url": "https://api.github.com/users/iphydf/received_events",
+                "repos_url": "https://api.github.com/users/iphydf/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/iphydf/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/iphydf/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/iphydf"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/TokTok/toxic/pull/354#discussion_r1506207961"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/TokTok/toxic/pulls/354"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/TokTok/toxic/pulls/comments/1506207961"
+                }
+            },
+            "author_association": "MEMBER",
+            "body": "This is approximate. If this triggers, it'll usually be a little more than the number below, because we only check when writing the next line, after having exceeded this limit.",
+            "commit_id": "68beecef0a2a07649b05cc9723662f11ebdd52f3",
+            "created_at": "2024-02-28T16:05:51Z",
+            "diff_hunk": "@@ -124,7 +124,11 @@ static int init_logging_session(const Client_Config *c_config, const char *name,\n     return 0;\n }\n \n-#define LOG_FLUSH_LIMIT 1  /* limits calls to fflush to a max of one per LOG_FLUSH_LIMIT seconds */\n+/* limits calls to fflush to a max of one per LOG_FLUSH_LIMIT seconds */\n+#define LOG_FLUSH_LIMIT 1\n+\n+/* Maximum amount of data we can write to a log in a given session */",
+            "html_url": "https://github.com/TokTok/toxic/pull/354#discussion_r1506207961",
+            "id": 1506207961,
+            "line": null,
+            "node_id": "PRRC_kwDOBwym5c5ZxujZ",
+            "original_commit_id": "f409ab029e2b17a12c2bb0781317e4631d086b8c",
+            "original_line": 130,
+            "original_position": 8,
+            "original_start_line": null,
+            "path": "src/log.c",
+            "position": null,
+            "pull_request_review_id": 1906659320,
+            "pull_request_url": "https://api.github.com/repos/TokTok/toxic/pulls/354",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/TokTok/toxic/pulls/comments/1506207961/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2024-02-28T16:06:04Z",
+            "url": "https://api.github.com/repos/TokTok/toxic/pulls/comments/1506207961",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/10647936?v=4",
+                "events_url": "https://api.github.com/users/iphydf/events{/privacy}",
+                "followers_url": "https://api.github.com/users/iphydf/followers",
+                "following_url": "https://api.github.com/users/iphydf/following{/other_user}",
+                "gists_url": "https://api.github.com/users/iphydf/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/iphydf",
+                "id": 10647936,
+                "login": "iphydf",
+                "node_id": "MDQ6VXNlcjEwNjQ3OTM2",
+                "organizations_url": "https://api.github.com/users/iphydf/orgs",
+                "received_events_url": "https://api.github.com/users/iphydf/received_events",
+                "repos_url": "https://api.github.com/users/iphydf/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/iphydf/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/iphydf/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/iphydf"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/TokTok/toxic/pull/354#discussion_r1506233678"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/TokTok/toxic/pulls/354"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/TokTok/toxic/pulls/comments/1506233678"
+                }
+            },
+            "author_association": "MEMBER",
+            "body": "I'm following the pattern of:\r\n`1024 == 1KiB`\r\n`1024 << 10 == 1Mib`\r\n`1024 << 20 == 1GiB`\r\n`1024 << 30 == 1TiB`\r\netc.\r\n\r\nSo if we want `n` MiB we do `(1024 << 10) * n`\r\n",
+            "commit_id": "68beecef0a2a07649b05cc9723662f11ebdd52f3",
+            "created_at": "2024-02-28T16:19:46Z",
+            "diff_hunk": "@@ -124,7 +124,11 @@ static int init_logging_session(const Client_Config *c_config, const char *name,\n     return 0;\n }\n \n-#define LOG_FLUSH_LIMIT 1  /* limits calls to fflush to a max of one per LOG_FLUSH_LIMIT seconds */\n+/* limits calls to fflush to a max of one per LOG_FLUSH_LIMIT seconds */\n+#define LOG_FLUSH_LIMIT 1\n+\n+/* Maximum amount of data we can write to a log in a given session */\n+#define LOG_MAX_SIZE ((1024 << 10) * 100)  // 100 MiB",
+            "html_url": "https://github.com/TokTok/toxic/pull/354#discussion_r1506233678",
+            "id": 1506233678,
+            "in_reply_to_id": 1506205599,
+            "line": null,
+            "node_id": "PRRC_kwDOBwym5c5Zx01O",
+            "original_commit_id": "f409ab029e2b17a12c2bb0781317e4631d086b8c",
+            "original_line": 131,
+            "original_position": 9,
+            "original_start_line": null,
+            "path": "src/log.c",
+            "position": null,
+            "pull_request_review_id": 1906704497,
+            "pull_request_url": "https://api.github.com/repos/TokTok/toxic/pulls/354",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/TokTok/toxic/pulls/comments/1506233678/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2024-02-28T16:19:46Z",
+            "url": "https://api.github.com/repos/TokTok/toxic/pulls/comments/1506233678",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1646057?v=4",
+                "events_url": "https://api.github.com/users/JFreegman/events{/privacy}",
+                "followers_url": "https://api.github.com/users/JFreegman/followers",
+                "following_url": "https://api.github.com/users/JFreegman/following{/other_user}",
+                "gists_url": "https://api.github.com/users/JFreegman/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/JFreegman",
+                "id": 1646057,
+                "login": "JFreegman",
+                "node_id": "MDQ6VXNlcjE2NDYwNTc=",
+                "organizations_url": "https://api.github.com/users/JFreegman/orgs",
+                "received_events_url": "https://api.github.com/users/JFreegman/received_events",
+                "repos_url": "https://api.github.com/users/JFreegman/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/JFreegman/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/JFreegman/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/JFreegman"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/TokTok/toxic/pull/354#discussion_r1506235425"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/TokTok/toxic/pulls/354"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/TokTok/toxic/pulls/comments/1506235425"
+                }
+            },
+            "author_association": "MEMBER",
+            "body": "SGTM.",
+            "commit_id": "68beecef0a2a07649b05cc9723662f11ebdd52f3",
+            "created_at": "2024-02-28T16:20:37Z",
+            "diff_hunk": "@@ -124,7 +124,11 @@ static int init_logging_session(const Client_Config *c_config, const char *name,\n     return 0;\n }\n \n-#define LOG_FLUSH_LIMIT 1  /* limits calls to fflush to a max of one per LOG_FLUSH_LIMIT seconds */\n+/* limits calls to fflush to a max of one per LOG_FLUSH_LIMIT seconds */\n+#define LOG_FLUSH_LIMIT 1\n+\n+/* Maximum amount of data we can write to a log in a given session */\n+#define LOG_MAX_SIZE ((1024 << 10) * 100)  // 100 MiB",
+            "html_url": "https://github.com/TokTok/toxic/pull/354#discussion_r1506235425",
+            "id": 1506235425,
+            "in_reply_to_id": 1506205599,
+            "line": null,
+            "node_id": "PRRC_kwDOBwym5c5Zx1Qh",
+            "original_commit_id": "f409ab029e2b17a12c2bb0781317e4631d086b8c",
+            "original_line": 131,
+            "original_position": 9,
+            "original_start_line": null,
+            "path": "src/log.c",
+            "position": null,
+            "pull_request_review_id": 1906706488,
+            "pull_request_url": "https://api.github.com/repos/TokTok/toxic/pulls/354",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/TokTok/toxic/pulls/comments/1506235425/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2024-02-28T16:20:38Z",
+            "url": "https://api.github.com/repos/TokTok/toxic/pulls/comments/1506235425",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/10647936?v=4",
+                "events_url": "https://api.github.com/users/iphydf/events{/privacy}",
+                "followers_url": "https://api.github.com/users/iphydf/followers",
+                "following_url": "https://api.github.com/users/iphydf/following{/other_user}",
+                "gists_url": "https://api.github.com/users/iphydf/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/iphydf",
+                "id": 10647936,
+                "login": "iphydf",
+                "node_id": "MDQ6VXNlcjEwNjQ3OTM2",
+                "organizations_url": "https://api.github.com/users/iphydf/orgs",
+                "received_events_url": "https://api.github.com/users/iphydf/received_events",
+                "repos_url": "https://api.github.com/users/iphydf/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/iphydf/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/iphydf/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/iphydf"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/TokTok/toxic/pull/354#discussion_r1506246784"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/TokTok/toxic/pulls/354"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/TokTok/toxic/pulls/comments/1506246784"
+                }
+            },
+            "author_association": "MEMBER",
+            "body": "Done.",
+            "commit_id": "68beecef0a2a07649b05cc9723662f11ebdd52f3",
+            "created_at": "2024-02-28T16:28:10Z",
+            "diff_hunk": "@@ -124,7 +124,11 @@ static int init_logging_session(const Client_Config *c_config, const char *name,\n     return 0;\n }\n \n-#define LOG_FLUSH_LIMIT 1  /* limits calls to fflush to a max of one per LOG_FLUSH_LIMIT seconds */\n+/* limits calls to fflush to a max of one per LOG_FLUSH_LIMIT seconds */\n+#define LOG_FLUSH_LIMIT 1\n+\n+/* Maximum amount of data we can write to a log in a given session */",
+            "html_url": "https://github.com/TokTok/toxic/pull/354#discussion_r1506246784",
+            "id": 1506246784,
+            "in_reply_to_id": 1506207961,
+            "line": null,
+            "node_id": "PRRC_kwDOBwym5c5Zx4CA",
+            "original_commit_id": "f409ab029e2b17a12c2bb0781317e4631d086b8c",
+            "original_line": 130,
+            "original_position": 8,
+            "original_start_line": null,
+            "path": "src/log.c",
+            "position": null,
+            "pull_request_review_id": 1906723586,
+            "pull_request_url": "https://api.github.com/repos/TokTok/toxic/pulls/354",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/TokTok/toxic/pulls/comments/1506246784/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2024-02-28T16:28:10Z",
+            "url": "https://api.github.com/repos/TokTok/toxic/pulls/comments/1506246784",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1646057?v=4",
+                "events_url": "https://api.github.com/users/JFreegman/events{/privacy}",
+                "followers_url": "https://api.github.com/users/JFreegman/followers",
+                "following_url": "https://api.github.com/users/JFreegman/following{/other_user}",
+                "gists_url": "https://api.github.com/users/JFreegman/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/JFreegman",
+                "id": 1646057,
+                "login": "JFreegman",
+                "node_id": "MDQ6VXNlcjE2NDYwNTc=",
+                "organizations_url": "https://api.github.com/users/JFreegman/orgs",
+                "received_events_url": "https://api.github.com/users/JFreegman/received_events",
+                "repos_url": "https://api.github.com/users/JFreegman/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/JFreegman/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/JFreegman/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/JFreegman"
+            }
+        }
+    ],
     "comment_regular_data": [],
     "comments_url": "https://api.github.com/repos/TokTok/toxic/issues/354/comments",
     "commit_data": [
@@ -192,29 +576,29 @@
                 "type": "User",
                 "url": "https://api.github.com/users/JFreegman"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/toxic/commits/f409ab029e2b17a12c2bb0781317e4631d086b8c/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/toxic/commits/68beecef0a2a07649b05cc9723662f11ebdd52f3/comments",
             "commit": {
                 "author": {
-                    "date": "2024-02-23T18:59:45Z",
+                    "date": "2024-02-28T16:31:19Z",
                     "email": "jfreegman@gmail.com",
                     "name": "jfreegman"
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-27T17:15:16Z",
+                    "date": "2024-02-28T17:08:53Z",
                     "email": "jfreegman@gmail.com",
                     "name": "jfreegman"
                 },
                 "message": "feat: hard cap the size of a session chat log to 100 MiB\n\nThis mitigates a potential DOS attack vector.",
                 "tree": {
-                    "sha": "8bef6bf7cc8f20d596589e9e8a8f8cd6fb229319",
-                    "url": "https://api.github.com/repos/TokTok/toxic/git/trees/8bef6bf7cc8f20d596589e9e8a8f8cd6fb229319"
+                    "sha": "ace1a5f20071fd9d156db84424d83ff8d684c7b2",
+                    "url": "https://api.github.com/repos/TokTok/toxic/git/trees/ace1a5f20071fd9d156db84424d83ff8d684c7b2"
                 },
-                "url": "https://api.github.com/repos/TokTok/toxic/git/commits/f409ab029e2b17a12c2bb0781317e4631d086b8c",
+                "url": "https://api.github.com/repos/TokTok/toxic/git/commits/68beecef0a2a07649b05cc9723662f11ebdd52f3",
                 "verification": {
-                    "payload": "tree 8bef6bf7cc8f20d596589e9e8a8f8cd6fb229319\nparent 051cdc83a56df7fdfff908aa6d29412746e18bae\nauthor jfreegman <jfreegman@gmail.com> 1708714785 -0500\ncommitter jfreegman <jfreegman@gmail.com> 1709054116 -0500\n\nfeat: hard cap the size of a session chat log to 100 MiB\n\nThis mitigates a potential DOS attack vector.\n",
+                    "payload": "tree ace1a5f20071fd9d156db84424d83ff8d684c7b2\nparent 149ef9d1531226ba19199b91c883c0415b699d1f\nauthor jfreegman <jfreegman@gmail.com> 1709137879 -0500\ncommitter jfreegman <jfreegman@gmail.com> 1709140133 -0500\n\nfeat: hard cap the size of a session chat log to 100 MiB\n\nThis mitigates a potential DOS attack vector.\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFIBAABCgAyFiEEur0AVzoGW/qQ1T1WNifzFEB2rmMFAmXeGKQUHGpmcmVlZ21h\nbkBnbWFpbC5jb20ACgkQNifzFEB2rmMu/wf/YUHekYLvDRBUlIQ6X7tO5YzfsE5o\nP14fry8cuCdjKLUf0xV61NsOUBAMtZHtuFQFEqt8OQe+e0nGSXD9nluRjtuv26ec\nIt6FyJ8BV9HcpNzT/lPr8QzIvY8aQ17MMQrNh9R39PjbQFecVvS6ejKEQEo5G6t+\ndmjFEZMyz2XwgL3+RyAuaZzGJdqXyVdLomlvYOQ5bnrJlY2kIl7hyJ9qtg0fx2vm\n9EwJndmQdDAz+KmiQDHWbo5YxpCfj9FC095CfsX6KqpzTekDNyqArp0S73jU/zRc\nZHoBLigQDYwzB3vLgmEFIBUjkqQdPnCX+2dyWlwVt0wdkkXmt6thj6wxCw==\n=MdOG\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFIBAABCgAyFiEEur0AVzoGW/qQ1T1WNifzFEB2rmMFAmXfaKUUHGpmcmVlZ21h\nbkBnbWFpbC5jb20ACgkQNifzFEB2rmN43wf9Hn1wY9N8arpTR7km7+w2Wnl3sgo0\nzYUUIFJjItmAXmUqOp8FOz/MdTOe1q6BJwUocLq6GIITmE2QggRV2F/h3t7T/mp2\nHYMCa5dKj1pQDIfcz6PgmoKF5S2AEa+fft7K16uttOe1PyBosMLvrmnxXo2saVGe\ndv6egJMOq36zkkHqkvSVqTLKQ0SdExXwFVHdyzk874z3fK2l3TrYjVGSH31nTabj\nrSFp5e/bE9N5H1EK/0Q3sz/nNvCY42RiU9AIlutQTN/1rLGSydKKz/KkqM6ypUcI\nncWFRRdZlu5Bw49jiTOwF0i0W5IOGR6Vuj/IJn9r+JyXpWWV3oQuJ2Cm2w==\n=0W7l\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -238,17 +622,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/JFreegman"
             },
-            "html_url": "https://github.com/TokTok/toxic/commit/f409ab029e2b17a12c2bb0781317e4631d086b8c",
-            "node_id": "C_kwDOALvJcNoAKGY0MDlhYjAyOWUyYjE3YTEyYzJiYjA3ODEzMTdlNDYzMWQwODZiOGM",
+            "html_url": "https://github.com/TokTok/toxic/commit/68beecef0a2a07649b05cc9723662f11ebdd52f3",
+            "node_id": "C_kwDOALvJcNoAKDY4YmVlY2VmMGEyYTA3NjQ5YjA1Y2M5NzIzNjYyZjExZWJkZDUyZjM",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/toxic/commit/051cdc83a56df7fdfff908aa6d29412746e18bae",
-                    "sha": "051cdc83a56df7fdfff908aa6d29412746e18bae",
-                    "url": "https://api.github.com/repos/TokTok/toxic/commits/051cdc83a56df7fdfff908aa6d29412746e18bae"
+                    "html_url": "https://github.com/TokTok/toxic/commit/149ef9d1531226ba19199b91c883c0415b699d1f",
+                    "sha": "149ef9d1531226ba19199b91c883c0415b699d1f",
+                    "url": "https://api.github.com/repos/TokTok/toxic/commits/149ef9d1531226ba19199b91c883c0415b699d1f"
                 }
             ],
-            "sha": "f409ab029e2b17a12c2bb0781317e4631d086b8c",
-            "url": "https://api.github.com/repos/TokTok/toxic/commits/f409ab029e2b17a12c2bb0781317e4631d086b8c"
+            "sha": "68beecef0a2a07649b05cc9723662f11ebdd52f3",
+            "url": "https://api.github.com/repos/TokTok/toxic/commits/68beecef0a2a07649b05cc9723662f11ebdd52f3"
         }
     ],
     "commits_url": "https://api.github.com/repos/TokTok/toxic/pulls/354/commits",
@@ -280,8 +664,8 @@
             "downloads_url": "https://api.github.com/repos/JFreegman/toxic/downloads",
             "events_url": "https://api.github.com/repos/JFreegman/toxic/events",
             "fork": false,
-            "forks": 156,
-            "forks_count": 156,
+            "forks": 151,
+            "forks_count": 151,
             "forks_url": "https://api.github.com/repos/JFreegman/toxic/forks",
             "full_name": "JFreegman/toxic",
             "git_commits_url": "https://api.github.com/repos/JFreegman/toxic/git/commits{/sha}",
@@ -343,11 +727,11 @@
             },
             "private": false,
             "pulls_url": "https://api.github.com/repos/JFreegman/toxic/pulls{/number}",
-            "pushed_at": "2024-02-27T17:31:42Z",
+            "pushed_at": "2024-03-14T13:01:43Z",
             "releases_url": "https://api.github.com/repos/JFreegman/toxic/releases{/id}",
-            "size": 17876,
+            "size": 18096,
             "ssh_url": "git@github.com:JFreegman/toxic.git",
-            "stargazers_count": 1148,
+            "stargazers_count": 1153,
             "stargazers_url": "https://api.github.com/repos/JFreegman/toxic/stargazers",
             "statuses_url": "https://api.github.com/repos/JFreegman/toxic/statuses/{sha}",
             "subscribers_url": "https://api.github.com/repos/JFreegman/toxic/subscribers",
@@ -370,14 +754,14 @@
                 "tox-client"
             ],
             "trees_url": "https://api.github.com/repos/JFreegman/toxic/git/trees{/sha}",
-            "updated_at": "2024-02-27T14:38:49Z",
+            "updated_at": "2024-03-23T20:33:22Z",
             "url": "https://api.github.com/repos/JFreegman/toxic",
             "visibility": "public",
-            "watchers": 1148,
-            "watchers_count": 1148,
+            "watchers": 1153,
+            "watchers_count": 1153,
             "web_commit_signoff_required": false
         },
-        "sha": "f409ab029e2b17a12c2bb0781317e4631d086b8c",
+        "sha": "68beecef0a2a07649b05cc9723662f11ebdd52f3",
         "user": {
             "avatar_url": "https://avatars.githubusercontent.com/u/1646057?v=4",
             "events_url": "https://api.github.com/users/JFreegman/events{/privacy}",
@@ -414,11 +798,11 @@
         }
     ],
     "locked": false,
-    "merge_commit_sha": "c8f7ffcf5e03af15dfed851b9c462b02867b1ff5",
-    "merged_at": null,
+    "merge_commit_sha": "68beecef0a2a07649b05cc9723662f11ebdd52f3",
+    "merged_at": "2024-02-28T17:17:35Z",
     "milestone": {
         "closed_at": null,
-        "closed_issues": 40,
+        "closed_issues": 54,
         "created_at": "2024-02-02T03:17:19Z",
         "creator": {
             "avatar_url": "https://avatars.githubusercontent.com/u/1646057?v=4",
@@ -447,10 +831,10 @@
         "labels_url": "https://api.github.com/repos/TokTok/toxic/milestones/12/labels",
         "node_id": "MI_kwDOBwym5c4AoEdz",
         "number": 12,
-        "open_issues": 8,
+        "open_issues": 2,
         "state": "open",
         "title": "0.14.2",
-        "updated_at": "2024-02-27T17:14:39Z",
+        "updated_at": "2024-03-14T13:02:05Z",
         "url": "https://api.github.com/repos/TokTok/toxic/milestones/12"
     },
     "node_id": "PR_kwDOBwym5c5nyQyP",
@@ -460,10 +844,10 @@
     "requested_teams": [],
     "review_comment_url": "https://api.github.com/repos/TokTok/toxic/pulls/comments{/number}",
     "review_comments_url": "https://api.github.com/repos/TokTok/toxic/pulls/354/comments",
-    "state": "open",
-    "statuses_url": "https://api.github.com/repos/TokTok/toxic/statuses/f409ab029e2b17a12c2bb0781317e4631d086b8c",
+    "state": "closed",
+    "statuses_url": "https://api.github.com/repos/TokTok/toxic/statuses/68beecef0a2a07649b05cc9723662f11ebdd52f3",
     "title": "feat: hard cap the size of a session chat log to 100 MiB",
-    "updated_at": "2024-02-27T17:15:24Z",
+    "updated_at": "2024-02-28T17:17:42Z",
     "url": "https://api.github.com/repos/TokTok/toxic/pulls/354",
     "user": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1646057?v=4",

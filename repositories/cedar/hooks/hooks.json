@@ -14,9 +14,9 @@
         ],
         "id": 22194897,
         "last_response": {
-            "code": null,
-            "message": null,
-            "status": "unused"
+            "code": 200,
+            "message": "OK",
+            "status": "active"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/cedar/hooks/22194897/pings",
@@ -40,9 +40,9 @@
         ],
         "id": 41130245,
         "last_response": {
-            "code": null,
-            "message": null,
-            "status": "unused"
+            "code": 404,
+            "message": "Invalid HTTP Response: 404",
+            "status": "missing"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/cedar/hooks/41130245/pings",
@@ -72,9 +72,9 @@
         ],
         "id": 76323070,
         "last_response": {
-            "code": null,
-            "message": null,
-            "status": "unused"
+            "code": 503,
+            "message": "Invalid HTTP Response: 503",
+            "status": "external_service_offline"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/cedar/hooks/76323070/pings",
@@ -98,9 +98,9 @@
         ],
         "id": 195469315,
         "last_response": {
-            "code": null,
-            "message": null,
-            "status": "unused"
+            "code": 200,
+            "message": "OK",
+            "status": "active"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/cedar/hooks/195469315/pings",
@@ -125,9 +125,9 @@
         ],
         "id": 204788277,
         "last_response": {
-            "code": null,
-            "message": null,
-            "status": "unused"
+            "code": 200,
+            "message": "OK",
+            "status": "active"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/cedar/hooks/204788277/pings",

@@ -14,9 +14,9 @@
         ],
         "id": 11309168,
         "last_response": {
-            "code": null,
-            "message": null,
-            "status": "unused"
+            "code": 200,
+            "message": "OK",
+            "status": "active"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/jvm-toxcore-c/hooks/11309168/pings",
@@ -46,9 +46,9 @@
         ],
         "id": 77171797,
         "last_response": {
-            "code": null,
-            "message": null,
-            "status": "unused"
+            "code": 503,
+            "message": "Invalid HTTP Response: 503",
+            "status": "external_service_offline"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/jvm-toxcore-c/hooks/77171797/pings",
@@ -72,9 +72,9 @@
         ],
         "id": 195469249,
         "last_response": {
-            "code": null,
-            "message": null,
-            "status": "unused"
+            "code": 200,
+            "message": "OK",
+            "status": "active"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/jvm-toxcore-c/hooks/195469249/pings",
@@ -99,9 +99,9 @@
         ],
         "id": 204788207,
         "last_response": {
-            "code": null,
-            "message": null,
-            "status": "unused"
+            "code": 200,
+            "message": "OK",
+            "status": "active"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/jvm-toxcore-c/hooks/204788207/pings",

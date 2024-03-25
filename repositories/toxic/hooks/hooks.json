@@ -14,9 +14,9 @@
         ],
         "id": 20639253,
         "last_response": {
-            "code": 200,
-            "message": "OK",
-            "status": "active"
+            "code": null,
+            "message": null,
+            "status": "unused"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/toxic/hooks/20639253/pings",
@@ -46,9 +46,9 @@
         ],
         "id": 76348183,
         "last_response": {
-            "code": 503,
-            "message": "Invalid HTTP Response: 503",
-            "status": "external_service_offline"
+            "code": null,
+            "message": null,
+            "status": "unused"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/toxic/hooks/76348183/pings",
@@ -72,9 +72,9 @@
         ],
         "id": 195469278,
         "last_response": {
-            "code": 200,
-            "message": "OK",
-            "status": "active"
+            "code": null,
+            "message": null,
+            "status": "unused"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/toxic/hooks/195469278/pings",

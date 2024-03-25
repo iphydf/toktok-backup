@@ -1,6 +1,6 @@
 {
     "closed_at": null,
-    "closed_issues": 263,
+    "closed_issues": 277,
     "created_at": "2022-02-28T22:51:30Z",
     "creator": {
         "avatar_url": "https://avatars.githubusercontent.com/u/10647936?v=4",
@@ -29,9 +29,9 @@
     "labels_url": "https://api.github.com/repos/TokTok/c-toxcore/milestones/48/labels",
     "node_id": "MI_kwDOA7zIGs4AddcF",
     "number": 48,
-    "open_issues": 4,
+    "open_issues": 6,
     "state": "open",
     "title": "v0.2.19",
-    "updated_at": "2024-02-26T18:03:32Z",
+    "updated_at": "2024-03-17T16:53:51Z",
     "url": "https://api.github.com/repos/TokTok/c-toxcore/milestones/48"
 }

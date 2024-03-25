@@ -22,50 +22,50 @@
             "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713"
         },
         "statuses": {
-            "href": "https://api.github.com/repos/TokTok/c-toxcore/statuses/a14aa0ffbae680c8ae7356b974074a694028191b"
+            "href": "https://api.github.com/repos/TokTok/c-toxcore/statuses/b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d"
         }
     },
     "active_lock_reason": null,
     "assignee": {
-        "avatar_url": "https://avatars.githubusercontent.com/u/8304462?v=4",
-        "events_url": "https://api.github.com/users/robinlinden/events{/privacy}",
-        "followers_url": "https://api.github.com/users/robinlinden/followers",
-        "following_url": "https://api.github.com/users/robinlinden/following{/other_user}",
-        "gists_url": "https://api.github.com/users/robinlinden/gists{/gist_id}",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1855294?v=4",
+        "events_url": "https://api.github.com/users/nurupo/events{/privacy}",
+        "followers_url": "https://api.github.com/users/nurupo/followers",
+        "following_url": "https://api.github.com/users/nurupo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nurupo/gists{/gist_id}",
         "gravatar_id": "",
-        "html_url": "https://github.com/robinlinden",
-        "id": 8304462,
-        "login": "robinlinden",
-        "node_id": "MDQ6VXNlcjgzMDQ0NjI=",
-        "organizations_url": "https://api.github.com/users/robinlinden/orgs",
-        "received_events_url": "https://api.github.com/users/robinlinden/received_events",
-        "repos_url": "https://api.github.com/users/robinlinden/repos",
+        "html_url": "https://github.com/nurupo",
+        "id": 1855294,
+        "login": "nurupo",
+        "node_id": "MDQ6VXNlcjE4NTUyOTQ=",
+        "organizations_url": "https://api.github.com/users/nurupo/orgs",
+        "received_events_url": "https://api.github.com/users/nurupo/received_events",
+        "repos_url": "https://api.github.com/users/nurupo/repos",
         "site_admin": false,
-        "starred_url": "https://api.github.com/users/robinlinden/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/robinlinden/subscriptions",
+        "starred_url": "https://api.github.com/users/nurupo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nurupo/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/robinlinden"
+        "url": "https://api.github.com/users/nurupo"
     },
     "assignees": [
         {
-            "avatar_url": "https://avatars.githubusercontent.com/u/8304462?v=4",
-            "events_url": "https://api.github.com/users/robinlinden/events{/privacy}",
-            "followers_url": "https://api.github.com/users/robinlinden/followers",
-            "following_url": "https://api.github.com/users/robinlinden/following{/other_user}",
-            "gists_url": "https://api.github.com/users/robinlinden/gists{/gist_id}",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1855294?v=4",
+            "events_url": "https://api.github.com/users/nurupo/events{/privacy}",
+            "followers_url": "https://api.github.com/users/nurupo/followers",
+            "following_url": "https://api.github.com/users/nurupo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/nurupo/gists{/gist_id}",
             "gravatar_id": "",
-            "html_url": "https://github.com/robinlinden",
-            "id": 8304462,
-            "login": "robinlinden",
-            "node_id": "MDQ6VXNlcjgzMDQ0NjI=",
-            "organizations_url": "https://api.github.com/users/robinlinden/orgs",
-            "received_events_url": "https://api.github.com/users/robinlinden/received_events",
-            "repos_url": "https://api.github.com/users/robinlinden/repos",
+            "html_url": "https://github.com/nurupo",
+            "id": 1855294,
+            "login": "nurupo",
+            "node_id": "MDQ6VXNlcjE4NTUyOTQ=",
+            "organizations_url": "https://api.github.com/users/nurupo/orgs",
+            "received_events_url": "https://api.github.com/users/nurupo/received_events",
+            "repos_url": "https://api.github.com/users/nurupo/repos",
             "site_admin": false,
-            "starred_url": "https://api.github.com/users/robinlinden/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/robinlinden/subscriptions",
+            "starred_url": "https://api.github.com/users/nurupo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/nurupo/subscriptions",
             "type": "User",
-            "url": "https://api.github.com/users/robinlinden"
+            "url": "https://api.github.com/users/nurupo"
         }
     ],
     "author_association": "MEMBER",
@@ -95,8 +95,8 @@
             "downloads_url": "https://api.github.com/repos/TokTok/c-toxcore/downloads",
             "events_url": "https://api.github.com/repos/TokTok/c-toxcore/events",
             "fork": true,
-            "forks": 278,
-            "forks_count": 278,
+            "forks": 279,
+            "forks_count": 279,
             "forks_url": "https://api.github.com/repos/TokTok/c-toxcore/forks",
             "full_name": "TokTok/c-toxcore",
             "git_commits_url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits{/sha}",
@@ -134,8 +134,8 @@
             "name": "c-toxcore",
             "node_id": "MDEwOlJlcG9zaXRvcnk2MjcwMzY0Mg==",
             "notifications_url": "https://api.github.com/repos/TokTok/c-toxcore/notifications{?since,all,participating}",
-            "open_issues": 210,
-            "open_issues_count": 210,
+            "open_issues": 218,
+            "open_issues_count": 218,
             "owner": {
                 "avatar_url": "https://avatars.githubusercontent.com/u/17427091?v=4",
                 "events_url": "https://api.github.com/users/TokTok/events{/privacy}",
@@ -158,11 +158,11 @@
             },
             "private": false,
             "pulls_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls{/number}",
-            "pushed_at": "2024-02-28T10:07:30Z",
+            "pushed_at": "2024-03-22T16:53:29Z",
             "releases_url": "https://api.github.com/repos/TokTok/c-toxcore/releases{/id}",
-            "size": 37451,
+            "size": 37817,
             "ssh_url": "git@github.com:TokTok/c-toxcore.git",
-            "stargazers_count": 2117,
+            "stargazers_count": 2147,
             "stargazers_url": "https://api.github.com/repos/TokTok/c-toxcore/stargazers",
             "statuses_url": "https://api.github.com/repos/TokTok/c-toxcore/statuses/{sha}",
             "subscribers_url": "https://api.github.com/repos/TokTok/c-toxcore/subscribers",
@@ -179,14 +179,14 @@
                 "toxcore"
             ],
             "trees_url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees{/sha}",
-            "updated_at": "2024-02-26T14:22:51Z",
+            "updated_at": "2024-03-25T14:19:44Z",
             "url": "https://api.github.com/repos/TokTok/c-toxcore",
             "visibility": "public",
-            "watchers": 2117,
-            "watchers_count": 2117,
+            "watchers": 2147,
+            "watchers_count": 2147,
             "web_commit_signoff_required": false
         },
-        "sha": "d7f21010a1f4882a83a9578cd20450b5c6bdb3eb",
+        "sha": "ed2b60c2177808374a29c22effd30414ec0bffae",
         "user": {
             "avatar_url": "https://avatars.githubusercontent.com/u/17427091?v=4",
             "events_url": "https://api.github.com/users/TokTok/events{/privacy}",
@@ -209,7 +209,7 @@
         }
     },
     "body": "Wanted to bump the toxcore dependencies for Windows cross-compilation before the release, but ended up changing a lot more things.\n\n<!-- Reviewable:start -->\n- - -\nThis change is [<img src=\"https://reviewable.io/review_button.svg\" height=\"34\" align=\"absmiddle\" alt=\"Reviewable\"/>](https://reviewable.io/reviews/TokTok/c-toxcore/2713)\n<!-- Reviewable:end -->\n",
-    "closed_at": null,
+    "closed_at": "2024-03-05T01:01:10Z",
     "comment_data": [
         {
             "_links": {
@@ -225,7 +225,7 @@
             },
             "author_association": "MEMBER",
             "body": "Instead of fully static, maybe \"fully self-contained\" to avoid overloading the static/shared words.",
-            "commit_id": "a14aa0ffbae680c8ae7356b974074a694028191b",
+            "commit_id": "b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
             "created_at": "2024-02-26T18:09:03Z",
             "diff_hunk": "@@ -346,6 +344,101 @@ docker run \\\n After the build succeeds, you should see the built toxcore libraries in\n `/path/to/where/output/build/result`.\n \n+The file structure should look similar to the following\n+\n+```\n+result\n+├── [4.0K]  i686\n+│   ├── [ 36K]  bin\n+│   │   ├── [636K]  DHT_bootstrap.exe\n+│   │   ├── [572K]  cracker.exe\n+│   │   ├── [359K]  cracker_simple.exe\n+│   │   ├── [378K]  create_bootstrap_keys.exe\n+│   │   ├── [378K]  create_minimal_savedata.exe\n+│   │   ├── [958K]  create_savedata.exe\n+│   │   ├── [ 18K]  libtoxcore.def\n+│   │   ├── [2.6M]  libtoxcore.dll\n+│   │   ├── [ 65K]  libtoxcore.exp\n+│   │   ├── [428K]  libtoxcore.lib\n+│   │   ├── [989K]  save-generator.exe\n+│   │   ├── [381K]  sign.exe\n+│   │   └── [408K]  strkey.exe\n+│   ├── [4.0K]  include\n+│   │   └── [4.0K]  tox\n+│   │       ├── [177K]  tox.h\n+│   │       ├── [ 10K]  tox_dispatch.h\n+│   │       ├── [ 26K]  tox_events.h\n+│   │       ├── [6.4K]  tox_private.h\n+│   │       ├── [ 26K]  toxav.h\n+│   │       └── [ 12K]  toxencryptsave.h\n+│   └── [4.0K]  lib\n+│       ├── [577K]  libopus.a\n+│       ├── [660K]  libsodium.a\n+│       ├── [ 10K]  libssp.a\n+│       ├── [1016K]  libtoxcore.a\n+│       ├── [456K]  libtoxcore.dll.a\n+│       ├── [2.7M]  libvpx.a\n+│       ├── [ 72K]  libwinpthread.a\n+│       └── [4.0K]  pkgconfig\n+│           ├── [ 250]  libsodium.pc\n+│           ├── [ 357]  opus.pc\n+│           ├── [ 247]  toxcore.pc\n+│           └── [ 309]  vpx.pc\n+└── [4.0K]  x86_64\n+    ├── [ 36K]  bin\n+    │   ├── [504K]  DHT_bootstrap.exe\n+    │   ├── [474K]  cracker.exe\n+    │   ├── [277K]  cracker_simple.exe\n+    │   ├── [287K]  create_bootstrap_keys.exe\n+    │   ├── [288K]  create_minimal_savedata.exe\n+    │   ├── [769K]  create_savedata.exe\n+    │   ├── [ 18K]  libtoxcore.def\n+    │   ├── [2.4M]  libtoxcore.dll\n+    │   ├── [ 64K]  libtoxcore.exp\n+    │   ├── [420K]  libtoxcore.lib\n+    │   ├── [800K]  save-generator.exe\n+    │   ├── [289K]  sign.exe\n+    │   └── [317K]  strkey.exe\n+    ├── [4.0K]  include\n+    │   └── [4.0K]  tox\n+    │       ├── [177K]  tox.h\n+    │       ├── [ 10K]  tox_dispatch.h\n+    │       ├── [ 26K]  tox_events.h\n+    │       ├── [6.4K]  tox_private.h\n+    │       ├── [ 26K]  toxav.h\n+    │       └── [ 12K]  toxencryptsave.h\n+    └── [4.0K]  lib\n+        ├── [697K]  libopus.a\n+        ├── [575K]  libsodium.a\n+        ├── [ 11K]  libssp.a\n+        ├── [905K]  libtoxcore.a\n+        ├── [449K]  libtoxcore.dll.a\n+        ├── [2.9M]  libvpx.a\n+        ├── [ 68K]  libwinpthread.a\n+        └── [4.0K]  pkgconfig\n+            ├── [ 252]  libsodium.pc\n+            ├── [ 359]  opus.pc\n+            ├── [ 249]  toxcore.pc\n+            └── [ 311]  vpx.pc\n+\n+12 directories, 60 files\n+```\n+\n+- `libtoxcore.dll` is the shared library. It is fully static, with no additional",
             "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1503089493",
@@ -293,7 +293,7 @@
             },
             "author_association": "MEMBER",
             "body": "It's also possible to ask CMake to create this: https://cmake.org/cmake/help/v3.29/prop_tgt/WINDOWS_EXPORT_ALL_SYMBOLS.html\r\n\r\nNot sure if it's better or worse, though.",
-            "commit_id": "a14aa0ffbae680c8ae7356b974074a694028191b",
+            "commit_id": "b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
             "created_at": "2024-02-26T18:18:51Z",
             "diff_hunk": "@@ -109,6 +111,22 @@ build() {\n     fi\n   fi\n \n+  # generate def, lib and exp as they supposedly help with linking against the dlls,\n+  # especially the lib is supposed to be of great help when linking on msvc.\n+  # cd in order to keep the object names inside .lib and .dll.a short\n+  cd \"$RESULT_PREFIX_DIR\"/bin/\n+  for TOX_DLL in *.dll; do\n+    gendef - \"$TOX_DLL\" > \"${TOX_DLL%.*}.def\"",
             "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1503100353",
@@ -361,7 +361,7 @@
             },
             "author_association": "MEMBER",
             "body": "Done",
-            "commit_id": "a14aa0ffbae680c8ae7356b974074a694028191b",
+            "commit_id": "b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
             "created_at": "2024-02-26T18:58:58Z",
             "diff_hunk": "@@ -346,6 +344,101 @@ docker run \\\n After the build succeeds, you should see the built toxcore libraries in\n `/path/to/where/output/build/result`.\n \n+The file structure should look similar to the following\n+\n+```\n+result\n+├── [4.0K]  i686\n+│   ├── [ 36K]  bin\n+│   │   ├── [636K]  DHT_bootstrap.exe\n+│   │   ├── [572K]  cracker.exe\n+│   │   ├── [359K]  cracker_simple.exe\n+│   │   ├── [378K]  create_bootstrap_keys.exe\n+│   │   ├── [378K]  create_minimal_savedata.exe\n+│   │   ├── [958K]  create_savedata.exe\n+│   │   ├── [ 18K]  libtoxcore.def\n+│   │   ├── [2.6M]  libtoxcore.dll\n+│   │   ├── [ 65K]  libtoxcore.exp\n+│   │   ├── [428K]  libtoxcore.lib\n+│   │   ├── [989K]  save-generator.exe\n+│   │   ├── [381K]  sign.exe\n+│   │   └── [408K]  strkey.exe\n+│   ├── [4.0K]  include\n+│   │   └── [4.0K]  tox\n+│   │       ├── [177K]  tox.h\n+│   │       ├── [ 10K]  tox_dispatch.h\n+│   │       ├── [ 26K]  tox_events.h\n+│   │       ├── [6.4K]  tox_private.h\n+│   │       ├── [ 26K]  toxav.h\n+│   │       └── [ 12K]  toxencryptsave.h\n+│   └── [4.0K]  lib\n+│       ├── [577K]  libopus.a\n+│       ├── [660K]  libsodium.a\n+│       ├── [ 10K]  libssp.a\n+│       ├── [1016K]  libtoxcore.a\n+│       ├── [456K]  libtoxcore.dll.a\n+│       ├── [2.7M]  libvpx.a\n+│       ├── [ 72K]  libwinpthread.a\n+│       └── [4.0K]  pkgconfig\n+│           ├── [ 250]  libsodium.pc\n+│           ├── [ 357]  opus.pc\n+│           ├── [ 247]  toxcore.pc\n+│           └── [ 309]  vpx.pc\n+└── [4.0K]  x86_64\n+    ├── [ 36K]  bin\n+    │   ├── [504K]  DHT_bootstrap.exe\n+    │   ├── [474K]  cracker.exe\n+    │   ├── [277K]  cracker_simple.exe\n+    │   ├── [287K]  create_bootstrap_keys.exe\n+    │   ├── [288K]  create_minimal_savedata.exe\n+    │   ├── [769K]  create_savedata.exe\n+    │   ├── [ 18K]  libtoxcore.def\n+    │   ├── [2.4M]  libtoxcore.dll\n+    │   ├── [ 64K]  libtoxcore.exp\n+    │   ├── [420K]  libtoxcore.lib\n+    │   ├── [800K]  save-generator.exe\n+    │   ├── [289K]  sign.exe\n+    │   └── [317K]  strkey.exe\n+    ├── [4.0K]  include\n+    │   └── [4.0K]  tox\n+    │       ├── [177K]  tox.h\n+    │       ├── [ 10K]  tox_dispatch.h\n+    │       ├── [ 26K]  tox_events.h\n+    │       ├── [6.4K]  tox_private.h\n+    │       ├── [ 26K]  toxav.h\n+    │       └── [ 12K]  toxencryptsave.h\n+    └── [4.0K]  lib\n+        ├── [697K]  libopus.a\n+        ├── [575K]  libsodium.a\n+        ├── [ 11K]  libssp.a\n+        ├── [905K]  libtoxcore.a\n+        ├── [449K]  libtoxcore.dll.a\n+        ├── [2.9M]  libvpx.a\n+        ├── [ 68K]  libwinpthread.a\n+        └── [4.0K]  pkgconfig\n+            ├── [ 252]  libsodium.pc\n+            ├── [ 359]  opus.pc\n+            ├── [ 249]  toxcore.pc\n+            └── [ 311]  vpx.pc\n+\n+12 directories, 60 files\n+```\n+\n+- `libtoxcore.dll` is the shared library. It is fully static, with no additional",
             "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1503147740",
@@ -430,7 +430,7 @@
             },
             "author_association": "MEMBER",
             "body": "In this case they should do the same, but we should either generate the .def using the public headers + hardcoded magic, or decorate all function calls in the .h with dllexport.",
-            "commit_id": "a14aa0ffbae680c8ae7356b974074a694028191b",
+            "commit_id": "b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
             "created_at": "2024-02-26T20:40:21Z",
             "diff_hunk": "@@ -109,6 +111,22 @@ build() {\n     fi\n   fi\n \n+  # generate def, lib and exp as they supposedly help with linking against the dlls,\n+  # especially the lib is supposed to be of great help when linking on msvc.\n+  # cd in order to keep the object names inside .lib and .dll.a short\n+  cd \"$RESULT_PREFIX_DIR\"/bin/\n+  for TOX_DLL in *.dll; do\n+    gendef - \"$TOX_DLL\" > \"${TOX_DLL%.*}.def\"",
             "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1503271041",
@@ -499,7 +499,7 @@
             },
             "author_association": "MEMBER",
             "body": "@robinlinden see https://github.com/TokTok/c-toxcore/pull/2713#issuecomment-1967684863 as GitHub wouldn't allow me to post a message so big as a review comment, kept getting HTTP 500 from the comment endpoint with no visible error message.",
-            "commit_id": "a14aa0ffbae680c8ae7356b974074a694028191b",
+            "commit_id": "b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
             "created_at": "2024-02-27T22:00:55Z",
             "diff_hunk": "@@ -109,6 +111,22 @@ build() {\n     fi\n   fi\n \n+  # generate def, lib and exp as they supposedly help with linking against the dlls,\n+  # especially the lib is supposed to be of great help when linking on msvc.\n+  # cd in order to keep the object names inside .lib and .dll.a short\n+  cd \"$RESULT_PREFIX_DIR\"/bin/\n+  for TOX_DLL in *.dll; do\n+    gendef - \"$TOX_DLL\" > \"${TOX_DLL%.*}.def\"",
             "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1505067193",
@@ -553,12 +553,492 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1506707297"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1506707297"
+                }
+            },
+            "author_association": "MEMBER",
+            "body": "@iphydf did we not have a better solution for this using alias/imported/fake target?",
+            "commit_id": "b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
+            "created_at": "2024-02-28T21:50:45Z",
+            "diff_hunk": "@@ -6,36 +6,42 @@ function(target_link_toxcore target)\n   endif()\n endfunction()\n \n+function(target_link_sodium target)",
+            "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1506707297",
+            "id": 1506707297,
+            "line": 9,
+            "node_id": "PRRC_kwDOA7zIGs5Zzodh",
+            "original_commit_id": "30046d94ee89844914f4f990135ff3fe29b7b656",
+            "original_line": 9,
+            "original_position": 4,
+            "original_start_line": null,
+            "path": "other/fun/CMakeLists.txt",
+            "position": 4,
+            "pull_request_review_id": 1907495131,
+            "pull_request_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1506707297/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2024-02-28T21:50:46Z",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1506707297",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2938071?v=4",
+                "events_url": "https://api.github.com/users/Green-Sky/events{/privacy}",
+                "followers_url": "https://api.github.com/users/Green-Sky/followers",
+                "following_url": "https://api.github.com/users/Green-Sky/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Green-Sky/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/Green-Sky",
+                "id": 2938071,
+                "login": "Green-Sky",
+                "node_id": "MDQ6VXNlcjI5MzgwNzE=",
+                "organizations_url": "https://api.github.com/users/Green-Sky/orgs",
+                "received_events_url": "https://api.github.com/users/Green-Sky/received_events",
+                "repos_url": "https://api.github.com/users/Green-Sky/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/Green-Sky/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Green-Sky/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/Green-Sky"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1510277344"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1510277344"
+                }
+            },
+            "author_association": "MEMBER",
+            "body": "I am ok with this when you copy the full portion from here and not only a part: https://github.com/TokTok/c-toxcore/blob/ed2b60c2177808374a29c22effd30414ec0bffae/testing/CMakeLists.txt#L11-L18",
+            "commit_id": "b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
+            "created_at": "2024-03-03T13:37:57Z",
+            "diff_hunk": "@@ -6,36 +6,42 @@ function(target_link_toxcore target)\n   endif()\n endfunction()\n \n+function(target_link_sodium target)",
+            "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1510277344",
+            "id": 1510277344,
+            "in_reply_to_id": 1506707297,
+            "line": 9,
+            "node_id": "PRRC_kwDOA7zIGs5aBQDg",
+            "original_commit_id": "30046d94ee89844914f4f990135ff3fe29b7b656",
+            "original_line": 9,
+            "original_position": 4,
+            "original_start_line": null,
+            "path": "other/fun/CMakeLists.txt",
+            "position": 4,
+            "pull_request_review_id": 1912988275,
+            "pull_request_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1510277344/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2024-03-03T13:37:57Z",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1510277344",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2938071?v=4",
+                "events_url": "https://api.github.com/users/Green-Sky/events{/privacy}",
+                "followers_url": "https://api.github.com/users/Green-Sky/followers",
+                "following_url": "https://api.github.com/users/Green-Sky/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Green-Sky/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/Green-Sky",
+                "id": 2938071,
+                "login": "Green-Sky",
+                "node_id": "MDQ6VXNlcjI5MzgwNzE=",
+                "organizations_url": "https://api.github.com/users/Green-Sky/orgs",
+                "received_events_url": "https://api.github.com/users/Green-Sky/received_events",
+                "repos_url": "https://api.github.com/users/Green-Sky/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/Green-Sky/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Green-Sky/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/Green-Sky"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1510449737"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1510449737"
+                }
+            },
+            "author_association": "MEMBER",
+            "body": "Done",
+            "commit_id": "b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
+            "created_at": "2024-03-04T00:19:44Z",
+            "diff_hunk": "@@ -6,36 +6,42 @@ function(target_link_toxcore target)\n   endif()\n endfunction()\n \n+function(target_link_sodium target)",
+            "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1510449737",
+            "id": 1510449737,
+            "in_reply_to_id": 1506707297,
+            "line": 9,
+            "node_id": "PRRC_kwDOA7zIGs5aB6JJ",
+            "original_commit_id": "30046d94ee89844914f4f990135ff3fe29b7b656",
+            "original_line": 9,
+            "original_position": 4,
+            "original_start_line": null,
+            "path": "other/fun/CMakeLists.txt",
+            "position": 4,
+            "pull_request_review_id": 1913177584,
+            "pull_request_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1510449737/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2024-03-04T00:19:44Z",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1510449737",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1855294?v=4",
+                "events_url": "https://api.github.com/users/nurupo/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nurupo/followers",
+                "following_url": "https://api.github.com/users/nurupo/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nurupo/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nurupo",
+                "id": 1855294,
+                "login": "nurupo",
+                "node_id": "MDQ6VXNlcjE4NTUyOTQ=",
+                "organizations_url": "https://api.github.com/users/nurupo/orgs",
+                "received_events_url": "https://api.github.com/users/nurupo/received_events",
+                "repos_url": "https://api.github.com/users/nurupo/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nurupo/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nurupo/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nurupo"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1511012882"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1511012882"
+                }
+            },
+            "author_association": "MEMBER",
+            "body": "Nice :)",
+            "commit_id": "b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
+            "created_at": "2024-03-04T11:30:29Z",
+            "diff_hunk": "@@ -149,39 +155,27 @@ jobs:\n         with:\n           username: ${{ secrets.DOCKERHUB_USERNAME }}\n           password: ${{ secrets.DOCKERHUB_TOKEN }}\n-      - name: Build and push\n+      - name: Build and store to local Docker daemon\n         uses: docker/build-push-action@v5\n         with:\n-          context: \"{{defaultContext}}:other/docker/windows\"\n-          push: ${{ github.event_name == 'push' }}\n-          tags: toxchat/windows:win32\n-          cache-from: type=registry,ref=toxchat/windows:win32\n-          cache-to: type=inline\n+          context: other/docker/windows\n+          load: true\n+          tags: toxchat/windows:win${{ matrix.bits }}\n+          cache-from: type=registry,ref=toxchat/windows:win${{ matrix.bits }}\n           build-args: |\n-            SUPPORT_ARCH_i686=true\n-            SUPPORT_ARCH_x86_64=false\n+            SUPPORT_ARCH_i686=${{ matrix.bits == '32' }}",
+            "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1511012882",
+            "id": 1511012882,
+            "line": 166,
+            "node_id": "PRRC_kwDOA7zIGs5aEDoS",
+            "original_commit_id": "b22bb6d0276c58a1285391461ba3e2bf1f1ff435",
+            "original_line": 166,
+            "original_position": 37,
+            "original_start_line": null,
+            "path": ".github/workflows/docker.yml",
+            "position": 37,
+            "pull_request_review_id": 1914076338,
+            "pull_request_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1511012882/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2024-03-04T11:30:29Z",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1511012882",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/10647936?v=4",
+                "events_url": "https://api.github.com/users/iphydf/events{/privacy}",
+                "followers_url": "https://api.github.com/users/iphydf/followers",
+                "following_url": "https://api.github.com/users/iphydf/following{/other_user}",
+                "gists_url": "https://api.github.com/users/iphydf/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/iphydf",
+                "id": 10647936,
+                "login": "iphydf",
+                "node_id": "MDQ6VXNlcjEwNjQ3OTM2",
+                "organizations_url": "https://api.github.com/users/iphydf/orgs",
+                "received_events_url": "https://api.github.com/users/iphydf/received_events",
+                "repos_url": "https://api.github.com/users/iphydf/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/iphydf/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/iphydf/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/iphydf"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1511013714"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1511013714"
+                }
+            },
+            "author_association": "MEMBER",
+            "body": "While you're at it, maybe sort these alphabetically?",
+            "commit_id": "b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
+            "created_at": "2024-03-04T11:31:13Z",
+            "diff_hunk": "@@ -1,10 +1,13 @@\n-FROM debian:bullseye-slim\n+FROM debian:bookworm-slim\n+\n+# When editing, make sure to update /other/windows_build_script_toxcore.sh and\n+# INSTALL.md to match.\n \n # Build-time environment variables\n-ARG VERSION_MSGPACK=4.0.0 \\\n-    VERSION_SODIUM=1.0.19 \\\n-    VERSION_OPUS=1.3.1 \\\n-    VERSION_VPX=1.11.0 \\\n+ARG VERSION_SODIUM=1.0.19 \\",
+            "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1511013714",
+            "id": 1511013714,
+            "line": null,
+            "node_id": "PRRC_kwDOA7zIGs5aED1S",
+            "original_commit_id": "b22bb6d0276c58a1285391461ba3e2bf1f1ff435",
+            "original_line": 7,
+            "original_position": 12,
+            "original_start_line": null,
+            "path": "other/docker/windows/Dockerfile",
+            "position": null,
+            "pull_request_review_id": 1914077691,
+            "pull_request_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1511013714/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2024-03-04T11:31:29Z",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1511013714",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/10647936?v=4",
+                "events_url": "https://api.github.com/users/iphydf/events{/privacy}",
+                "followers_url": "https://api.github.com/users/iphydf/followers",
+                "following_url": "https://api.github.com/users/iphydf/following{/other_user}",
+                "gists_url": "https://api.github.com/users/iphydf/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/iphydf",
+                "id": 10647936,
+                "login": "iphydf",
+                "node_id": "MDQ6VXNlcjEwNjQ3OTM2",
+                "organizations_url": "https://api.github.com/users/iphydf/orgs",
+                "received_events_url": "https://api.github.com/users/iphydf/received_events",
+                "repos_url": "https://api.github.com/users/iphydf/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/iphydf/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/iphydf/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/iphydf"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1511729554"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1511729554"
+                }
+            },
+            "author_association": "MEMBER",
+            "body": "The order is more of: toxcore deps, then toxav deps.",
+            "commit_id": "b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
+            "created_at": "2024-03-04T20:04:35Z",
+            "diff_hunk": "@@ -1,10 +1,13 @@\n-FROM debian:bullseye-slim\n+FROM debian:bookworm-slim\n+\n+# When editing, make sure to update /other/windows_build_script_toxcore.sh and\n+# INSTALL.md to match.\n \n # Build-time environment variables\n-ARG VERSION_MSGPACK=4.0.0 \\\n-    VERSION_SODIUM=1.0.19 \\\n-    VERSION_OPUS=1.3.1 \\\n-    VERSION_VPX=1.11.0 \\\n+ARG VERSION_SODIUM=1.0.19 \\",
+            "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1511729554",
+            "id": 1511729554,
+            "in_reply_to_id": 1511013714,
+            "line": null,
+            "node_id": "PRRC_kwDOA7zIGs5aGymS",
+            "original_commit_id": "b22bb6d0276c58a1285391461ba3e2bf1f1ff435",
+            "original_line": 7,
+            "original_position": 12,
+            "original_start_line": null,
+            "path": "other/docker/windows/Dockerfile",
+            "position": null,
+            "pull_request_review_id": 1915239810,
+            "pull_request_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1511729554/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2024-03-04T20:04:35Z",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1511729554",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1855294?v=4",
+                "events_url": "https://api.github.com/users/nurupo/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nurupo/followers",
+                "following_url": "https://api.github.com/users/nurupo/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nurupo/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nurupo",
+                "id": 1855294,
+                "login": "nurupo",
+                "node_id": "MDQ6VXNlcjE4NTUyOTQ=",
+                "organizations_url": "https://api.github.com/users/nurupo/orgs",
+                "received_events_url": "https://api.github.com/users/nurupo/received_events",
+                "repos_url": "https://api.github.com/users/nurupo/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nurupo/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nurupo/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nurupo"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1511745258"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1511745258"
+                }
+            },
+            "author_association": "MEMBER",
+            "body": "Done",
+            "commit_id": "b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
+            "created_at": "2024-03-04T20:19:59Z",
+            "diff_hunk": "@@ -1,10 +1,13 @@\n-FROM debian:bullseye-slim\n+FROM debian:bookworm-slim\n+\n+# When editing, make sure to update /other/windows_build_script_toxcore.sh and\n+# INSTALL.md to match.\n \n # Build-time environment variables\n-ARG VERSION_MSGPACK=4.0.0 \\\n-    VERSION_SODIUM=1.0.19 \\\n-    VERSION_OPUS=1.3.1 \\\n-    VERSION_VPX=1.11.0 \\\n+ARG VERSION_SODIUM=1.0.19 \\",
+            "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#discussion_r1511745258",
+            "id": 1511745258,
+            "in_reply_to_id": 1511013714,
+            "line": null,
+            "node_id": "PRRC_kwDOA7zIGs5aG2bq",
+            "original_commit_id": "b22bb6d0276c58a1285391461ba3e2bf1f1ff435",
+            "original_line": 7,
+            "original_position": 12,
+            "original_start_line": null,
+            "path": "other/docker/windows/Dockerfile",
+            "position": null,
+            "pull_request_review_id": 1915265649,
+            "pull_request_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1511745258/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2024-03-04T20:19:59Z",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments/1511745258",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1855294?v=4",
+                "events_url": "https://api.github.com/users/nurupo/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nurupo/followers",
+                "following_url": "https://api.github.com/users/nurupo/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nurupo/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nurupo",
+                "id": 1855294,
+                "login": "nurupo",
+                "node_id": "MDQ6VXNlcjE4NTUyOTQ=",
+                "organizations_url": "https://api.github.com/users/nurupo/orgs",
+                "received_events_url": "https://api.github.com/users/nurupo/received_events",
+                "repos_url": "https://api.github.com/users/nurupo/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nurupo/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nurupo/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nurupo"
+            }
         }
     ],
     "comment_regular_data": [
         {
             "author_association": "NONE",
-            "body": "## [Codecov](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2713?src=pr&el=h1&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) Report\nAll modified and coverable lines are covered by tests :white_check_mark:\n> Project coverage is 73.01%. Comparing base [(`d7f2101`)](https://app.codecov.io/gh/TokTok/c-toxcore/commit/d7f21010a1f4882a83a9578cd20450b5c6bdb3eb?el=desc&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) to head [(`a14aa0f`)](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2713?src=pr&el=desc&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).\n\n\n<details><summary>Additional details and impacted files</summary>\n\n\n```diff\n@@            Coverage Diff             @@\n##           master    #2713      +/-   ##\n==========================================\n- Coverage   73.07%   73.01%   -0.06%     \n==========================================\n  Files         149      149              \n  Lines       30517    30517              \n==========================================\n- Hits        22299    22281      -18     \n- Misses       8218     8236      +18     \n```\n\n\n\n</details>\n\n[:umbrella: View full report in Codecov by Sentry](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2713?src=pr&el=continue&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).   \n:loudspeaker: Have feedback on the report? [Share it here](https://about.codecov.io/codecov-pr-comment-feedback/?utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).\n",
+            "body": "## [Codecov](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2713?src=pr&el=h1&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) Report\nAll modified and coverable lines are covered by tests :white_check_mark:\n> Project coverage is 73.11%. Comparing base [(`ed2b60c`)](https://app.codecov.io/gh/TokTok/c-toxcore/commit/ed2b60c2177808374a29c22effd30414ec0bffae?el=desc&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok) to head [(`b3c3c49`)](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2713?src=pr&el=desc&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).\n\n\n<details><summary>Additional details and impacted files</summary>\n\n\n```diff\n@@            Coverage Diff             @@\n##           master    #2713      +/-   ##\n==========================================\n+ Coverage   73.06%   73.11%   +0.05%     \n==========================================\n  Files         149      149              \n  Lines       30517    30517              \n==========================================\n+ Hits        22297    22313      +16     \n+ Misses       8220     8204      -16     \n```\n\n\n\n</details>\n\n[:umbrella: View full report in Codecov by Sentry](https://app.codecov.io/gh/TokTok/c-toxcore/pull/2713?src=pr&el=continue&utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).   \n:loudspeaker: Have feedback on the report? [Share it here](https://about.codecov.io/codecov-pr-comment-feedback/?utm_medium=referral&utm_source=github&utm_content=comment&utm_campaign=pr+comments&utm_term=TokTok).\n",
             "created_at": "2024-02-26T19:40:17Z",
             "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#issuecomment-1965112990",
             "id": 1965112990,
@@ -635,7 +1115,7 @@
                 "total_count": 0,
                 "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1965112990/reactions"
             },
-            "updated_at": "2024-02-28T10:15:32Z",
+            "updated_at": "2024-03-05T00:36:10Z",
             "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1965112990",
             "user": {
                 "avatar_url": "https://avatars.githubusercontent.com/in/254?v=4",
@@ -800,6 +1280,50 @@
             "node_id": "IC_kwDOA7zIGs51UN7S",
             "performed_via_github_app": null,
             "reactions": {
+                "+1": 1,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 1,
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1968234194/reactions"
+            },
+            "updated_at": "2024-02-28T05:01:54Z",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1968234194",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1855294?v=4",
+                "events_url": "https://api.github.com/users/nurupo/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nurupo/followers",
+                "following_url": "https://api.github.com/users/nurupo/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nurupo/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nurupo",
+                "id": 1855294,
+                "login": "nurupo",
+                "node_id": "MDQ6VXNlcjE4NTUyOTQ=",
+                "organizations_url": "https://api.github.com/users/nurupo/orgs",
+                "received_events_url": "https://api.github.com/users/nurupo/received_events",
+                "repos_url": "https://api.github.com/users/nurupo/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nurupo/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nurupo/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nurupo"
+            }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "I feel like calling the ci job just \"windows\" is misleading since we also have msvc. so \"windows-mingw\" and \"windows-msvc\" or similar would be more appropriate.",
+            "created_at": "2024-02-28T11:26:17Z",
+            "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#issuecomment-1968780186",
+            "id": 1968780186,
+            "issue_url": "https://api.github.com/repos/TokTok/c-toxcore/issues/2713",
+            "node_id": "IC_kwDOA7zIGs51WTOa",
+            "performed_via_github_app": null,
+            "reactions": {
                 "+1": 0,
                 "-1": 0,
                 "confused": 0,
@@ -809,10 +1333,186 @@
                 "laugh": 0,
                 "rocket": 0,
                 "total_count": 0,
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1968234194/reactions"
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1968780186/reactions"
             },
-            "updated_at": "2024-02-28T05:01:54Z",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1968234194",
+            "updated_at": "2024-02-28T11:26:17Z",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1968780186",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2938071?v=4",
+                "events_url": "https://api.github.com/users/Green-Sky/events{/privacy}",
+                "followers_url": "https://api.github.com/users/Green-Sky/followers",
+                "following_url": "https://api.github.com/users/Green-Sky/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Green-Sky/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/Green-Sky",
+                "id": 2938071,
+                "login": "Green-Sky",
+                "node_id": "MDQ6VXNlcjI5MzgwNzE=",
+                "organizations_url": "https://api.github.com/users/Green-Sky/orgs",
+                "received_events_url": "https://api.github.com/users/Green-Sky/received_events",
+                "repos_url": "https://api.github.com/users/Green-Sky/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/Green-Sky/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Green-Sky/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/Green-Sky"
+            }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "@Green-Sky looks good now?",
+            "created_at": "2024-02-28T21:43:49Z",
+            "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#issuecomment-1969971022",
+            "id": 1969971022,
+            "issue_url": "https://api.github.com/repos/TokTok/c-toxcore/issues/2713",
+            "node_id": "IC_kwDOA7zIGs51a19O",
+            "performed_via_github_app": null,
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1969971022/reactions"
+            },
+            "updated_at": "2024-02-28T21:43:49Z",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1969971022",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1855294?v=4",
+                "events_url": "https://api.github.com/users/nurupo/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nurupo/followers",
+                "following_url": "https://api.github.com/users/nurupo/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nurupo/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nurupo",
+                "id": 1855294,
+                "login": "nurupo",
+                "node_id": "MDQ6VXNlcjE4NTUyOTQ=",
+                "organizations_url": "https://api.github.com/users/nurupo/orgs",
+                "received_events_url": "https://api.github.com/users/nurupo/received_events",
+                "repos_url": "https://api.github.com/users/nurupo/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nurupo/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nurupo/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nurupo"
+            }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "> Title contains \"WIP\"",
+            "created_at": "2024-03-04T13:01:48Z",
+            "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#issuecomment-1976534432",
+            "id": 1976534432,
+            "issue_url": "https://api.github.com/repos/TokTok/c-toxcore/issues/2713",
+            "node_id": "IC_kwDOA7zIGs51z4Wg",
+            "performed_via_github_app": null,
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1976534432/reactions"
+            },
+            "updated_at": "2024-03-04T13:01:48Z",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1976534432",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2938071?v=4",
+                "events_url": "https://api.github.com/users/Green-Sky/events{/privacy}",
+                "followers_url": "https://api.github.com/users/Green-Sky/followers",
+                "following_url": "https://api.github.com/users/Green-Sky/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Green-Sky/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/Green-Sky",
+                "id": 2938071,
+                "login": "Green-Sky",
+                "node_id": "MDQ6VXNlcjI5MzgwNzE=",
+                "organizations_url": "https://api.github.com/users/Green-Sky/orgs",
+                "received_events_url": "https://api.github.com/users/Green-Sky/received_events",
+                "repos_url": "https://api.github.com/users/Green-Sky/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/Green-Sky/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Green-Sky/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/Green-Sky"
+            }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": ">code-review/reviewable Pending — 1 of 2 ✓ (iphydf, nurupo, robinlinden)\r\n",
+            "created_at": "2024-03-04T21:10:31Z",
+            "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#issuecomment-1977461093",
+            "id": 1977461093,
+            "issue_url": "https://api.github.com/repos/TokTok/c-toxcore/issues/2713",
+            "node_id": "IC_kwDOA7zIGs513all",
+            "performed_via_github_app": null,
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1977461093/reactions"
+            },
+            "updated_at": "2024-03-04T21:10:31Z",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1977461093",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1855294?v=4",
+                "events_url": "https://api.github.com/users/nurupo/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nurupo/followers",
+                "following_url": "https://api.github.com/users/nurupo/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nurupo/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nurupo",
+                "id": 1855294,
+                "login": "nurupo",
+                "node_id": "MDQ6VXNlcjE4NTUyOTQ=",
+                "organizations_url": "https://api.github.com/users/nurupo/orgs",
+                "received_events_url": "https://api.github.com/users/nurupo/received_events",
+                "repos_url": "https://api.github.com/users/nurupo/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nurupo/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nurupo/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nurupo"
+            }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": ">nurupo requested review from iphydf and robinlinden 2 minutes ago\r\n\r\nThat was done by Reviewable, I didn't manually request those. I guess Reviewable really wants @iphydf and @robinlinden to review this PR, even though @iphydf has approved it already.",
+            "created_at": "2024-03-04T21:20:33Z",
+            "html_url": "https://github.com/TokTok/c-toxcore/pull/2713#issuecomment-1977476633",
+            "id": 1977476633,
+            "issue_url": "https://api.github.com/repos/TokTok/c-toxcore/issues/2713",
+            "node_id": "IC_kwDOA7zIGs513eYZ",
+            "performed_via_github_app": null,
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1977476633/reactions"
+            },
+            "updated_at": "2024-03-04T21:20:33Z",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/issues/comments/1977476633",
             "user": {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1855294?v=4",
                 "events_url": "https://api.github.com/users/nurupo/events{/privacy}",
@@ -858,7 +1558,7 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/10f9c7b69dcc94516d650c199e066b6716eb3fc9/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/e519f7998b75ed3701f6b9d6d9cc7cadc428686c/comments",
             "commit": {
                 "author": {
                     "date": "2024-02-25T22:08:15Z",
@@ -867,20 +1567,20 @@
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-25T22:08:15Z",
+                    "date": "2024-02-28T21:42:55Z",
                     "email": "nurupo.contributions@gmail.com",
                     "name": "Maxim Biro"
                 },
                 "message": "fix: Remove unnecessary wsock32 dependency on Windows\n\nLooks like it was added by a mistake:\n\n1. We didn't have this dependency before, in fact, autotools still\n   doesn't have it, it was added only to CMake.\n\n2. During my testing, when building the echo_bot example, there are no\n   unresolved symbols left after linking against `libtox.a libsodium.a\n   -pthread -lws2_32 -liphlpapi`, which indicates that `-lwsock32` is\n   unnecessary.",
                 "tree": {
-                    "sha": "6215f281f905850fbdef6948bdc13d97fa93ee6a",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/6215f281f905850fbdef6948bdc13d97fa93ee6a"
+                    "sha": "30d106036ed93bd35b8ebf20a83fd994f3bf99a6",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/30d106036ed93bd35b8ebf20a83fd994f3bf99a6"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/10f9c7b69dcc94516d650c199e066b6716eb3fc9",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/e519f7998b75ed3701f6b9d6d9cc7cadc428686c",
                 "verification": {
-                    "payload": "tree 6215f281f905850fbdef6948bdc13d97fa93ee6a\nparent d7f21010a1f4882a83a9578cd20450b5c6bdb3eb\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708898895 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1708898895 -0500\n\nfix: Remove unnecessary wsock32 dependency on Windows\n\nLooks like it was added by a mistake:\n\n1. We didn't have this dependency before, in fact, autotools still\n   doesn't have it, it was added only to CMake.\n\n2. During my testing, when building the echo_bot example, there are no\n   unresolved symbols left after linking against `libtox.a libsodium.a\n   -pthread -lws2_32 -liphlpapi`, which indicates that `-lwsock32` is\n   unnecessary.\n",
+                    "payload": "tree 30d106036ed93bd35b8ebf20a83fd994f3bf99a6\nparent ed2b60c2177808374a29c22effd30414ec0bffae\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708898895 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709156575 -0500\n\nfix: Remove unnecessary wsock32 dependency on Windows\n\nLooks like it was added by a mistake:\n\n1. We didn't have this dependency before, in fact, autotools still\n   doesn't have it, it was added only to CMake.\n\n2. During my testing, when building the echo_bot example, there are no\n   unresolved symbols left after linking against `libtox.a libsodium.a\n   -pthread -lws2_32 -liphlpapi`, which indicates that `-lwsock32` is\n   unnecessary.\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXbvZEACgkQqzrZiWRy\nv6Sq9Q/7BdYwSwevZ8lFKMXijL2UCx+E4TYiPM52pYfXxOxtwH05LRLC7mwdd8Tv\nG70a/uQQxQCcddDc2THLtJLAHbAyUp4PKmRHUzYubKSX4DnLLZzT55+Sg2ipp65x\ntSC6/C8wuMZAPHe57mEVMc/SdVPbTDGdBpargczsrTaGIYemfQlfkpKdy0cvbEhF\nuOwlQn5QPn88z0hilD5ExN7k+UyQngrEHLZvbvO91XSRAe31Md1ARSLUv1xNCPmj\nvuRiRYPU5DfFz7wQGBwl4yxnXcbhXkrqT21yU8mdv3RsqneK5IelxOsl4jIz8lNh\nLB0y1aemeedsIlk50p9oysu560TdYtWracYLa9IhJBMe1WFXG8JO4hXtItNNVkCP\nbYGIXdXp1tdu25rN3zcU5buftTMpXcXuACTG49pxYlVFNfDkSO1dDYqsf2I9aQX2\nKXbGKylFsTxv0ek7UwPB8huDoh/r/rfQ2n6K+SSqXxsDut0nRPwx2t8/yrpWdJ0L\nHlH+gj17ZWL9vz97YRmrRkZUQQiNXmLhhdm0PqJ32cbATwDyJV7tjaIQfVJCdJF+\npKINTgX0nSvz3gHWoIaGTIl2BmSjlQ6o/zR4oR58L+baFsPMfYjTO2BuDpLXNFFl\nY8r+iIUyiohE3rx25th6HOkMTmd/djQCSzljkSou/t7GdSLN5UQ=\n=POMS\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXfqN8ACgkQqzrZiWRy\nv6TG7Q/+OCUDFZ2QzFNtkQ48/8nAINq1U24eCSix+vibLZah8/xhuueiEht8zCiF\nCvLO/wLxlraO7cHV1CNKtZ1rcozv4rNJGZAlu7ceJlQPzY3/hpPSknhxlYw4nAvT\nRWzdZ9jkGnWWKxv156OXpjVpQEXrnDafO5GlPNO2NFXhLPywcBS4OALkNlfgpyzl\nJ2kiavY35sTK6z0l+Qp864TjcOuKkYScsFe3GXh7lAxBfo9shdwfO5r0ppNkFYNK\n1xnPHAdmyvHALCiOLpyYgd94GbBaM0alueZO1e+6F/LxjFXz5Ehc9ozpKLgfex2O\nVBQC1OI/hoES4CMLwxGHfy4jC9mGAPUiOJ5fcqEWiM7ysYdpTuUShZi0kO7wkjZg\nAq9GXoQKMGsqzGGp5t7IrM+0jtQr21jnv4ntctH0Q5FwZ5AdF8ZKCM55Vu94e1T4\nKKRjjlTAtxQV+RSGyIYgirFq/u9kWavpiYZlpVeg1Q8w8N3PY6s+G0jGmWCYAZX3\nv/APN3vOOszT+FSsAiVBmcVfJ+uNh1SQpssHNP8OCmnPYV0Esrk7DnFCNGW068fA\nOCvQSJdeIMslTlRdMGHZA1jmZ2OTuGCW4VLM3on09KgkGSb3VzA8H03BFi0EZ3JM\nYlnNgygiDCaWQVL24XH2QXXsEWARmvPa7EQKE8bxdOURi/ZGIqA=\n=aYCw\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -904,17 +1604,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/10f9c7b69dcc94516d650c199e066b6716eb3fc9",
-            "node_id": "C_kwDOAKalfdoAKDEwZjljN2I2OWRjYzk0NTE2ZDY1MGMxOTllMDY2YjY3MTZlYjNmYzk",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/e519f7998b75ed3701f6b9d6d9cc7cadc428686c",
+            "node_id": "C_kwDOAKalfdoAKGU1MTlmNzk5OGI3NWVkMzcwMWY2YjlkNmQ5Y2M3Y2FkYzQyODY4NmM",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/d7f21010a1f4882a83a9578cd20450b5c6bdb3eb",
-                    "sha": "d7f21010a1f4882a83a9578cd20450b5c6bdb3eb",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/d7f21010a1f4882a83a9578cd20450b5c6bdb3eb"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/ed2b60c2177808374a29c22effd30414ec0bffae",
+                    "sha": "ed2b60c2177808374a29c22effd30414ec0bffae",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/ed2b60c2177808374a29c22effd30414ec0bffae"
                 }
             ],
-            "sha": "10f9c7b69dcc94516d650c199e066b6716eb3fc9",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/10f9c7b69dcc94516d650c199e066b6716eb3fc9"
+            "sha": "e519f7998b75ed3701f6b9d6d9cc7cadc428686c",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/e519f7998b75ed3701f6b9d6d9cc7cadc428686c"
         },
         {
             "author": {
@@ -937,7 +1637,7 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/092dd7728a2d3a64131fc6c4a55399d4af954da9/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/8d431c0d11f1808b251adcd38fee908a13c000bd/comments",
             "commit": {
                 "author": {
                     "date": "2024-02-25T23:25:54Z",
@@ -946,20 +1646,20 @@
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-26T08:05:45Z",
+                    "date": "2024-03-04T20:11:43Z",
                     "email": "nurupo.contributions@gmail.com",
                     "name": "Maxim Biro"
                 },
                 "message": "chore: Bump Windows build dependency versions",
                 "tree": {
-                    "sha": "a0e59e13b1b609be5043a4ca2adce10ef256160d",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/a0e59e13b1b609be5043a4ca2adce10ef256160d"
+                    "sha": "8369976e98c97e2a0cb98ad31929ccd020eb93bb",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/8369976e98c97e2a0cb98ad31929ccd020eb93bb"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/092dd7728a2d3a64131fc6c4a55399d4af954da9",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/8d431c0d11f1808b251adcd38fee908a13c000bd",
                 "verification": {
-                    "payload": "tree a0e59e13b1b609be5043a4ca2adce10ef256160d\nparent 10f9c7b69dcc94516d650c199e066b6716eb3fc9\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708903554 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1708934745 -0500\n\nchore: Bump Windows build dependency versions\n",
+                    "payload": "tree 8369976e98c97e2a0cb98ad31929ccd020eb93bb\nparent e519f7998b75ed3701f6b9d6d9cc7cadc428686c\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708903554 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709583103 -0500\n\nchore: Bump Windows build dependency versions\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXcRlkACgkQqzrZiWRy\nv6S2Mw/+N9RV9uFl7i2qwu/cJwPQSdx8UthBQtIzaF5PKcIG1IhZo0z/mEY7ZtWc\npCG+9VOfH3CnxmdNPfBeIWJfm347sd0g3VT4BLVq5AWXVJBB6Pb1FMpxgvlgDIT/\nHfOFxCd25/BgAkUoLaoY+9yLEgZiXnT2hIOMIDZYsK5+G9dX1xS0UjApKDDRAKfD\ni4dHLMiJtLfXlg+iS9pX9u/GA+Nsgf55M+dXg5WB/RLY5BUZPkeR2g/sN1Dv8Fnw\nH893cL7ttUkLHKro8C2KWhU4sxRx0ELFM6n1MBHqnbvdRHTNMPy4/holjqjSh6Cr\nsS4POEOTm4TDSGra6yhseUTn3R1PXMn1Jg8BolHxRGSEvS4Re9xguttPBmNKcKqm\nznb1subPKaywIq+K/Co9/DEgEnLKBR7EGElgo3cx6vnzA4VDkY5Q6Wu7xpuILqtI\nG4/yMotXuAYSfFF7E7ydD9cIjWmy07kfOsBdCF38HvYeiGFmEBgvFcjKAwumveQR\nBYu098RdBeB8jvrOlXMeoxp45+c9OJSoQ6XyTqFdB0DVi95U946vO0XGbcIxAqjd\nAf/JYgRnJfZSehrlNuHaGIeq/0s0SY7eu+lV3cmBGDpzyOQXgHRuRJtniPEE1is5\nChjMEcSUwx5bqW6KC9n4q3frM20mlo4/uBYjx4CAvua4miz0GQQ=\n=VQMe\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXmKv8ACgkQqzrZiWRy\nv6SKKhAAiPrL2gqIm06dr2I079zMRrlWEnJEfihPhtGrGHWmFErrnfA2FyffIrqM\n9EzMRv1TbMXBVerbuU5c5ja4zNhGRimmNgfBSZklPAIneXqrseLJQdsr+rUwc+e2\nmkUNxtptx4IFIpbhgiiVEREp0fYov4cA7ZRyEC676iabk51H6WSqynhbV6KRc3ga\nf3GL8rBWb+RF/1RS+vQLuxie59fv7KxJcvbv8+0gg6g2vmp+SelER/qJDbz35tHX\nq3Tq3oapaXP77jRwyh7Mu1sgi1+wXRnZJ8iqC5FFDj6Qe2lMYPZdfeKkEbfDQsuO\nL2ipwp9XAdCIKuomTrOLTszXb53AlWlH0b30vbV25k6gt7yYUAGfVsSSmU4ymbFU\nOAK+qgi6R5Zq5p3wBW73Y3VGYx2C+aYpaflkuUEUg3+rvZ/UKmfd12fbUTkWXBn/\nf5FJk11vnAdPe/98FVRKCamsZs52EWim5v6RjESDhAYWyPWfQed6sIfwFqAMuYCB\ns65JZJmcyDwuJ64Z26Px19rgKUObSaj097Y4oatWww+MFr5NrMQZ/FJJNdbGc20R\n+MSR0bHwrmZvEGbNQKsjrNJo4f2PLEnuZZ+HI0nOAv7jevI574nq4nKoAtdkRYN5\nm7xItvhvMLg7pSJstnzwz7fkb1dhVmV4kI6BJ6j8nfKhqRvC55k=\n=XmTj\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -983,17 +1683,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/092dd7728a2d3a64131fc6c4a55399d4af954da9",
-            "node_id": "C_kwDOAKalfdoAKDA5MmRkNzcyOGEyZDNhNjQxMzFmYzZjNGE1NTM5OWQ0YWY5NTRkYTk",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/8d431c0d11f1808b251adcd38fee908a13c000bd",
+            "node_id": "C_kwDOAKalfdoAKDhkNDMxYzBkMTFmMTgwOGIyNTFhZGNkMzhmZWU5MDhhMTNjMDAwYmQ",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/10f9c7b69dcc94516d650c199e066b6716eb3fc9",
-                    "sha": "10f9c7b69dcc94516d650c199e066b6716eb3fc9",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/10f9c7b69dcc94516d650c199e066b6716eb3fc9"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/e519f7998b75ed3701f6b9d6d9cc7cadc428686c",
+                    "sha": "e519f7998b75ed3701f6b9d6d9cc7cadc428686c",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/e519f7998b75ed3701f6b9d6d9cc7cadc428686c"
                 }
             ],
-            "sha": "092dd7728a2d3a64131fc6c4a55399d4af954da9",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/092dd7728a2d3a64131fc6c4a55399d4af954da9"
+            "sha": "8d431c0d11f1808b251adcd38fee908a13c000bd",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/8d431c0d11f1808b251adcd38fee908a13c000bd"
         },
         {
             "author": {
@@ -1016,7 +1716,7 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/aa4d7972c9cb1a6a1eafd9843c82aaeab2826542/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/246642e9aec5b26ca4ea6c28af5e8bb9237fa6d3/comments",
             "commit": {
                 "author": {
                     "date": "2024-02-25T23:57:15Z",
@@ -1025,20 +1725,20 @@
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-28T01:25:31Z",
+                    "date": "2024-03-04T20:11:45Z",
                     "email": "nurupo.contributions@gmail.com",
                     "name": "Maxim Biro"
                 },
                 "message": "feat: Harden Windows cross-compilation\n\nThe same hardening flags as the slated for the upcoming gcc's\n`-fhardened` sets, sans `-Wl,-z,relro,-z,now` as MinGW-w64's gcc doesn't\nsupport -z flags. This adds a dependency on libssp -- gcc's stack\nprotector library.",
                 "tree": {
-                    "sha": "a473b2095d7a635194ac4d7bd917920408fa8364",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/a473b2095d7a635194ac4d7bd917920408fa8364"
+                    "sha": "403c19ec9847e1dec5914f06e2dff9ae7a96e036",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/403c19ec9847e1dec5914f06e2dff9ae7a96e036"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/aa4d7972c9cb1a6a1eafd9843c82aaeab2826542",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/246642e9aec5b26ca4ea6c28af5e8bb9237fa6d3",
                 "verification": {
-                    "payload": "tree a473b2095d7a635194ac4d7bd917920408fa8364\nparent 092dd7728a2d3a64131fc6c4a55399d4af954da9\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708905435 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709083531 -0500\n\nfeat: Harden Windows cross-compilation\n\nThe same hardening flags as the slated for the upcoming gcc's\n`-fhardened` sets, sans `-Wl,-z,relro,-z,now` as MinGW-w64's gcc doesn't\nsupport -z flags. This adds a dependency on libssp -- gcc's stack\nprotector library.\n",
+                    "payload": "tree 403c19ec9847e1dec5914f06e2dff9ae7a96e036\nparent 8d431c0d11f1808b251adcd38fee908a13c000bd\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708905435 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709583105 -0500\n\nfeat: Harden Windows cross-compilation\n\nThe same hardening flags as the slated for the upcoming gcc's\n`-fhardened` sets, sans `-Wl,-z,relro,-z,now` as MinGW-w64's gcc doesn't\nsupport -z flags. This adds a dependency on libssp -- gcc's stack\nprotector library.\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXei4sACgkQqzrZiWRy\nv6QeLhAApYw2v+zZx1d0uaAu1QBvE7BKKYkAnX+4DQkwh1T/7EaJoXSY8tPGR9Dm\nN8BO4ManyjHE30sE7jOFKjKDfsLXDlbBBKKUl9D5CYfySg6dP0eSLXNR6TqNgxH4\nQ/Z2oEQes0RkcoYbjN7Gg8/X7/+8jofYMsIOzEVx8fTXEmZgxyE+G+ynDzrdPK2A\n6XxltfiB152Nz5NQUwHp5H3q2RC/xY0trUmCmz7EUmDa+Mief4lWaANWx6ds6Yhd\nkYlwurzFHYVtc3rE1m2W1jBNXh8GqUaI3rJ6uImfiVwrLdOspC425tYCmoQI7AJH\nlMwc1zj7+eWt9YdcPBPcBVaxm6yfMTM2jgXLewFPhwaVNiCllfx26yXcPQX2ei5/\nekgjkIAhB/2rJK8kAYv3sMsqpfRhAanheFcTvZWAQ9T6Fuq1RH6jTTlch6QpDVSc\nSeHP2Qjo2q9RRu22nXhNBMA7YiCdPrq7ETDLX0248gpM1IO2NppuKW2to2l/aAjd\nuuD9bvZPCVVlN0djfyXPBpUKu+DeBCzTu1XC11hK03t1BnqFi+4Yqhfo6dyKBCZQ\nJ1MF1pYDDL7PQCV2mdodwqcpRPSkVOomzUpEJIcB97O1CxtbYSAJznbqkzduPHVn\n6/2/LgzozwZptnIspI+FLgl7OmOKgYxA1Qpf9rjUPac93w9Sn60=\n=veQy\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXmKwEACgkQqzrZiWRy\nv6RN2hAAnvsSP3t8lHAotUVyPQjeMDSQgR6WUdtpRaXxrKo6MBp5FkdvstL/2lP8\nmKnJV1GIIUG8teZRHxFJQHJ8hkzyyeImLCHlLB0LfC+VUzmll4gK7YPq/2hkBR4+\ntYhZqfxcDFECxTaWzkAARrpQ18wYGiUMvCt3n9lg0lcBU6R3VVeG28kCEVR7/kKn\nco0UH+s4aOTRqjagHO9nHRE+2xGcTy8+czecNkZSaGpScVX474eTXt5pKXoietXR\n0YdLFvtktVs1J2y/WDPXHhgr7YlUhpKJxD8mXOCXa50sqkAzhQ0BgE8WAdvfWD9E\nQZ18cFt+XrSQZXz5EtIKM4NIeExyKZnDupjNhTAnL7mSXHdPGpQlYMgSJeocKL85\ntDH7VasC8PDG7Fm4hKjvnvv4hgR5x5sOcI8ayP5bpvkObAso/KhfgJcQ0Iikf+J+\npE/tRlXI+5WewTkZxh5ptk+KHUJ2sVMaXWy07WYDqZcesvGqPoa73ca7NQfPjuvK\nKS7gKddxvA2uRDwOPbmx1EyuI/+QMVKAefqKeJGHYLgdn8VGQHrTCS795Q9vRlLa\nMwmyHL3MXG76Px3gv5EslqIMgwKE7gYH3+oypa2vdUdISv/C6bLT1h0EG72uDA0e\nIsxTr5SC1j+qiqVT+xxxXpaf2DSe0OiTnB02v/43EF9Bo3no/Tw=\n=MGlQ\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -1062,17 +1762,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/aa4d7972c9cb1a6a1eafd9843c82aaeab2826542",
-            "node_id": "C_kwDOAKalfdoAKGFhNGQ3OTcyYzljYjFhNmExZWFmZDk4NDNjODJhYWVhYjI4MjY1NDI",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/246642e9aec5b26ca4ea6c28af5e8bb9237fa6d3",
+            "node_id": "C_kwDOAKalfdoAKDI0NjY0MmU5YWVjNWIyNmNhNGVhNmMyOGFmNWU4YmI5MjM3ZmE2ZDM",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/092dd7728a2d3a64131fc6c4a55399d4af954da9",
-                    "sha": "092dd7728a2d3a64131fc6c4a55399d4af954da9",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/092dd7728a2d3a64131fc6c4a55399d4af954da9"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/8d431c0d11f1808b251adcd38fee908a13c000bd",
+                    "sha": "8d431c0d11f1808b251adcd38fee908a13c000bd",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/8d431c0d11f1808b251adcd38fee908a13c000bd"
                 }
             ],
-            "sha": "aa4d7972c9cb1a6a1eafd9843c82aaeab2826542",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/aa4d7972c9cb1a6a1eafd9843c82aaeab2826542"
+            "sha": "246642e9aec5b26ca4ea6c28af5e8bb9237fa6d3",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/246642e9aec5b26ca4ea6c28af5e8bb9237fa6d3"
         },
         {
             "author": {
@@ -1095,7 +1795,7 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/4fd25c7b3df1fcb21f5ba5d698af3521a56c45f5/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/74bbac5363172c21fd0e60aa74947aecc2a4df22/comments",
             "commit": {
                 "author": {
                     "date": "2024-02-26T00:15:42Z",
@@ -1104,20 +1804,20 @@
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-28T01:25:33Z",
+                    "date": "2024-03-04T20:11:46Z",
                     "email": "nurupo.contributions@gmail.com",
                     "name": "Maxim Biro"
                 },
                 "message": "feat: Let CMake create the dll instead of doing so ourselves\n\nWe used to make the dll manually as we previously had 3 dlls:\nlibtoxcore.dll, libtoxav.dll and libtoxencryptsave.dll, but for Windows\nwe wanted them to be all combined into libtox.dll with all the\ndependencies included: libsodium, libopus, libvpx, pthreads, etc, to\nreduce the overall dll size and simplify linking. However, since CMake\nnow produces a single libtoxcore.dll with toxcore, toxav and\ntoxencryptsave included, we don't have to do this manually anymore.\n\nThis results in the dll being named libtoxcore.dll instead of the\nlibtox.dll that it previously was, matching the static libtoxcore.a's\nname.",
                 "tree": {
-                    "sha": "c2fc2ac9f7a130b2e47fe9a2ddddd04000e371b7",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/c2fc2ac9f7a130b2e47fe9a2ddddd04000e371b7"
+                    "sha": "1f06b1d00cb919f66602611e0ab9feaa5c3a8908",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/1f06b1d00cb919f66602611e0ab9feaa5c3a8908"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/4fd25c7b3df1fcb21f5ba5d698af3521a56c45f5",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/74bbac5363172c21fd0e60aa74947aecc2a4df22",
                 "verification": {
-                    "payload": "tree c2fc2ac9f7a130b2e47fe9a2ddddd04000e371b7\nparent aa4d7972c9cb1a6a1eafd9843c82aaeab2826542\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708906542 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709083533 -0500\n\nfeat: Let CMake create the dll instead of doing so ourselves\n\nWe used to make the dll manually as we previously had 3 dlls:\nlibtoxcore.dll, libtoxav.dll and libtoxencryptsave.dll, but for Windows\nwe wanted them to be all combined into libtox.dll with all the\ndependencies included: libsodium, libopus, libvpx, pthreads, etc, to\nreduce the overall dll size and simplify linking. However, since CMake\nnow produces a single libtoxcore.dll with toxcore, toxav and\ntoxencryptsave included, we don't have to do this manually anymore.\n\nThis results in the dll being named libtoxcore.dll instead of the\nlibtox.dll that it previously was, matching the static libtoxcore.a's\nname.\n",
+                    "payload": "tree 1f06b1d00cb919f66602611e0ab9feaa5c3a8908\nparent 246642e9aec5b26ca4ea6c28af5e8bb9237fa6d3\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708906542 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709583106 -0500\n\nfeat: Let CMake create the dll instead of doing so ourselves\n\nWe used to make the dll manually as we previously had 3 dlls:\nlibtoxcore.dll, libtoxav.dll and libtoxencryptsave.dll, but for Windows\nwe wanted them to be all combined into libtox.dll with all the\ndependencies included: libsodium, libopus, libvpx, pthreads, etc, to\nreduce the overall dll size and simplify linking. However, since CMake\nnow produces a single libtoxcore.dll with toxcore, toxav and\ntoxencryptsave included, we don't have to do this manually anymore.\n\nThis results in the dll being named libtoxcore.dll instead of the\nlibtox.dll that it previously was, matching the static libtoxcore.a's\nname.\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXei40ACgkQqzrZiWRy\nv6SLzBAApQJcHTpTG1t0BTMG5t6wIWYN0nAcvPRXEUk/xd7GfRhROwByC14HjxJ2\nC9vCaaMspROrdqfU3xOevFH38BTSYU4r2ajUV9SQhBj3TWnJDz19ikPgt4yS/KrK\nH/vVuScA8+m8m7xqvxctKc3HQ9fMeHr8ACfKEb8I/HztZj/onlvltYCrmT9wB7+F\nKLsvPvcSxIjW576S4A79vy7J/VYw0f9lteJo8n2+J/xOa01bBhHWS0bypWGi3d+c\nVQFrhL86ggGnrbwcexpq8nDFYIHXSmd0txJ+9uvoYn4WUau34OtSiRzTr2ueCmlU\ngormdADZjnCEH0JOzaXZK1G6bCHIgqlPCGnknE6Xur0pEhXgeyKvXkVwBCm/Br0i\nTqCPEbPoCTQxIQKZilL86QaedVKSCk0YB++fZbAwRrktgfqy//T1K2x+caPT35P0\n43gZVdYqfTZax80Dmk23nSszv3iVGkkwPJiMlMbvwudY4S+WHOhKCN5QroZXBj/0\npgC+Agwm+IbV+TSSgzhs8FPP8AdPdtiP/vC6yA2Gpd2anUFt9MBawr6Gfaxoy/jE\ndtDkSP4hsyH4iwJ+U8wEF8zuz34nG5Kmlw0logui0HuusEayuiNXi8PTva4wGgmK\n9aj/QJ9afvlpj3jdaMwaHTV/Wi9sPHw3lJ9SPgyFv4e4590p7FI=\n=UxmY\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXmKwIACgkQqzrZiWRy\nv6Q7tA//SXhOjqj7Im7Rvs51RXfUuGqua7rGBTmDnTr2G7lCiwXV0BCuf5YzgK58\nO7bLWFSGiZ+T/b9R0XnEowdzDE+evuFZkzFBcDcmUFrbzN3k+0HPDusz07dFVXkr\nFucxH7juAeTRKk8quQs+XmD02m47fIiizITgvRfFAPQW3jEOi8C3SkPOniuf1Nup\nNOLFZ3ha+fMY6R8vnSz2Yo+isql8E7d9eBkac4m2dT9PUZIDe6I1Jn9p/nJk/79T\n4NH85aH1mceCfr6ZslY3rckcQp9Jl3//jiFlUKYpUJDTdjn6Q6Pxt/uc7RRoUpy7\nLAFDMegCQOkxUOftkAL4ch2HbQ+apumPPh2hF24tSiroD7Q0M3VJepVVlCY1JsiF\nSGRbPaPs//GQmmO9XD7uQLblsNJ3dOuhFt75Xwa0wmHDZmYt2cKGeRkdP6hhx0HV\n5Vwml2bEkE7D+baJxMInYw7cC1OvHrr6FP6BeOYT5lDRganAfajhE4vUgHCkJ46c\nec95vCM3lMVOzGCd3EPKOF80egbcrgSsYfqQrnPuJP2Wo5CXYvQ/bnmDRiJadxx0\nNwvWvZ15Rz72rQk+GRJlOd+rikdFew3WU9F6PoKtEqbQkmnGedWHSs+LQXkZj4Ad\ngFjz4Uy6TwHNqnGf/H8AdEV5c6B5uYWbmxxfR5Ged2v4Qbxv6yY=\n=QcAu\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -1141,17 +1841,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/4fd25c7b3df1fcb21f5ba5d698af3521a56c45f5",
-            "node_id": "C_kwDOAKalfdoAKDRmZDI1YzdiM2RmMWZjYjIxZjViYTVkNjk4YWYzNTIxYTU2YzQ1ZjU",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/74bbac5363172c21fd0e60aa74947aecc2a4df22",
+            "node_id": "C_kwDOAKalfdoAKDc0YmJhYzUzNjMxNzJjMjFmZDBlNjBhYTc0OTQ3YWVjYzJhNGRmMjI",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/aa4d7972c9cb1a6a1eafd9843c82aaeab2826542",
-                    "sha": "aa4d7972c9cb1a6a1eafd9843c82aaeab2826542",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/aa4d7972c9cb1a6a1eafd9843c82aaeab2826542"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/246642e9aec5b26ca4ea6c28af5e8bb9237fa6d3",
+                    "sha": "246642e9aec5b26ca4ea6c28af5e8bb9237fa6d3",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/246642e9aec5b26ca4ea6c28af5e8bb9237fa6d3"
                 }
             ],
-            "sha": "4fd25c7b3df1fcb21f5ba5d698af3521a56c45f5",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/4fd25c7b3df1fcb21f5ba5d698af3521a56c45f5"
+            "sha": "74bbac5363172c21fd0e60aa74947aecc2a4df22",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/74bbac5363172c21fd0e60aa74947aecc2a4df22"
         },
         {
             "author": {
@@ -1174,7 +1874,7 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/71d055585910cb57f9c38d35f75fb8119095e675/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/c4fa8f7fb14a45203731f01d46c91d7c20d194d6/comments",
             "commit": {
                 "author": {
                     "date": "2024-02-26T02:01:04Z",
@@ -1183,20 +1883,20 @@
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-28T01:25:34Z",
+                    "date": "2024-03-04T20:11:48Z",
                     "email": "nurupo.contributions@gmail.com",
                     "name": "Maxim Biro"
                 },
                 "message": "feat: Generate .def, .exp and .lib files when building for Windows",
                 "tree": {
-                    "sha": "fd52a477a55c9e1551ff20926029b9d4724c9b57",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/fd52a477a55c9e1551ff20926029b9d4724c9b57"
+                    "sha": "f85b3e8b82981cb425ba765670ba84f48a867638",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/f85b3e8b82981cb425ba765670ba84f48a867638"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/71d055585910cb57f9c38d35f75fb8119095e675",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/c4fa8f7fb14a45203731f01d46c91d7c20d194d6",
                 "verification": {
-                    "payload": "tree fd52a477a55c9e1551ff20926029b9d4724c9b57\nparent 4fd25c7b3df1fcb21f5ba5d698af3521a56c45f5\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708912864 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709083534 -0500\n\nfeat: Generate .def, .exp and .lib files when building for Windows\n",
+                    "payload": "tree f85b3e8b82981cb425ba765670ba84f48a867638\nparent 74bbac5363172c21fd0e60aa74947aecc2a4df22\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708912864 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709583108 -0500\n\nfeat: Generate .def, .exp and .lib files when building for Windows\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXei44ACgkQqzrZiWRy\nv6S5Zw//RDSCfmXTr/ZNECgeudOBk/MJFcNyfbhRmPegCdVNPf/y+GsAiAf5HE6k\nWjF2XBAH5NkYTv8aC8j1dnFAXpW8PFFrlAEY0Qe1rA+KzihtIP0v6tejTgJpBEF/\nbtjSPQz70qHtxxPsu97mYKD3BT6gb/h1KOSDuk4i2LoIGAhRFEPW8cozavM4oAKt\n3JcrOe49+JVefmVVfeM+Th8gFpFdqBvfgSvSWv031t80/hF2MmTkZP7RxzP+WGKq\nSLmmI1F2vNXlyBP48P9dh4+tlMQ/J4TUlgxUkkReAkQw0eXZLGN6uWSTCcUThPA/\neifYTmoy2smQ1AYCqY/0qFPl1j+d3C5JzUQtzBYTq/XI7GdnQ+mWsPE5/jloXcmm\nXeKNrha5WT22mIwUvf+sDEgt8g/b9EWacM0K9/FYAE+KJ9+9hsSx0ramfeoBdBmg\nfna+Fxc+HaURpNsjVAqQIDihzhvRdg6sgZBtAAW3e4JGArXlnUAN9F6UgLenBgNp\n6gUcthdaCb/JSUUYNYWGi2pLm7GtQu9ks2Wu6f0U2bCc3KSO6mJr4+1S5+ji7eVG\nWM2pbTFNEOAqLzniV6KpLvPG7/TltvLlDVJ89jjcvUNlVulukxYm2c8ZXF7W2KjK\ngcklS1JZ4L6K5lNfqNVqKgO366En6G0Dx7X7FR/l93HZdO6SQ8k=\n=F7ck\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXmKwQACgkQqzrZiWRy\nv6QJlg/+PxSYmvVWCcWr3PowOUIqzOusnVZ/QQqUoP8fwHkHcdiz132YWKBo7lzc\nRaAoNUNJY6+48Vw5p34I4yWTn00GrgqvjI20/XVEJDhoKiNRXyWxSRkwI2hJPlNc\nf5dJgD9x+KzHGDaVFy1ojnz154Tou0Y6aRTJynKHxRgyfZT71OwXnteNaAZC0/Cb\nV15leVbxiAyEnJ7DitkMlkDkzVTVXGv62Bn2fpuOlzEtjcC60DNWbEwf6+XdNMcI\nAXYYd8ZMKCYVZrAoyfrIwDR6FehSSlvMoidTRVNJQDIKOV+tZh5BH+n9GGzH2wRX\nyS3eVFzS5oRsTrH4dcIF8NR0thAruGH1jB261qbmSGb0tYnZfoVhv6/HZJtWu/An\nkga9ITtYObvq9pQw0nt4EqR3sEDhiSovOv5+SgF6/QjNEu4ABz0o+85JKbfZtqaB\nFBnHThLxDBvQyvp7QdL/4EsY3Sgz2jMQUbxwuSpDapI+8mllfpnpifZfPh34kkRb\ngXnqsCeVJNuO+es3U71SQAr3AeZY//kXAUqVh16FvFDzTugl5KP2Yto7RcTYyZ9f\nti1YChZs86ZRDzkYuD2qYBku15zh/YIj3PzF6uQdRrfeO0eSabMSyibkQTTGy+Q6\n9Tl2jydEw9+UF0ZvO3qHKxLvrsGg+gsMRdEl4XmcB8YeokgSzAs=\n=QB4Y\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -1220,17 +1920,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/71d055585910cb57f9c38d35f75fb8119095e675",
-            "node_id": "C_kwDOAKalfdoAKDcxZDA1NTU4NTkxMGNiNTdmOWMzOGQzNWY3NWZiODExOTA5NWU2NzU",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/c4fa8f7fb14a45203731f01d46c91d7c20d194d6",
+            "node_id": "C_kwDOAKalfdoAKGM0ZmE4ZjdmYjE0YTQ1MjAzNzMxZjAxZDQ2YzkxZDdjMjBkMTk0ZDY",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/4fd25c7b3df1fcb21f5ba5d698af3521a56c45f5",
-                    "sha": "4fd25c7b3df1fcb21f5ba5d698af3521a56c45f5",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/4fd25c7b3df1fcb21f5ba5d698af3521a56c45f5"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/74bbac5363172c21fd0e60aa74947aecc2a4df22",
+                    "sha": "74bbac5363172c21fd0e60aa74947aecc2a4df22",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/74bbac5363172c21fd0e60aa74947aecc2a4df22"
                 }
             ],
-            "sha": "71d055585910cb57f9c38d35f75fb8119095e675",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/71d055585910cb57f9c38d35f75fb8119095e675"
+            "sha": "c4fa8f7fb14a45203731f01d46c91d7c20d194d6",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/c4fa8f7fb14a45203731f01d46c91d7c20d194d6"
         },
         {
             "author": {
@@ -1253,7 +1953,7 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/d97905e25b6cbfa7be427185e883234a624ab609/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/3cc0ae7535420b624ac46c3366def2d82e70f4a5/comments",
             "commit": {
                 "author": {
                     "date": "2024-02-26T08:09:07Z",
@@ -1262,20 +1962,20 @@
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-28T01:25:35Z",
+                    "date": "2024-03-04T20:11:49Z",
                     "email": "nurupo.contributions@gmail.com",
                     "name": "Maxim Biro"
                 },
                 "message": "refactor: Copy over all of the required static dependencies\n\nIncluding libwinpthread and libssp.",
                 "tree": {
-                    "sha": "b62000da31f4cf607496700a5b30001d8c19a0fc",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/b62000da31f4cf607496700a5b30001d8c19a0fc"
+                    "sha": "8635a6507703562b623881e362d835a767df46cc",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/8635a6507703562b623881e362d835a767df46cc"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/d97905e25b6cbfa7be427185e883234a624ab609",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/3cc0ae7535420b624ac46c3366def2d82e70f4a5",
                 "verification": {
-                    "payload": "tree b62000da31f4cf607496700a5b30001d8c19a0fc\nparent 71d055585910cb57f9c38d35f75fb8119095e675\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708934947 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709083535 -0500\n\nrefactor: Copy over all of the required static dependencies\n\nIncluding libwinpthread and libssp.\n",
+                    "payload": "tree 8635a6507703562b623881e362d835a767df46cc\nparent c4fa8f7fb14a45203731f01d46c91d7c20d194d6\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708934947 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709583109 -0500\n\nrefactor: Copy over all of the required static dependencies\n\nIncluding libwinpthread and libssp.\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXei48ACgkQqzrZiWRy\nv6QjNQ/+PWRRvEemZBzqUmYnhVJ1yKBIYnfgwSZ2MC3T+fsM2GQzyNNA405b/85U\na1eCvVzpC/gkl78W3soVTAbSu+JLsOBi4KSocIC3cB4GMVPdVZQbG8uKNRQE8gXr\ni2laubOyrIWBQykRfTerNVIOjho60mvm9RlVzXW00bxBmV1Rir6adO6GOCloYrlU\nnZS0J31P5NWmB8ooXwVUZmyiAYVoIJPYWy6cpwPyQb6VCVhziUy5EkqMdROcxq/H\nLsZVVft4axSa7NFmvO8Rjlfbb2D/gY71Y/mnXrXs/ES4VPothOGK2ppnCk1VvaVz\nKer/jiajclDkamrxnUIqhUHUPKny1AKNm2T0EFdapg2FjcMAI6pSO/jATqFV4dVd\nqD6zO/JYQbrlZht9iySZ/ISia8NCISvsr35lF6br59S5l8O/lfozun2BFCndmqbO\n4EXNKbmUZGHTX25D9YhxoOcnp9C90de9tKiv1oqCKfnKzoL/Lc+1OsSQxoDGMlfu\nVRfrM/NWb9EGmBA3ehRrs9ipzEiq6Dase9a59CZ1bi+0y2v0g1p033lvlVL+HJOf\nS/MSLJCppZWLpNpbNL96x2XblNGXmqDy/ixext99Bclec1kqnSLUpAVHN52NkU3/\nX6/qweuW2RpwKKFyEyVy3sP5wUw2ujVgLttXS0axEa77nf65Dao=\n=eSBD\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXmKwUACgkQqzrZiWRy\nv6QYAw/9HJY3iPYlcmxw1W7NiQlv8v2WQ64GSIcxc27gMTVAd0k5maKUQbu9CM7f\n5VfR3rRmamWzzPNZyRubxUYLf09h27wxBWDsdlr65PQBPX3+mLW2VN7sp+jhZep/\nv0dLnBIdSyvQLktjU2WZ81OkpaTa9MDLCzxs/cIGtndfReSsui3KcuvYe7Hv64jr\nyb6lzYHK5Qu7eg07yckHK3Vy7CBkQTaJ+qbjJV6vJguWTzfWYvBpSnWPbPCy0hgt\nwqeQtxcKbANFbOd4W6qNPm4m8nk4xtKLg/mMi82OfJVkLiy9OYpIF0fxIzPIyu5P\nECMEQqJIaOlP/YHqx9d5H2hjaqbLFB5DEVYUCcPXC1XZKvyrUypOtCqevkzotVO2\nZo61MylEfBebrDEOsBgqgIBMKiDKPVRksFOnw/PGeOF89usSuwEDrGuvRuLi7i27\nZu6wzBi89dF4YjwRH/nfJJVk7qkx/f4zDkD15ouy+UhNaHEC2FF7jwG+CtNztY/P\n8riDsXrvuLX1T8g9ZiraY3KBOb3s+UPG4XyYLFrCNF/P715qp8vCNZ32MEXc2wKT\np06OpuaLQQJ9Ytq6Q3UgFkNsaVXD+NTGCizbjFXFfPc9Xxrzggu3MEIGkPjStaFB\nVXe2m2m0h2xqbkCEmV8kOvCW+ypNHvAEcGQJsz0aOHO+yVlINHQ=\n=ASW8\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -1299,17 +1999,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/d97905e25b6cbfa7be427185e883234a624ab609",
-            "node_id": "C_kwDOAKalfdoAKGQ5NzkwNWUyNWI2Y2JmYTdiZTQyNzE4NWU4ODMyMzRhNjI0YWI2MDk",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/3cc0ae7535420b624ac46c3366def2d82e70f4a5",
+            "node_id": "C_kwDOAKalfdoAKDNjYzBhZTc1MzU0MjBiNjI0YWM0NmMzMzY2ZGVmMmQ4MmU3MGY0YTU",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/71d055585910cb57f9c38d35f75fb8119095e675",
-                    "sha": "71d055585910cb57f9c38d35f75fb8119095e675",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/71d055585910cb57f9c38d35f75fb8119095e675"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/c4fa8f7fb14a45203731f01d46c91d7c20d194d6",
+                    "sha": "c4fa8f7fb14a45203731f01d46c91d7c20d194d6",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/c4fa8f7fb14a45203731f01d46c91d7c20d194d6"
                 }
             ],
-            "sha": "d97905e25b6cbfa7be427185e883234a624ab609",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/d97905e25b6cbfa7be427185e883234a624ab609"
+            "sha": "3cc0ae7535420b624ac46c3366def2d82e70f4a5",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/3cc0ae7535420b624ac46c3366def2d82e70f4a5"
         },
         {
             "author": {
@@ -1332,7 +2032,7 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/af1e15f0d28ef10d956c32afd40adb1226664750/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/88133f8446830699e4b078651418d3c8001895fe/comments",
             "commit": {
                 "author": {
                     "date": "2024-02-26T14:54:26Z",
@@ -1341,20 +2041,20 @@
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-28T01:25:37Z",
+                    "date": "2024-03-04T20:11:51Z",
                     "email": "nurupo.contributions@gmail.com",
                     "name": "Maxim Biro"
                 },
                 "message": "chore: Strip Windows binaries",
                 "tree": {
-                    "sha": "a0aa0de8ba6f9a2d66c3a3f3d9bb40fd8021628a",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/a0aa0de8ba6f9a2d66c3a3f3d9bb40fd8021628a"
+                    "sha": "cd331388506f9c53c866e64de15e28f0c7845869",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/cd331388506f9c53c866e64de15e28f0c7845869"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/af1e15f0d28ef10d956c32afd40adb1226664750",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/88133f8446830699e4b078651418d3c8001895fe",
                 "verification": {
-                    "payload": "tree a0aa0de8ba6f9a2d66c3a3f3d9bb40fd8021628a\nparent d97905e25b6cbfa7be427185e883234a624ab609\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708959266 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709083537 -0500\n\nchore: Strip Windows binaries\n",
+                    "payload": "tree cd331388506f9c53c866e64de15e28f0c7845869\nparent 3cc0ae7535420b624ac46c3366def2d82e70f4a5\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708959266 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709583111 -0500\n\nchore: Strip Windows binaries\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXei5EACgkQqzrZiWRy\nv6Q1xw//btLV76iHQaZdrXzAGgxnbjsj8Zmvb2CxVWVtyvXxLxUuB6APNAVs5CEH\npaIrZlxqi+vZ6hi7zoLXx4Kk9+3JD2YhdjCmZETOolOLjcQ9BzAI4wwfxzStrB2j\nX/4J8CoWBRoqvgIR7g9l6RbrpBIDoVL8BKcbV6tKOFjPeuSTaa5f0NW9EElVhsxx\n37149kZCgdoQmaYj5FVI85FPzlT9a57A8dFGn6K61TUtjknyDHNp8eFAIr2LQ3MQ\nkToc1I4PG7TrIEDHGdpEKfobHC1SnHejonviFMlSOe0XB5D4s3C5E3WTMGcMMbmw\nsg4Vm53isZQbxUGwMvmPBDbwsIw98xTusFxOBQP6EfsoCKqmQG6TkV/jnTd0zT/U\nu6/2sf+AOA+naubs48sLjF4p3PmM/H/PRO/xTzDtCw6GDVO1C8DaCUsDUGNgk9yq\nKNxkqloJ2hKvVm/BYK1wQ9wCMBmHIG99u/UUMxr8OSLrx8Je2IioPjv9jK7Emg1h\nSXg/QXwQWIuTQA+9efTWwyGPU40336opSFzN6Bjb/JXD3aJwXrep6BZ9rSacrv0f\ndJ8pmrzPhJgC0ejaWJK3183cWB/xVRzwmgf3T2ZZeeXpx6i4VKMCGQcXjel15w4x\nb1OMZAJ34H5j3hStx3D3CYhKBpKnPIS6Hx2U4ShBkenQ+VUan+c=\n=+BRs\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXmKwcACgkQqzrZiWRy\nv6QiIA/+Iy19Fh2IUzvJnu6RLV3EQGmSaiK0NojTugR4VaUo1DrPgc5fhTqs01t1\nBDtkiNkaPWNQ2bzxhgymd1JZ6aeV94RAQBLqTpfpOxtWpt4+PSrGVxrt6jI03WTf\nx8Py5cNJSq4rpfd/D6OLPIl+IWu+tE2m7LN30EFaNKYVEXeDh7xo32Nwd6bLog4t\nBf+8dyMa6LAxM1POAaLmXVBCwd4QE7K7PHqxVujWBtT1aY5EQOPXF8x1pcnDRnK4\nSx2vvpWVGZCe0Rg5dqlAyZ546klszsZflN0D4EpGa3VqRfzkZ5Cb5Q2As4U7b6WZ\n3uCIK57wCGRum7L+FxxrM8FV5aSBP/t37mTtHUurhN0yIkX42p/YelN/PsZSbIsl\nCN2A35Nd08FhLhTJzn6tu0BauaD2jiIFFR2Mducgd6WCelgA3a/FgrdJ4rBV+hNf\noQE5BV5hAWDmGS4i+x4cKLvYMt3p+NGXis/xDZrQ8GrBqSazJ242bHPNMVAUqq/G\ntX7RF7cNgqOraSrJhbHzRduJtfp+vM70oFla0CkX6gdkPtjEtTfjdM8nk7sCf7FY\ndMrULVqCCOMQm9+AP2ZqWFfT7bXBQy3AE/I8aI0iKXetvfZRO+qwZcjLbP5wvLNs\nXUDVNGEmGcXdADmPeTA/rYAzf3U5uLNBM2Ig1I6tEaYlyV8BLBo=\n=FtSz\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -1378,17 +2078,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/af1e15f0d28ef10d956c32afd40adb1226664750",
-            "node_id": "C_kwDOAKalfdoAKGFmMWUxNWYwZDI4ZWYxMGQ5NTZjMzJhZmQ0MGFkYjEyMjY2NjQ3NTA",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/88133f8446830699e4b078651418d3c8001895fe",
+            "node_id": "C_kwDOAKalfdoAKDg4MTMzZjg0NDY4MzA2OTllNGIwNzg2NTE0MThkM2M4MDAxODk1ZmU",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/d97905e25b6cbfa7be427185e883234a624ab609",
-                    "sha": "d97905e25b6cbfa7be427185e883234a624ab609",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/d97905e25b6cbfa7be427185e883234a624ab609"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/3cc0ae7535420b624ac46c3366def2d82e70f4a5",
+                    "sha": "3cc0ae7535420b624ac46c3366def2d82e70f4a5",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/3cc0ae7535420b624ac46c3366def2d82e70f4a5"
                 }
             ],
-            "sha": "af1e15f0d28ef10d956c32afd40adb1226664750",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/af1e15f0d28ef10d956c32afd40adb1226664750"
+            "sha": "88133f8446830699e4b078651418d3c8001895fe",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/88133f8446830699e4b078651418d3c8001895fe"
         },
         {
             "author": {
@@ -1411,7 +2111,7 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/872f4c42070cce68855adf1726ad363f369d4a4e/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/1be311e51fda9d7b8c8b4d64aec20a38b3d38313/comments",
             "commit": {
                 "author": {
                     "date": "2024-02-26T15:02:53Z",
@@ -1420,20 +2120,20 @@
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-28T01:25:38Z",
+                    "date": "2024-03-04T20:11:52Z",
                     "email": "nurupo.contributions@gmail.com",
                     "name": "Maxim Biro"
                 },
                 "message": "feat: Build the fun utils when cross-compiling to Windows\n\nWhile fun utils are of very low quality, both code-wise and usage-wise\n-- not checking for failed mallocs, not offering usage instructions,\netc., there are a couple of them that Windows users might find useful,\nlike the vanity key generators or a savedata creator, for example.\n\nThe building of the fun utils was broken on Windows due to the utils\nfailing to find sodium.h, as no libsodium include dirs were set on the\nfun utils.",
                 "tree": {
-                    "sha": "fca2453ab5d13581c6b8081db99063dfe49e9651",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/fca2453ab5d13581c6b8081db99063dfe49e9651"
+                    "sha": "6a856dfcc821770cc9acd777d3055b78f86a7bd9",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/6a856dfcc821770cc9acd777d3055b78f86a7bd9"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/872f4c42070cce68855adf1726ad363f369d4a4e",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/1be311e51fda9d7b8c8b4d64aec20a38b3d38313",
                 "verification": {
-                    "payload": "tree fca2453ab5d13581c6b8081db99063dfe49e9651\nparent af1e15f0d28ef10d956c32afd40adb1226664750\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708959773 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709083538 -0500\n\nfeat: Build the fun utils when cross-compiling to Windows\n\nWhile fun utils are of very low quality, both code-wise and usage-wise\n-- not checking for failed mallocs, not offering usage instructions,\netc., there are a couple of them that Windows users might find useful,\nlike the vanity key generators or a savedata creator, for example.\n\nThe building of the fun utils was broken on Windows due to the utils\nfailing to find sodium.h, as no libsodium include dirs were set on the\nfun utils.\n",
+                    "payload": "tree 6a856dfcc821770cc9acd777d3055b78f86a7bd9\nparent 88133f8446830699e4b078651418d3c8001895fe\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708959773 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709583112 -0500\n\nfeat: Build the fun utils when cross-compiling to Windows\n\nWhile fun utils are of very low quality, both code-wise and usage-wise\n-- not checking for failed mallocs, not offering usage instructions,\netc., there are a couple of them that Windows users might find useful,\nlike the vanity key generators or a savedata creator, for example.\n\nThe building of the fun utils was broken on Windows due to the utils\nfailing to find sodium.h, as no libsodium include dirs were set on the\nfun utils.\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXei5IACgkQqzrZiWRy\nv6TVghAAs0FP12z8xU4Wc3hMmRZGpVCi97sxzyUwDwNlZiRVBCQbV5QpxQnLrCAz\nSBfSzRePofhS/l49/XNHKs4tLbcQcKo2if2XzR72NcbekJ3sR4KNFX2Qp4caJNku\n5bjS+QTD1SFwXevHJ8EoVC3OOh6VfqN2HKS8LNX/52SuhlzdUQO8LXRtcUdnE+vH\nFa4M0QMIJ7DN7TaGQSNHWITDNmkEB//dDuLvEeDlNsUYCSVYPoT9XNGh9KUyVQdi\nZBNpJxldRGCeHchdSvpzFxsPzYAHQExMbEbOsrnWkEDo7u6X9TbmuFG8ltu693V8\nZxhrESRzTbqRdowG145migvMAqOpwHAthA0urnrISSTRqD6ncUW8NMTJoHH+KuAE\nIlDLLTd543oSMTsn43txtqnBHCP39efMrVy7LJmBX5I3nuGerRaarQ28hNOtwvmJ\nckFT7nP5FALPHa0xQoV8V2E+L1UfwUbp6wf/W0eGkaQkPyvdGUkaKJycHKB676B1\nhaJQi/zDHRnnfDrRxWBAKs/zRZrh/NPr0A6Bn/vZb0+YqgXI5qUnw+MMaaL4NEvh\nknlgABnvpqTsZ336UZs6OQymvIUzUaBHJ/jZIkBnS1RY1od+pVgbkOeq7A6lNibC\n1kPHSkKr/F9UX2gNJaLgrLzFXVFbEJ1m0u+CnkunBQUeoKK7P7s=\n=RomD\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXmKwgACgkQqzrZiWRy\nv6QTBg/9F5KUIXJw2Reds9yz2vz7NSEkjppkHhhc14FToltMVP4twQw2QUM6H5xB\nxbcoVPMYckkcV08yCVMCDI3YSojGPvBFJ8j+gQ3eZQ0TcaUB3sv0QLa9G3yugXSO\neFfzBBdnX6f8Jj03TKwYyp2ihRyyWxL7UJlAlvLsnmV0TVdKGoIW56E+XQKXziUu\nrvqENAh/F1G52jeMbHc21Jvw3rls/+kgMDrZe803ypiPQBu2Kd0jk8+4IEVdzqyg\nnNOPWwxioZtd42zMa/93NpOdMZz35VdMsYvt6QvwImrmwbT0rBWl/eOx4L7peAvh\nAjyFDkKPOuz2whGHJmyCKxoFAX6ZT7oSUMsjQk89lzHgx84wDTnbFn0KY3MaLZ3c\nnxQHUAiAHpZYuREuUD63N0vx8vo64Qf+5mxyg+Tox+TCgYZn03uiMn4XvQnlI8we\npR+qfZhif4nwFuWH/0+0yG/02kR8jIkLa8MKxNOAVgB4PnDvVkaVj8iBTONWPfQ1\nXuxPDGYSxzy9Ltkiem0xcB/dDRdqDRuNHxwlRpXjmCiElEyMmLaKzJ7Vtw15P5cF\n9cumHA8cslfrSmMTa+MgZmpzUcug4j82bkt4RtzkamFlPrZTgDJ0e0Ngw6aPR8qI\nSMS3dTDoIL1wyqceiu9DwBLMb8wHpBJF3rRopAyByh6Sb21IJSA=\n=FZqT\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -1457,17 +2157,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/872f4c42070cce68855adf1726ad363f369d4a4e",
-            "node_id": "C_kwDOAKalfdoAKDg3MmY0YzQyMDcwY2NlNjg4NTVhZGYxNzI2YWQzNjNmMzY5ZDRhNGU",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/1be311e51fda9d7b8c8b4d64aec20a38b3d38313",
+            "node_id": "C_kwDOAKalfdoAKDFiZTMxMWU1MWZkYTlkN2I4YzhiNGQ2NGFlYzIwYTM4YjNkMzgzMTM",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/af1e15f0d28ef10d956c32afd40adb1226664750",
-                    "sha": "af1e15f0d28ef10d956c32afd40adb1226664750",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/af1e15f0d28ef10d956c32afd40adb1226664750"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/88133f8446830699e4b078651418d3c8001895fe",
+                    "sha": "88133f8446830699e4b078651418d3c8001895fe",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/88133f8446830699e4b078651418d3c8001895fe"
                 }
             ],
-            "sha": "872f4c42070cce68855adf1726ad363f369d4a4e",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/872f4c42070cce68855adf1726ad363f369d4a4e"
+            "sha": "1be311e51fda9d7b8c8b4d64aec20a38b3d38313",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/1be311e51fda9d7b8c8b4d64aec20a38b3d38313"
         },
         {
             "author": {
@@ -1490,7 +2190,7 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/cd52c7399e5bc325da53f95e7a9f97bc2d394d34/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/19475adb70e8522b25cb0af4818cc40bab59456d/comments",
             "commit": {
                 "author": {
                     "date": "2024-02-26T15:31:00Z",
@@ -1499,20 +2199,20 @@
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-28T01:25:40Z",
+                    "date": "2024-03-04T20:11:54Z",
                     "email": "nurupo.contributions@gmail.com",
                     "name": "Maxim Biro"
                 },
                 "message": "chore: Statically link OpenMP into the cracker fun util on Windows\n\nFor some reason even with -DCMAKE_EXE_LINKER_FLAGS=\"-static\" specified,\nCMake still links OpenMP dynamically, even though it links other libs\nstatically, e.g. -pthread.",
                 "tree": {
-                    "sha": "c7ddac186227a55f4161b2597156400e5e5104fb",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/c7ddac186227a55f4161b2597156400e5e5104fb"
+                    "sha": "70cd292d0c11c5328a7ee6d95eeb37f63a142700",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/70cd292d0c11c5328a7ee6d95eeb37f63a142700"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/cd52c7399e5bc325da53f95e7a9f97bc2d394d34",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/19475adb70e8522b25cb0af4818cc40bab59456d",
                 "verification": {
-                    "payload": "tree c7ddac186227a55f4161b2597156400e5e5104fb\nparent 872f4c42070cce68855adf1726ad363f369d4a4e\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708961460 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709083540 -0500\n\nchore: Statically link OpenMP into the cracker fun util on Windows\n\nFor some reason even with -DCMAKE_EXE_LINKER_FLAGS=\"-static\" specified,\nCMake still links OpenMP dynamically, even though it links other libs\nstatically, e.g. -pthread.\n",
+                    "payload": "tree 70cd292d0c11c5328a7ee6d95eeb37f63a142700\nparent 1be311e51fda9d7b8c8b4d64aec20a38b3d38313\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708961460 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709583114 -0500\n\nchore: Statically link OpenMP into the cracker fun util on Windows\n\nFor some reason even with -DCMAKE_EXE_LINKER_FLAGS=\"-static\" specified,\nCMake still links OpenMP dynamically, even though it links other libs\nstatically, e.g. -pthread.\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXei5QACgkQqzrZiWRy\nv6SF2w/9FTw9FMWWcDSUsaJyckel0iRaVV5AV2elRJnIfFEVkBSbt/1yljdM6o5+\nuYgGn1Md5di8GZEodD2otMeCS810b3A3bom3VRhhG5L07GPSgEvsRUxmUxe9nUHw\n1ozG2mDBMFXFzzFK9Dt8EZfm32DtBtIYs9cXGLLAi4B+V8tankKB2eCtCgba4czm\nZBFED1jVUmWoFOMDPslxTBPNEve7YqqP8nXQdTTHhUpvCL/Mckod9yj+up25WgZK\ndW8N0CwecQuz4ohzg/0ptoB6VxIOeldxs4dqlV1jzLCz/6r5Uryx19b1DzYCbsyj\nEnpCiahoyC8vcomXIEsj3r72VbS7uu3UIyVc3ItlYSocwbKuOw8+0+3zpBxV+JKp\ndJz4/7hV0DiCCJsApTjiC1rkoc4Z0UvaSw5l5DbGYTu7G6yESI3WN1xuCHIUSbLF\nAntzHqbI5lBWeANTPP1keEuafF1505QutH8rjEEPwh61J/d7s0dJF67N5v0ye+b2\nNsgzMFvwu1CAmXOmxBUzj0Vo77T1n37nzWWXn6YCd9LGT8z9yJFt3shLcR57T+P3\nRunx+DcCchj2xK1o3YfAv1v41zKrF4/miCaWYwZO+88EYdHPbtlvrSYX+4hXyMAR\n775l9Szhi4bEQwDw3QV4IvWkKeBFFjPOWI+98Drv+EkdnQvahp4=\n=I8Ag\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXmKwoACgkQqzrZiWRy\nv6TtOg/8CCm/N8+cwViQ6Ze4lsyBbiJ0BO4iahnT0oYgGqYVINaa5XseA/TwArGY\nwMhDJEwDbIcClAVNklxJBnSp/bywv7pszKnW6CgeAVzzLB55TnYmYyUUo64Rpwq5\nyCaWdBJs5xwRXWbGQzUO0WoUAsxtHCN81qH5ZeRp4Ke59nz+JvaF8M04sda8nlNT\nhPJ8UcMwQdvPgEKY2Ij0qOq/JvRwk396iDFCC/RqAbOG/ZLgvhWYNbpKEXew/Wnz\nYhA+cEWrQC204xc9+fD+2He9gCQjJXFrruahN+9GSXFPIfo6Oyrpj6d/BEY51mpI\nPtroaqCM4/Me+BDrGveVtRM6ZFO68Bvuak6n13NQ0QuDy9YpE18UTaGRAp8p8MZJ\nN9x7J0WAyUYkqfThodRNvgXexxo2zOdRENLSy8td85tFX9G+fjwSzx6S1XBD5hGN\nGE0oriAPA6SGVIYSh7xrpxkLJ5NtxHYu6goOr0mk5jh32P5IYOsNqqVthQsowCbR\nH3f3w+Vuty37Bnh52ZjooEAHNK5jwyhoDPTzeyr+Dv8XLzfe8NVLHRFNNe3H1Tc2\ntOjmr99D6ksvEI9psOHBRj5d9hsFjJZEnEJjxjFgb8lHPwPKeK1Pl9DquwHbdRxn\nSXTqXaKvHAqVjQhFThu8GM8M7RCPLjpUVXKUduMSYv1XoTF115o=\n=I+Bg\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -1536,17 +2236,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/cd52c7399e5bc325da53f95e7a9f97bc2d394d34",
-            "node_id": "C_kwDOAKalfdoAKGNkNTJjNzM5OWU1YmMzMjVkYTUzZjk1ZTdhOWY5N2JjMmQzOTRkMzQ",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/19475adb70e8522b25cb0af4818cc40bab59456d",
+            "node_id": "C_kwDOAKalfdoAKDE5NDc1YWRiNzBlODUyMmIyNWNiMGFmNDgxOGNjNDBiYWI1OTQ1NmQ",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/872f4c42070cce68855adf1726ad363f369d4a4e",
-                    "sha": "872f4c42070cce68855adf1726ad363f369d4a4e",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/872f4c42070cce68855adf1726ad363f369d4a4e"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/1be311e51fda9d7b8c8b4d64aec20a38b3d38313",
+                    "sha": "1be311e51fda9d7b8c8b4d64aec20a38b3d38313",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/1be311e51fda9d7b8c8b4d64aec20a38b3d38313"
                 }
             ],
-            "sha": "cd52c7399e5bc325da53f95e7a9f97bc2d394d34",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/cd52c7399e5bc325da53f95e7a9f97bc2d394d34"
+            "sha": "19475adb70e8522b25cb0af4818cc40bab59456d",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/19475adb70e8522b25cb0af4818cc40bab59456d"
         },
         {
             "author": {
@@ -1569,7 +2269,7 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/b1ba0baea1385b1ca134af6ac0302d705c7ae159/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/9bb79c174ff0a76a602f409348baed0ed18f555e/comments",
             "commit": {
                 "author": {
                     "date": "2024-02-26T15:51:16Z",
@@ -1578,20 +2278,20 @@
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-28T01:25:42Z",
+                    "date": "2024-03-04T20:11:55Z",
                     "email": "nurupo.contributions@gmail.com",
                     "name": "Maxim Biro"
                 },
                 "message": "cleanup: Remove a couple of unnecessary misc_tools dependencies\n\nThese programs link against libsodium, which already provides bin-to-hex\nand hex-to-bin conversion functions. Removing the misc_tools dependency\nshaves ~30KiB (in some cases 10%) off Windows static binaries using it.",
                 "tree": {
-                    "sha": "6cbf67fb94862cc66cfa888a750078d402d5cb21",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/6cbf67fb94862cc66cfa888a750078d402d5cb21"
+                    "sha": "eb934c0f97ea16640b401d9ca52d96763f671561",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/eb934c0f97ea16640b401d9ca52d96763f671561"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/b1ba0baea1385b1ca134af6ac0302d705c7ae159",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/9bb79c174ff0a76a602f409348baed0ed18f555e",
                 "verification": {
-                    "payload": "tree 6cbf67fb94862cc66cfa888a750078d402d5cb21\nparent cd52c7399e5bc325da53f95e7a9f97bc2d394d34\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708962676 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709083542 -0500\n\ncleanup: Remove a couple of unnecessary misc_tools dependencies\n\nThese programs link against libsodium, which already provides bin-to-hex\nand hex-to-bin conversion functions. Removing the misc_tools dependency\nshaves ~30KiB (in some cases 10%) off Windows static binaries using it.\n",
+                    "payload": "tree eb934c0f97ea16640b401d9ca52d96763f671561\nparent 19475adb70e8522b25cb0af4818cc40bab59456d\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708962676 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709583115 -0500\n\ncleanup: Remove a couple of unnecessary misc_tools dependencies\n\nThese programs link against libsodium, which already provides bin-to-hex\nand hex-to-bin conversion functions. Removing the misc_tools dependency\nshaves ~30KiB (in some cases 10%) off Windows static binaries using it.\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXei5YACgkQqzrZiWRy\nv6SWLQ//VM5T1t98QP20tvcVIsR+ne9sHWDv8LzwJluEuzaNkb3QfwHmQMD4z+AR\nGE5Xkht9ISzYYA/16eXh4EKWd/3NHjQvgvkLt7xLqtHNIyFDen8dDo3ysIWzPGgz\nq/BpJXoyJvZzimKE+eLMiuGKNFTxCcFXLK5vsb+If/nKY/7tZkV6JevT7WLYbrTS\nFlGKZhgOg8YQoDqynrBERWeIyiv7xT3MtHeD5gJR0+Lw1kMrK/24ikt3PA6imjdB\n2S7EQHCpVNtKoMZjf+BmNGk58vUJd/I5GEkNqXKgmDbDPvV5xx482NWq9ruUK34s\nVcWhXXb2WQjbk/3tIRRpC+lRVrkVe5H5Pu97e9J024+5qdc/205TVn4d+zNy0OLF\n5Gy0oKmuZHe3rsSHfg3FYlz9sQSnBzk90miYEmLUN+Uwccl5FMpzGL0e2DJgV0if\npl/UDsgAM7QUr3TaPIpCqVRf+AVsuiSum/iGZQH2AO78cTJdydVQ4RyggWeonBE6\niT9ODYW4mubuWtxM/TnGG5deseQdI1+mutUlz+QF4CZRHrj9K4nGf5C6/MdaTq96\njlt4bI02qWc6a6pydSi/ZJAiRcnuSyneLXri7j0yeeCGW/HYuT8XmgNZMkkTK9FV\nBCkP9I4oSUErVzgeXm+dL2LQDR8s7Pqrb1p/2giHmeUZOc7e6nI=\n=4Ccp\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXmKwsACgkQqzrZiWRy\nv6RqPg/7BUlwmc/Jt4Rvh+iVA48Lt1P3RSr0oLiBK0y//S76qh8nLoYW4i0kb+jb\nhreJyyuv08rMDbfJXnWFvfXeZR3JmvFjvxU81FFVQj6ZmK6KXytJByX3NyQnK41Q\nRqLfWbpN1MsfWJJXqFquWz8PWpfBSS8eYXP1amovx7NweqFz3cnyy5gLUHYzXRLn\nljahiHS+I5C0OHNHb2UPvy4GE++yUOVrIX4t9BkWS/FMd9Mhv9oQHK7y5tYSAqWH\nO5vrtSKJJJCeSDZmQAQc2R91DGBp9YGKW3A/8Hz0SB+9lzdk8xGDOyQLecD8zZM0\nZoHHUoQfE29dcY6eqzcz62W0+ruV/CicZu4wfUgz5rxSGW3rZzcEmqEPF0DwsQk8\nspSYEaQucsb8t01eSqxxE6O4UnOtm7979GQv1WXmz1o+BnaU0BnU8nh171rjeP9x\nrwCAx78NZVl13N5L22/GO08QrtvdJjzhkUUQyklQ8ms9NWwRbXT/DcNMFIuDGHSa\n8JALBNdC2aNbDtvFcOgZievjrSY/3yZTBcLTswUybGvgxH8dPFsHsEBgDmKzSU5R\nvCgpAukVH9jxApLuDAwpZQuJe/X1axTL1wgpj1WYi/A3QEGe+EQMZBY2LOYECkbl\n7sLkb6sYSDOnk6dRMDp7OKAmNkwM3w9n6/rSKi9rrxuj067vhqU=\n=lZhH\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -1615,17 +2315,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/b1ba0baea1385b1ca134af6ac0302d705c7ae159",
-            "node_id": "C_kwDOAKalfdoAKGIxYmEwYmFlYTEzODViMWNhMTM0YWY2YWMwMzAyZDcwNWM3YWUxNTk",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/9bb79c174ff0a76a602f409348baed0ed18f555e",
+            "node_id": "C_kwDOAKalfdoAKDliYjc5YzE3NGZmMGE3NmE2MDJmNDA5MzQ4YmFlZDBlZDE4ZjU1NWU",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/cd52c7399e5bc325da53f95e7a9f97bc2d394d34",
-                    "sha": "cd52c7399e5bc325da53f95e7a9f97bc2d394d34",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/cd52c7399e5bc325da53f95e7a9f97bc2d394d34"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/19475adb70e8522b25cb0af4818cc40bab59456d",
+                    "sha": "19475adb70e8522b25cb0af4818cc40bab59456d",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/19475adb70e8522b25cb0af4818cc40bab59456d"
                 }
             ],
-            "sha": "b1ba0baea1385b1ca134af6ac0302d705c7ae159",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/b1ba0baea1385b1ca134af6ac0302d705c7ae159"
+            "sha": "9bb79c174ff0a76a602f409348baed0ed18f555e",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/9bb79c174ff0a76a602f409348baed0ed18f555e"
         },
         {
             "author": {
@@ -1648,7 +2348,7 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/9a29f7697b557f9ec67c2faef4e5ed5364f44479/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/ed37616249c703e3d8e319b1300aead8e1de22f0/comments",
             "commit": {
                 "author": {
                     "date": "2024-02-26T17:14:21Z",
@@ -1657,20 +2357,20 @@
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-28T01:25:43Z",
+                    "date": "2024-03-04T20:11:56Z",
                     "email": "nurupo.contributions@gmail.com",
                     "name": "Maxim Biro"
                 },
                 "message": "docs: Update the Windows cross-compilation section",
                 "tree": {
-                    "sha": "256fde15b6cde0797a784cce4f6977b90f9a9099",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/256fde15b6cde0797a784cce4f6977b90f9a9099"
+                    "sha": "b8abc318be6eb03ba6b2c1a9c8b43e894f4a9c6c",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/b8abc318be6eb03ba6b2c1a9c8b43e894f4a9c6c"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/9a29f7697b557f9ec67c2faef4e5ed5364f44479",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/ed37616249c703e3d8e319b1300aead8e1de22f0",
                 "verification": {
-                    "payload": "tree 256fde15b6cde0797a784cce4f6977b90f9a9099\nparent b1ba0baea1385b1ca134af6ac0302d705c7ae159\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708967661 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709083543 -0500\n\ndocs: Update the Windows cross-compilation section\n",
+                    "payload": "tree b8abc318be6eb03ba6b2c1a9c8b43e894f4a9c6c\nparent 9bb79c174ff0a76a602f409348baed0ed18f555e\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1708967661 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709583116 -0500\n\ndocs: Update the Windows cross-compilation section\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXei5cACgkQqzrZiWRy\nv6S0EQ//Znn5v1fqbAmBcOKbDq1VRu418I5rFRTVAxd2kKT6B1SvTw+bNDH1BvpX\nha9+5exgM1DcgHXZ1JsLa241d7dqMfMOb3XjQeT7P2R83b0PZwaZdmFYJmkTnfnR\nLsLlLh6EzA4mK9zk0orUzGzE11SuuLF/8D0BbtYERBlPnNwaIScJYrYK1RFe9+6p\nyZkTJZCGCCejQLk+fpnYmr5xAmumTQ+2Wcryl23UZoGhxPcbsp/0dDWqWSNqpNLc\n/Sd7ExOg6ehqjbdCGzob5p1R/nQWyHsdVaBfQEuB1D937eR26TYXvTnbJ1AnAxIu\ns0IyHz/ZFO9b1ci7nRoIPOI8DhGY59sayLncxxsdiZzAFxqXdHw9KDw1lYraMrrJ\nWtj6+szJNt3yGd+Hi4YQUItDkE1My2aghbYunM4llWlSw0hodQlOgpYSgFtcIpLM\n08mr7Qp6jaoVl7YJPW0SzQxJ5OmwX/pk3vVrsSRi4Tc58vFjt/7N2t212IAwS4BR\njxObNUpIU4zuxc57RbeSWBa3IKZKZkFaE4AzMfgJywHk39n/blZXnLMWqdx/dxod\nhTYO9713IDjR+GWFy+lqHVyclOJsFv669kY62kb4goNXCGC3KJw9afk17yJLDDKb\nmVNUOpgj7hlAveNVbsuzmHfOVvGN3qmzAVgFoooklGxZ9hwe0tc=\n=hYzU\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXmKwwACgkQqzrZiWRy\nv6SfRBAAqzZWtqic+KjGG6fwo7Y8kKI5xLt6SwkH8eFb/Mij398JAkrxtZ7aAjgS\n9EZkboNuee46SiUhwqBStJBVciblQacpuOFTxTAXhj3vFt5gONzrCQlnRC4Np07K\nvS1bgzahNA39N2U2lLMTEarKh5OJdyux4v6/Ztc/4RItSM3Nuexlf6uCtbYbcK3k\nzFZYEjAjyeCArGJG7doj7j09yCXlRd7lnGBXp5IQfP3AwK8os1hZ55Zw2Y5S6Jxk\n93ltUWWvWP63T+oP0a33ibI+Hs3cDSI9pYxP3fUOdoY0u4Bf7Pye49h8Z1FO58p0\n54VVQP9AGhOgXzyyZfR4aPusINZ0fseGlGjwQ1I0x2GMX7pDKzRgk2wWK7fUWPcJ\nSEoHy8BCzPKtkZeBlcuXzQ+7p7sWC8y74LE6GYtZtO3B9q8hS8DJ19NWC7TJHP6R\nA70qhfqgC5ux9stm0SX6xTCyBrMGuI8xecFZR7kBUr7KMfpVtMqRRezTx/p6sfKl\nq2Oy9EZa7mYOSXEgBeg5bHh1c92wJ2mCvjfC6Ah2AMtTrK5WuKi+ooM4W5CkQuyM\n+YaXYOF94DJ/w41aNcmJXpVNXsyGDbEEUbotgycvKFzfZdHkwo9OWa1vsiwPyUF5\nUm/3gfpMFF13/IPnEWIqyq5rUpHZLm99/z2EKjbYrZQdfPis5Cg=\n=jKvz\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -1694,17 +2394,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/9a29f7697b557f9ec67c2faef4e5ed5364f44479",
-            "node_id": "C_kwDOAKalfdoAKDlhMjlmNzY5N2I1NTdmOWVjNjdjMmZhZWY0ZTVlZDUzNjRmNDQ0Nzk",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/ed37616249c703e3d8e319b1300aead8e1de22f0",
+            "node_id": "C_kwDOAKalfdoAKGVkMzc2MTYyNDljNzAzZTNkOGUzMTliMTMwMGFlYWQ4ZTFkZTIyZjA",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/b1ba0baea1385b1ca134af6ac0302d705c7ae159",
-                    "sha": "b1ba0baea1385b1ca134af6ac0302d705c7ae159",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/b1ba0baea1385b1ca134af6ac0302d705c7ae159"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/9bb79c174ff0a76a602f409348baed0ed18f555e",
+                    "sha": "9bb79c174ff0a76a602f409348baed0ed18f555e",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/9bb79c174ff0a76a602f409348baed0ed18f555e"
                 }
             ],
-            "sha": "9a29f7697b557f9ec67c2faef4e5ed5364f44479",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/9a29f7697b557f9ec67c2faef4e5ed5364f44479"
+            "sha": "ed37616249c703e3d8e319b1300aead8e1de22f0",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/ed37616249c703e3d8e319b1300aead8e1de22f0"
         },
         {
             "author": {
@@ -1727,7 +2427,7 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/7de48893e660bee19117987a7c60ed7efa22e03a/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/14de93ccec3bcabb49971640c4408ad7d668cfb1/comments",
             "commit": {
                 "author": {
                     "date": "2024-02-28T00:32:20Z",
@@ -1736,20 +2436,20 @@
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-28T01:25:44Z",
+                    "date": "2024-03-04T20:11:59Z",
                     "email": "nurupo.contributions@gmail.com",
                     "name": "Maxim Biro"
                 },
                 "message": "chore: Use WineHQ's Wine as Debian Bookworm's crashes",
                 "tree": {
-                    "sha": "7ade0ccf015bc4a0831a46e48bb34bfd2b83a9b4",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/7ade0ccf015bc4a0831a46e48bb34bfd2b83a9b4"
+                    "sha": "e7d550afef2de3c5c6de7a33bff984c27ac84775",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/e7d550afef2de3c5c6de7a33bff984c27ac84775"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/7de48893e660bee19117987a7c60ed7efa22e03a",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/14de93ccec3bcabb49971640c4408ad7d668cfb1",
                 "verification": {
-                    "payload": "tree 7ade0ccf015bc4a0831a46e48bb34bfd2b83a9b4\nparent 9a29f7697b557f9ec67c2faef4e5ed5364f44479\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1709080340 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709083544 -0500\n\nchore: Use WineHQ's Wine as Debian Bookworm's crashes\n",
+                    "payload": "tree e7d550afef2de3c5c6de7a33bff984c27ac84775\nparent ed37616249c703e3d8e319b1300aead8e1de22f0\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1709080340 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709583119 -0500\n\nchore: Use WineHQ's Wine as Debian Bookworm's crashes\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXei5gACgkQqzrZiWRy\nv6QvEBAA0vHLc1ypcnibhWnLFyWOPQl86yO2H+i+vxt6Xp1cVMjNzrUMwT3AyI9i\nmMmHi8beb1gfAXOFTOze6v/3iQ+L/n05K/FTC5yhWjtrH+t3xdCKqAQnUjzqtodq\n/xKDRk7mgtZ51ys9xzstIkvwmsNUU1AGVpqwSJioT1+YHqYDTsTYZpUlR+TcFWRA\ncDebaS+kIAZewfjccqZSSua1dN70ZexveJ284Gl0PnZSbcLDXBcBPwL7Uq3rrxE5\noTWi21/ta5jG4jbF5eYQacajht+Hkd9+M/BBoYoPRmbgd7xEcLq8nd/GBrDJPJTx\nEwZA/uVtIJKR2I8X1nKz6HagFsOv0Q5QCE5IU/oLXs4UYg1oaMAbrZeAj5+D2qQv\nTya9JazmIUr3OXUeObTd4Aoop11Cb7KVNH49+c3p5U6LesB00NY8pPm2gBs4XBFh\nd25lrjzV4KqGLO6SXrODBMdWXZGAON70/sRYfdZmE1WJnADEAi5Q9XxQ/vyCja/2\nEziHw0Rz2dsorPKbq54oOyPBvDIHdOMMHgl4y2PJx8iB+YABbs1WCRh77mGH5+vc\nAmwh/rnYh4/01ieJZEVSF80TQaTZXM/X5i2iX8fLrPflaG26s2CGK7auAJ3p9LXp\nkTvcCiEKkodVT24cnbgujUyA6AyJHUg0Hs0Fp6Y4+LMdMeYHgPI=\n=bAQC\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXmKw8ACgkQqzrZiWRy\nv6RKag//ZDsNKYBVe1EZLtMcBeYgQ5TYOM1sR9jgII9wWy122Rg0b7zi9UtbYf4i\ni5xpXhkKwoU6VTJeNE1C2LFAw/eThonjeZ7OYzaYfbtAAEDteFXmrNl9r0Hwmh1I\nXfY5YAxEYylzxGXBmKzXxem0HobKsksiGoGu+ZnJLmmLKzctd5SmrlqxZF/8Lugp\nfZq/+XxDxLKN+hHX6rkqiQEDfAh27vIzciSc9hgqcbj2scL/pJS/yZyO7Q1NaEEb\n3AwjA2aT2GU198HNEBZ4aWRUr0QjA4Gc4x7Xdbxzqp4sEGnvTmTxEOBKNM/m/Yr2\nvLF6VoKvf0AVLM5dNv6luh69Qat84SX7gykFncaiPc39cOsfRYijIYM2uAYEw4JR\nUhcmyBlbB3qm7YeShfxOP1L0DPW7d761akOx3OAf7NmdR4cSn9AyB4idytrN+eH9\nnEpocIV0NeKm+Db8+A52b/Ol+LGq7awVD/kA4S8HBeZ7e5LwN6aMlfAlaNxTMpSC\n0TUCgpjc+p6HoH6tgNIpOcNaNWJL/BMMNlbR4qkrvtPJeS7yGh89mUGJPQ12zwqD\n26f/L3/aKk7UqTiHBOpoMjr+YtDNnG/vGYCig7KvHyCWWSgAYE8rdl+qwLrDO2mR\n6zXVMftidjUXVeXjQ4TTCRcqeGh0cqalDn1PDOIr0zX8vxzh0y0=\n=kYik\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -1773,17 +2473,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/7de48893e660bee19117987a7c60ed7efa22e03a",
-            "node_id": "C_kwDOAKalfdoAKDdkZTQ4ODkzZTY2MGJlZTE5MTE3OTg3YTdjNjBlZDdlZmEyMmUwM2E",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/14de93ccec3bcabb49971640c4408ad7d668cfb1",
+            "node_id": "C_kwDOAKalfdoAKDE0ZGU5M2NjZWMzYmNhYmI0OTk3MTY0MGM0NDA4YWQ3ZDY2OGNmYjE",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/9a29f7697b557f9ec67c2faef4e5ed5364f44479",
-                    "sha": "9a29f7697b557f9ec67c2faef4e5ed5364f44479",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/9a29f7697b557f9ec67c2faef4e5ed5364f44479"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/ed37616249c703e3d8e319b1300aead8e1de22f0",
+                    "sha": "ed37616249c703e3d8e319b1300aead8e1de22f0",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/ed37616249c703e3d8e319b1300aead8e1de22f0"
                 }
             ],
-            "sha": "7de48893e660bee19117987a7c60ed7efa22e03a",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/7de48893e660bee19117987a7c60ed7efa22e03a"
+            "sha": "14de93ccec3bcabb49971640c4408ad7d668cfb1",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/14de93ccec3bcabb49971640c4408ad7d668cfb1"
         },
         {
             "author": {
@@ -1806,7 +2506,7 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/e2fcc5d0d84e06ca6bfed1104be07409b524f83d/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/dfb9a0b02bd16db24cdae2c0af799129cadb1024/comments",
             "commit": {
                 "author": {
                     "date": "2024-02-28T02:13:38Z",
@@ -1815,20 +2515,20 @@
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-28T04:18:14Z",
+                    "date": "2024-03-04T20:18:01Z",
                     "email": "nurupo.contributions@gmail.com",
                     "name": "Maxim Biro"
                 },
                 "message": "fix: Test the current Windows Dockerfile, not an old Dockerhub image\n\nA bit infuriating that when you submit a PR modifying the Windows\ncross-compilation script, the CI *builds* the current image in one job,\nbut then *runs* an older (!) image from Dockerhub in another. So it\ntests that the modified image builds successfully but doesn't test if it\nruns successfully, instead testing if an older image runs successfully /\ntesting if the current toxcore changes run successfully in an older\nimage.\n\nThis should build and run the same image with the current changes.",
                 "tree": {
-                    "sha": "c54d5f9d73ecf510d0641b1a839180b7dd7dbdd5",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/c54d5f9d73ecf510d0641b1a839180b7dd7dbdd5"
+                    "sha": "9c99885483951087e47d6fe620b1a7b1abe5ea30",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/9c99885483951087e47d6fe620b1a7b1abe5ea30"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/e2fcc5d0d84e06ca6bfed1104be07409b524f83d",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/dfb9a0b02bd16db24cdae2c0af799129cadb1024",
                 "verification": {
-                    "payload": "tree c54d5f9d73ecf510d0641b1a839180b7dd7dbdd5\nparent 7de48893e660bee19117987a7c60ed7efa22e03a\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1709086418 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709093894 -0500\n\nfix: Test the current Windows Dockerfile, not an old Dockerhub image\n\nA bit infuriating that when you submit a PR modifying the Windows\ncross-compilation script, the CI *builds* the current image in one job,\nbut then *runs* an older (!) image from Dockerhub in another. So it\ntests that the modified image builds successfully but doesn't test if it\nruns successfully, instead testing if an older image runs successfully /\ntesting if the current toxcore changes run successfully in an older\nimage.\n\nThis should build and run the same image with the current changes.\n",
+                    "payload": "tree 9c99885483951087e47d6fe620b1a7b1abe5ea30\nparent 14de93ccec3bcabb49971640c4408ad7d668cfb1\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1709086418 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709583481 -0500\n\nfix: Test the current Windows Dockerfile, not an old Dockerhub image\n\nA bit infuriating that when you submit a PR modifying the Windows\ncross-compilation script, the CI *builds* the current image in one job,\nbut then *runs* an older (!) image from Dockerhub in another. So it\ntests that the modified image builds successfully but doesn't test if it\nruns successfully, instead testing if an older image runs successfully /\ntesting if the current toxcore changes run successfully in an older\nimage.\n\nThis should build and run the same image with the current changes.\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXetAYACgkQqzrZiWRy\nv6TFzA//U1DR848nOGGI2N3szAxgIsi7h5T+023JDs6BfsGl4AtuBDmu3VG/6rCx\noitV5pR4qvU22SilsUOuYAt/Qg0qc3q3SUI0tVMaO9MKe7cMVc0kbDy4RkrGAFN9\nWK+mTo2xtdk8BUPC5f2VMlIy28Y1iMRxiCLbdPI+RvIujdnc/sEJaVjXRX3R16xR\nY0LEeUl92BMTC1KjuHEmcmIMeCoGwF0vI0lK/zSQ9pOgXf5p2C08/J5p3xjce40F\nvLGAXeUmcQMcWDnkyHh3cUV5jl1Gy4hem5pFxA7wKMt/GtKL2ZrhOoZk2tDTHp1k\nfbFy4KUjXZpHCPfWUBdXA30Tb0zWyk/iy2OKBSHRz9WH/PCHY9wZB+/zA4EK0b09\nkEcNMw+DlQh9iCDBaFLWXw66nXd6wOBeTW3e0aLPkVgjy4a2Uj2H7B8dVqSgeON3\n3i/S89r9iYVD6rJHO6hPN7VVuq9HPQMWxvGLEedzFHZx90otH74FDmzhmM7Zst8V\nRY1KZT1IXdv8+OPxXZPgk6esV6LO22jiU5DR2UCWlgNNS7zsha6aM7Ys2At9A4d+\nhEXNxqf9th5p3VtVo5zij7zbBfjA804O2KECjm1GJfG8oSccVWP5bxWZaYDDArPT\nugX1EO/mh7TP4f0ocU4JVveUUz0cy23/FyenJ/UZVqYACRIB37s=\n=YKBl\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXmLHkACgkQqzrZiWRy\nv6QkTRAAq2TSD+j1cfE5U/awtz7LevTfASp5Ej87/3wbPxIK3mM6zgif7+EbC3kz\n1bTfEb3QeHS+eAZUpOpfROuOvcU1A2tPOwD16mbhqUv8Dlp6rDtFgQPbLxF9GhpH\nRbqMtsZ4zSPQaeXzs3Z3a2yLnU9/mztrPv9zr5Qcb0QalDz5Lstczm9DfE6R6LKm\nXnrucSZbl+eTWrXpleMQGXEU4c0Y9PCw8xMIoW54AOnSMu91KCnEdCoIM7Y7RH35\n5kgmxEJbedxWm+l0mYOH6Zuku8puVc9DMaLIDwfRwMzKa6+AlwmD1hpNbG/KSd/L\nDdhxVUXuOph01fn2WCtx7NjRgoqsKCAOedAMOLpUiJFjOw1XMmkxfKarplNglR5+\nr0n0hksBY3RfCDMBSTmq3BhbI5JTQxoIu6FtMUuoh8T1LZ19gOGeVCMbBMObEE1Z\nmdNc487plw1MD5s/J04G6Blm5zcfv0QbShpEpdqGDSNiouswJ/TgCZDQ5G/1RVpi\nlCOq0OU/MV1Epn+Y0SwYs9qdJLQQiDSCsc/Sl8d5m/ghinpi+H0XpenfI/RCllXt\n7RjWax0NhvXpzw/fUA2OZdexeXdELonnLNIs/+DGYJFtUKXvTa1y1alnhnPfQFcv\n9lSqpjNF21IAbJNfgxHN5gcXqIrYYW6DpkMZAMnmTZk2ecVtc7A=\n=/roJ\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -1852,17 +2552,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/e2fcc5d0d84e06ca6bfed1104be07409b524f83d",
-            "node_id": "C_kwDOAKalfdoAKGUyZmNjNWQwZDg0ZTA2Y2E2YmZlZDExMDRiZTA3NDA5YjUyNGY4M2Q",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/dfb9a0b02bd16db24cdae2c0af799129cadb1024",
+            "node_id": "C_kwDOAKalfdoAKGRmYjlhMGIwMmJkMTZkYjI0Y2RhZTJjMGFmNzk5MTI5Y2FkYjEwMjQ",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/7de48893e660bee19117987a7c60ed7efa22e03a",
-                    "sha": "7de48893e660bee19117987a7c60ed7efa22e03a",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/7de48893e660bee19117987a7c60ed7efa22e03a"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/14de93ccec3bcabb49971640c4408ad7d668cfb1",
+                    "sha": "14de93ccec3bcabb49971640c4408ad7d668cfb1",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/14de93ccec3bcabb49971640c4408ad7d668cfb1"
                 }
             ],
-            "sha": "e2fcc5d0d84e06ca6bfed1104be07409b524f83d",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/e2fcc5d0d84e06ca6bfed1104be07409b524f83d"
+            "sha": "dfb9a0b02bd16db24cdae2c0af799129cadb1024",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/dfb9a0b02bd16db24cdae2c0af799129cadb1024"
         },
         {
             "author": {
@@ -1885,7 +2585,7 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/e4ce59bedde863b431863ce8bb5fd5cbda07662e/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/e742deddfff13485d2ac3456c26802dc5ac0d2e7/comments",
             "commit": {
                 "author": {
                     "date": "2024-02-28T06:59:19Z",
@@ -1894,20 +2594,20 @@
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-28T09:51:53Z",
+                    "date": "2024-03-04T20:18:03Z",
                     "email": "nurupo.contributions@gmail.com",
                     "name": "Maxim Biro"
                 },
                 "message": "feat: Check hashes of Windows dependencies when cross-compiling\n\nIt's a disableable option since we allow the user to change versions of\ndependencies and we obviously have hashes only for the default versions,\nwe are not able to verify hashes of any other version, so it might be\nhandy to be able to disable the check in that case.",
                 "tree": {
-                    "sha": "ab74c8c8a84929efc091ff6713ca535fce759f37",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/ab74c8c8a84929efc091ff6713ca535fce759f37"
+                    "sha": "03193db5ab1542b26982cc4ed549ba8dd28b4edd",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/03193db5ab1542b26982cc4ed549ba8dd28b4edd"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/e4ce59bedde863b431863ce8bb5fd5cbda07662e",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/e742deddfff13485d2ac3456c26802dc5ac0d2e7",
                 "verification": {
-                    "payload": "tree ab74c8c8a84929efc091ff6713ca535fce759f37\nparent e2fcc5d0d84e06ca6bfed1104be07409b524f83d\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1709103559 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709113913 -0500\n\nfeat: Check hashes of Windows dependencies when cross-compiling\n\nIt's a disableable option since we allow the user to change versions of\ndependencies and we obviously have hashes only for the default versions,\nwe are not able to verify hashes of any other version, so it might be\nhandy to be able to disable the check in that case.\n",
+                    "payload": "tree 03193db5ab1542b26982cc4ed549ba8dd28b4edd\nparent dfb9a0b02bd16db24cdae2c0af799129cadb1024\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1709103559 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709583483 -0500\n\nfeat: Check hashes of Windows dependencies when cross-compiling\n\nIt's a disableable option since we allow the user to change versions of\ndependencies and we obviously have hashes only for the default versions,\nwe are not able to verify hashes of any other version, so it might be\nhandy to be able to disable the check in that case.\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXfAjkACgkQqzrZiWRy\nv6TmgA//eh5/jwFxQDSkIAqyubyUhu87n+3otg9kXo/pol0tQxcrCINN7U2J7169\nrlyS4D0YbQKUX2PzhMaK/dn3cbAxLQb+FOK40yBBjjro4KRTKpyZzuOwW/5AXuvt\nI7+SGVbp4+8mIqg4B83Ph767rH4tZVQllXvXdSpgg/LshgJxmWTtNNLnpZ++8GdO\nDgQYz2rmetjHn4/itYJ6LRi9z6Ws3EBjUSkgPEjF/4LpPYKNPY8EL46jRXXp+Tux\nIPqayzwZdjU4bufxfhrNVHKw5UiSkFxpfmmGY2fndNNDBsQTv7K3o5H974dGQP1y\nJwFI7HN+o8ERLByalXeZbuXkMYpDoLarY4IWDyw8ebhxqByBchXXESWsJc7qusfY\nuAkTVbLqDyhc5uILk+FaQHLnL71aOMLHHrtgTTdklX+mtrUBb4s5ZnF/4qkcklL9\nmcT/vRE/vf3mK44tJaLiSE31GByWodc1uvWt59bkHBBixIO7xeim9J1H/HZY9JY2\nnVaC4lqvn5BUgZ2VmOipwlI5VjXXg9glI/+M6N5xv3Yu5EfH/FwLhZKYdCqBDene\nvQb77g3HH5AdsnFB0DKzPqcLtJL/w7pqpNY+JkS/ZV0AkHi4QozUU005BzMyuT9Y\nV46F0DF5/o2OSA0Mxs9nh8CanJUDcUCHncm8nj0fdJGQZmjyDT8=\n=3OOL\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXmLHsACgkQqzrZiWRy\nv6S0Ew/+MlkV9jWLlNQU9EUE6A5LMjsV9pXXHm4xNZAT0Y3P14ClbjDMQDYwkYiu\nSZpwunU/pWQOK4QrSQ7+Mnf9T2Hv3KNPl96E24iegBvQb8H8UYia8bUu04OC8ir7\nRrFq1rvgWUy7050sqW5IC2nJpdHXD7fua/xwMv26Z1VQvHEwoO0qktdStNu3Cib+\nkeqAMv7HHDaqhqGTnA3k5wzcCTVei7rctDEDOkbLhsHjkVO8ThvTBdOgwOYONe1R\nBuWEPHbxp3b92GOGGV8NwVmN782eZ4CKCdLNfcUCxWDm+nDHr9AXUEoyeOnS4m5s\npNWJ8z6fYm5569AT9dnH/hqz+rQP/OgnLnXgtIi7kJjLAyaBWUxrJ8HJjqnqO/op\nQP7gM4Phe688kf7+oBqge8kNmT1cJTaO813DFCoKr3z6REulPZmmlxKW5xS3V8XG\nqdvYgABFujYfGvWZ8FDVnvxc3J+H5uqr1U1SvI++ACXq/NLJpO/kmL97gPuK7Y2j\nwE/LYOamANd95QekbDsxE8382TMA355hz146GXQJ21kxVX8kPnhRLwI+7/AhNkOb\nP+UrxrC7wCqZ5rBkT51lvxo1uF5S6vZqbLhmWGLEiWNFy6iuYQ5NyDdrvOh3SOSi\niOdkPZCVXHHTXUgLStZzeyLyzaqQNfHArwD7ZsUcu03Eif18N5U=\n=QP5/\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -1931,17 +2631,17 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/e4ce59bedde863b431863ce8bb5fd5cbda07662e",
-            "node_id": "C_kwDOAKalfdoAKGU0Y2U1OWJlZGRlODYzYjQzMTg2M2NlOGJiNWZkNWNiZGEwNzY2MmU",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/e742deddfff13485d2ac3456c26802dc5ac0d2e7",
+            "node_id": "C_kwDOAKalfdoAKGU3NDJkZWRkZmZmMTM0ODVkMmFjMzQ1NmMyNjgwMmRjNWFjMGQyZTc",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/e2fcc5d0d84e06ca6bfed1104be07409b524f83d",
-                    "sha": "e2fcc5d0d84e06ca6bfed1104be07409b524f83d",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/e2fcc5d0d84e06ca6bfed1104be07409b524f83d"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/dfb9a0b02bd16db24cdae2c0af799129cadb1024",
+                    "sha": "dfb9a0b02bd16db24cdae2c0af799129cadb1024",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/dfb9a0b02bd16db24cdae2c0af799129cadb1024"
                 }
             ],
-            "sha": "e4ce59bedde863b431863ce8bb5fd5cbda07662e",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/e4ce59bedde863b431863ce8bb5fd5cbda07662e"
+            "sha": "e742deddfff13485d2ac3456c26802dc5ac0d2e7",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/e742deddfff13485d2ac3456c26802dc5ac0d2e7"
         },
         {
             "author": {
@@ -1964,29 +2664,29 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/a14aa0ffbae680c8ae7356b974074a694028191b/comments",
+            "comments_url": "https://api.github.com/repos/TokTok/c-toxcore/commits/b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d/comments",
             "commit": {
                 "author": {
-                    "date": "2024-02-28T08:28:59Z",
+                    "date": "2024-03-05T00:24:15Z",
                     "email": "nurupo.contributions@gmail.com",
                     "name": "Maxim Biro"
                 },
                 "comment_count": 0,
                 "committer": {
-                    "date": "2024-02-28T10:07:08Z",
+                    "date": "2024-03-05T00:26:37Z",
                     "email": "nurupo.contributions@gmail.com",
                     "name": "Maxim Biro"
                 },
-                "message": "chore: Prevent restyled from restyling workflows, which it can't",
+                "message": "fix: Disable IPv6 in Windows cross-compilation tests\n\nDocker doesn't have an IPv6 network by default, so these tests were\nfailing when using IPv6.",
                 "tree": {
-                    "sha": "63f253777d33c2a51a7111b1a97eb4cb70503cb2",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/63f253777d33c2a51a7111b1a97eb4cb70503cb2"
+                    "sha": "42b1da4592c601b4b80077faebb8875fbae12b1d",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/git/trees/42b1da4592c601b4b80077faebb8875fbae12b1d"
                 },
-                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/a14aa0ffbae680c8ae7356b974074a694028191b",
+                "url": "https://api.github.com/repos/TokTok/c-toxcore/git/commits/b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
                 "verification": {
-                    "payload": "tree 63f253777d33c2a51a7111b1a97eb4cb70503cb2\nparent e4ce59bedde863b431863ce8bb5fd5cbda07662e\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1709108939 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709114828 -0500\n\nchore: Prevent restyled from restyling workflows, which it can't\n",
+                    "payload": "tree 42b1da4592c601b4b80077faebb8875fbae12b1d\nparent e742deddfff13485d2ac3456c26802dc5ac0d2e7\nauthor Maxim Biro <nurupo.contributions@gmail.com> 1709598255 -0500\ncommitter Maxim Biro <nurupo.contributions@gmail.com> 1709598397 -0500\n\nfix: Disable IPv6 in Windows cross-compilation tests\n\nDocker doesn't have an IPv6 network by default, so these tests were\nfailing when using IPv6.\n",
                     "reason": "valid",
-                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXfBdMACgkQqzrZiWRy\nv6TRrw//Sa7ei4SwpWbAFPr5BJ0p6rjLiO79tAxAsPjgMCHEHQakPy7k7Fj/rSnJ\niVtrt8hF+s4oC+yCirqpDDGv8TmjXrzU3449flMQg9km5Q+IKCWs1ktCxGQRTwtm\n73Rj6Eaz6g0WiIbxqMA3iRUIhubwKhIwt1RmLHVoyEN4kyqHKb0D0QIrf7W7eNfp\n6ZF8Meen4vw3oOEi2Zy6t8Sf3plK2HaZxdXSYMwk+DvBf1J7xogpFKe2MC3xAxTV\nuQlzKSk/t7g0MP+5RsGXGOV3c64DFZB2ktJio3WH5svutDswOyjk1iZLK7Od1xlY\nXDYPJVA6PTWGDzAuL5mbSPWHcH03LVZlohZW9iltUMo+WUxeo4b60Vujj5drXVxy\nt47CF1XOPGVuQ2PHO0ZjJYXxE1BkxOpFABv3InPUXu4VGI1OyzQVCJLAu9pN7PIS\nOM6u2KNwV50TqUOlYWwfi9PXPlZaPDG2Bd02ujctRoxxRbhlRiQyVwn6FUjqPwb1\n7kZBJd4A17TIfqna9AjHmU56hGA/BORmneyYa24Ms+VRNMmqMtSZ+3ebNjVW4nSy\nyBRJNd9wSHjN2dVu2DazCoExuzU4XOFNvisE/IFQO5wDYzPC18DXVoBpSwvSR+Nq\nwICpvk4EcNVXR1hVE21ocu9UZuIzOZhxTZ7vkfPWtSYlnhCpIHA=\n=2Gnp\n-----END PGP SIGNATURE-----",
+                    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEUsRc1iyynE7W95nAqzrZiWRyv6QFAmXmZr0ACgkQqzrZiWRy\nv6SkjRAAvenkiUVu0Eugvf63g5kXxgRRF4sexMttHt4nwGY4ZoWicf92jD/D+wUN\nNvb5OJBaDJYF21+hlkuR8aw6J7O0O85mnA2DvrIbtg1ourB5ivLtojo6JhrZavlk\nc+7Gzy1E9fI5xnNXLQqM2Uz855FAoskVbRm+hKywJIboSFTh85woTCqZyJ6gisVZ\nLw4qKEzye5bHGeWyESUjZvBHRuToWgE+4ZjTSRHH7+j9izKPUqnfjMvHeOEme3N4\nY7Wn/8CWBAB5MTWFr3Qdf5d/u2owIbBtMbP8i+O3G9R7W6SRRIHM7p11I7w/VpwN\neCAzAmQX9/HuOmKg6A20nkLXFykg70RJ3K29hyhYfOkPVU6PAsROGYgonXFi2rpP\nP8F5CbLMHqI6/us7gjfLtFM3suZklGRuOd3sdkJhtZBgY6kl8guSOW/JAtA4iC8B\nlchfLlWE08ErFORe7ay4iZLcTB5vgnB2HppRpulV6Yv29mWqM2YdgUIXHEX9gwU9\nLVqvPAzLCxwZVLCNxr4MXL02lfI3RHsIonoFvHOhxLF76fysJu6tV1XS5dAA9HXS\n0luX+xU1w7NkSUCJqNsjAAY03I10QrphYmNANFO6B5sdfQMZ7aSSRu7RspR6Fu+P\n5Xq2Ed2UvWhM/WvLuUrETTWcajUrqATyItlyo/9ziEwk8Tvbe3I=\n=ko18\n-----END PGP SIGNATURE-----",
                     "verified": true
                 }
             },
@@ -2010,23 +2710,23 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nurupo"
             },
-            "html_url": "https://github.com/TokTok/c-toxcore/commit/a14aa0ffbae680c8ae7356b974074a694028191b",
-            "node_id": "C_kwDOAKalfdoAKGExNGFhMGZmYmFlNjgwYzhhZTczNTZiOTc0MDc0YTY5NDAyODE5MWI",
+            "html_url": "https://github.com/TokTok/c-toxcore/commit/b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
+            "node_id": "C_kwDOAKalfdoAKGIzYzNjNDlkMjZjMGNmMmI5MWI5ZWM2OWY5YTNmOTMyYWI5ZjJkNmQ",
             "parents": [
                 {
-                    "html_url": "https://github.com/TokTok/c-toxcore/commit/e4ce59bedde863b431863ce8bb5fd5cbda07662e",
-                    "sha": "e4ce59bedde863b431863ce8bb5fd5cbda07662e",
-                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/e4ce59bedde863b431863ce8bb5fd5cbda07662e"
+                    "html_url": "https://github.com/TokTok/c-toxcore/commit/e742deddfff13485d2ac3456c26802dc5ac0d2e7",
+                    "sha": "e742deddfff13485d2ac3456c26802dc5ac0d2e7",
+                    "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/e742deddfff13485d2ac3456c26802dc5ac0d2e7"
                 }
             ],
-            "sha": "a14aa0ffbae680c8ae7356b974074a694028191b",
-            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/a14aa0ffbae680c8ae7356b974074a694028191b"
+            "sha": "b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
+            "url": "https://api.github.com/repos/TokTok/c-toxcore/commits/b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d"
         }
     ],
     "commits_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713/commits",
     "created_at": "2024-02-26T18:03:32Z",
     "diff_url": "https://github.com/TokTok/c-toxcore/pull/2713.diff",
-    "draft": true,
+    "draft": false,
     "head": {
         "label": "nurupo:update-windows-cross-compilation",
         "ref": "update-windows-cross-compilation",
@@ -2115,9 +2815,9 @@
             },
             "private": false,
             "pulls_url": "https://api.github.com/repos/nurupo/InsertProjectNameHere/pulls{/number}",
-            "pushed_at": "2024-02-28T10:07:27Z",
+            "pushed_at": "2024-03-17T15:22:51Z",
             "releases_url": "https://api.github.com/repos/nurupo/InsertProjectNameHere/releases{/id}",
-            "size": 18273,
+            "size": 18441,
             "ssh_url": "git@github.com:nurupo/InsertProjectNameHere.git",
             "stargazers_count": 0,
             "stargazers_url": "https://api.github.com/repos/nurupo/InsertProjectNameHere/stargazers",
@@ -2136,7 +2836,7 @@
             "watchers_count": 0,
             "web_commit_signoff_required": false
         },
-        "sha": "a14aa0ffbae680c8ae7356b974074a694028191b",
+        "sha": "b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
         "user": {
             "avatar_url": "https://avatars.githubusercontent.com/u/1855294?v=4",
             "events_url": "https://api.github.com/users/nurupo/events{/privacy}",
@@ -2163,11 +2863,11 @@
     "issue_url": "https://api.github.com/repos/TokTok/c-toxcore/issues/2713",
     "labels": [],
     "locked": false,
-    "merge_commit_sha": "01586da55802f3731ea5f54487a6beb5bfc48864",
-    "merged_at": null,
+    "merge_commit_sha": "b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
+    "merged_at": "2024-03-05T01:01:10Z",
     "milestone": {
         "closed_at": null,
-        "closed_issues": 263,
+        "closed_issues": 277,
         "created_at": "2022-02-28T22:51:30Z",
         "creator": {
             "avatar_url": "https://avatars.githubusercontent.com/u/10647936?v=4",
@@ -2196,10 +2896,10 @@
         "labels_url": "https://api.github.com/repos/TokTok/c-toxcore/milestones/48/labels",
         "node_id": "MI_kwDOA7zIGs4AddcF",
         "number": 48,
-        "open_issues": 4,
+        "open_issues": 6,
         "state": "open",
         "title": "v0.2.19",
-        "updated_at": "2024-02-26T18:03:32Z",
+        "updated_at": "2024-03-17T16:53:51Z",
         "url": "https://api.github.com/repos/TokTok/c-toxcore/milestones/48"
     },
     "node_id": "PR_kwDOA7zIGs5n8sm0",
@@ -2209,10 +2909,10 @@
     "requested_teams": [],
     "review_comment_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/comments{/number}",
     "review_comments_url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713/comments",
-    "state": "open",
-    "statuses_url": "https://api.github.com/repos/TokTok/c-toxcore/statuses/a14aa0ffbae680c8ae7356b974074a694028191b",
+    "state": "closed",
+    "statuses_url": "https://api.github.com/repos/TokTok/c-toxcore/statuses/b3c3c49d26c0cf2b91b9ec69f9a3f932ab9f2d6d",
     "title": "feat: Update and improve the Windows cross-compilation",
-    "updated_at": "2024-02-28T10:15:32Z",
+    "updated_at": "2024-03-05T01:01:10Z",
     "url": "https://api.github.com/repos/TokTok/c-toxcore/pulls/2713",
     "user": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1855294?v=4",

@@ -14,9 +14,9 @@
         ],
         "id": 11438054,
         "last_response": {
-            "code": 200,
-            "message": "OK",
-            "status": "active"
+            "code": null,
+            "message": null,
+            "status": "unused"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/website/hooks/11438054/pings",
@@ -39,9 +39,9 @@
         ],
         "id": 11438071,
         "last_response": {
-            "code": 204,
-            "message": "OK",
-            "status": "active"
+            "code": null,
+            "message": null,
+            "status": "unused"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/website/hooks/11438071/pings",
@@ -71,9 +71,9 @@
         ],
         "id": 79233733,
         "last_response": {
-            "code": 503,
-            "message": "Invalid HTTP Response: 503",
-            "status": "external_service_offline"
+            "code": null,
+            "message": null,
+            "status": "unused"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/website/hooks/79233733/pings",
@@ -97,9 +97,9 @@
         ],
         "id": 195469282,
         "last_response": {
-            "code": 200,
-            "message": "OK",
-            "status": "active"
+            "code": null,
+            "message": null,
+            "status": "unused"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/website/hooks/195469282/pings",
@@ -123,9 +123,9 @@
         ],
         "id": 331333983,
         "last_response": {
-            "code": 404,
-            "message": "Invalid HTTP Response: 404",
-            "status": "missing"
+            "code": null,
+            "message": null,
+            "status": "unused"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/website/hooks/331333983/pings",

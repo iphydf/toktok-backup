@@ -14,9 +14,9 @@
         ],
         "id": 462104260,
         "last_response": {
-            "code": 200,
-            "message": "OK",
-            "status": "active"
+            "code": null,
+            "message": null,
+            "status": "unused"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/aTox/hooks/462104260/pings",

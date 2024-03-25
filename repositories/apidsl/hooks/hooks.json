@@ -14,9 +14,9 @@
         ],
         "id": 11309139,
         "last_response": {
-            "code": null,
-            "message": null,
-            "status": "unused"
+            "code": 200,
+            "message": "OK",
+            "status": "active"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/apidsl/hooks/11309139/pings",

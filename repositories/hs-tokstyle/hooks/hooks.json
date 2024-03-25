@@ -14,9 +14,9 @@
         ],
         "id": 11309079,
         "last_response": {
-            "code": null,
-            "message": null,
-            "status": "unused"
+            "code": 200,
+            "message": "OK",
+            "status": "active"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/hs-tokstyle/hooks/11309079/pings",
@@ -72,9 +72,9 @@
         ],
         "id": 193392006,
         "last_response": {
-            "code": null,
-            "message": null,
-            "status": "unused"
+            "code": 404,
+            "message": "Invalid HTTP Response: 404",
+            "status": "missing"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/hs-tokstyle/hooks/193392006/pings",

@@ -56,9 +56,9 @@
         ],
         "id": 44555390,
         "last_response": {
-            "code": 200,
-            "message": "OK",
-            "status": "active"
+            "code": null,
+            "message": null,
+            "status": "unused"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/44555390/pings",
@@ -88,9 +88,9 @@
         ],
         "id": 77156643,
         "last_response": {
-            "code": 503,
-            "message": "Invalid HTTP Response: 503",
-            "status": "external_service_offline"
+            "code": null,
+            "message": null,
+            "status": "unused"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/77156643/pings",
@@ -114,9 +114,9 @@
         ],
         "id": 90391406,
         "last_response": {
-            "code": 404,
-            "message": "Invalid HTTP Response: 404",
-            "status": "missing"
+            "code": null,
+            "message": null,
+            "status": "unused"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/90391406/pings",
@@ -140,9 +140,9 @@
         ],
         "id": 195469276,
         "last_response": {
-            "code": 200,
-            "message": "OK",
-            "status": "active"
+            "code": null,
+            "message": null,
+            "status": "unused"
         },
         "name": "web",
         "ping_url": "https://api.github.com/repos/TokTok/py-toxcore-c/hooks/195469276/pings",
